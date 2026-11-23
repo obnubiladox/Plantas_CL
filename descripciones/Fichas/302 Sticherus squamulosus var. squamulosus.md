@@ -1,0 +1,1 @@
+# Sticherus squamulosus var. squamulosus

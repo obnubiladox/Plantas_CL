@@ -1,0 +1,64 @@
+# Rosaceae
+
+[← Índice](../INDICE.md) · 0 de 60 especies con descripción.
+
+- ⬜ [Acaena alpina](../Fichas/5115%20Acaena%20alpina.md) · 5115
+- ⬜ [Acaena antarctica](../Fichas/5116%20Acaena%20antarctica.md) · 5116
+- ⬜ [Acaena argentea](../Fichas/5117%20Acaena%20argentea.md) · 5117
+- ⬜ [Acaena caespitosa](../Fichas/5118%20Acaena%20caespitosa.md) · 5118
+- ⬜ [Acaena integerrima](../Fichas/5119%20Acaena%20integerrima.md) · 5119
+- ⬜ [Acaena leptacantha](../Fichas/5120%20Acaena%20leptacantha.md) · 5120
+- ⬜ [Acaena lucida](../Fichas/5121%20Acaena%20lucida.md) · 5121
+- ⬜ [Acaena macrocephala](../Fichas/5122%20Acaena%20macrocephala.md) · 5122
+- ⬜ [Acaena magellanica](../Fichas/5123%20Acaena%20magellanica.md) · 5123
+- ⬜ [Acaena masafuerana](../Fichas/5124%20Acaena%20masafuerana.md) · 5124
+- ⬜ [Acaena ovalifolia](../Fichas/5125%20Acaena%20ovalifolia.md) · 5125
+- ⬜ [Acaena patagonica](../Fichas/5126%20Acaena%20patagonica.md) · 5126
+- ⬜ [Acaena pinnatifida](../Fichas/5127%20Acaena%20pinnatifida.md) · 5127
+- ⬜ [Acaena platyacantha](../Fichas/5128%20Acaena%20platyacantha.md) · 5128
+- ⬜ [Acaena poeppigiana](../Fichas/5129%20Acaena%20poeppigiana.md) · 5129
+- ⬜ [Acaena pumila](../Fichas/5130%20Acaena%20pumila.md) · 5130
+- ⬜ [Acaena sericea](../Fichas/5131%20Acaena%20sericea.md) · 5131
+- ⬜ [Acaena splendens](../Fichas/5132%20Acaena%20splendens.md) · 5132
+- ⬜ [Acaena tenera](../Fichas/5133%20Acaena%20tenera.md) · 5133
+- ⬜ [Acaena trifida var. glabrescens](../Fichas/5134%20Acaena%20trifida%20var.%20glabrescens.md) · 5134
+- ⬜ [Acaena trifida var. trifida](../Fichas/5135%20Acaena%20trifida%20var.%20trifida.md) · 5135
+- ⬜ [Aphanes arvensis](../Fichas/5136%20Aphanes%20arvensis.md) · 5136
+- ⬜ [Aphanes berteroana](../Fichas/5137%20Aphanes%20berteroana.md) · 5137
+- ⬜ [Aphanes berteroana](../Fichas/5138%20Aphanes%20berteroana.md) · 5138
+- ⬜ [Aphanes looseri](../Fichas/5139%20Aphanes%20looseri.md) · 5139
+- ⬜ [Aphanes neglecta](../Fichas/5140%20Aphanes%20neglecta.md) · 5140
+- ⬜ [Cotoneaster franchetii](../Fichas/5141%20Cotoneaster%20franchetii.md) · 5141
+- ⬜ [Crataegus monogyna](../Fichas/5142%20Crataegus%20monogyna.md) · 5142
+- ⬜ [Duchesnea indica](../Fichas/5143%20Duchesnea%20indica.md) · 5143
+- ⬜ [Fragaria chiloensis](../Fichas/5144%20Fragaria%20chiloensis.md) · 5144
+- ⬜ [Geum andicola](../Fichas/5145%20Geum%20andicola.md) · 5145
+- ⬜ [Geum involucratum](../Fichas/5146%20Geum%20involucratum.md) · 5146
+- ⬜ [Geum lechlerianum](../Fichas/5147%20Geum%20lechlerianum.md) · 5147
+- ⬜ [Geum magellanicum](../Fichas/5148%20Geum%20magellanicum.md) · 5148
+- ⬜ [Geum quellyon](../Fichas/5149%20Geum%20quellyon.md) · 5149
+- ⬜ [Kageneckia angustifolia](../Fichas/5150%20Kageneckia%20angustifolia.md) · 5150
+- ⬜ [Kageneckia oblonga](../Fichas/5151%20Kageneckia%20oblonga.md) · 5151
+- ⬜ [Lachemilla diplophylla](../Fichas/5152%20Lachemilla%20diplophylla.md) · 5152
+- ⬜ [Lachemilla pinnata](../Fichas/5153%20Lachemilla%20pinnata.md) · 5153
+- ⬜ [Lachemilla sandiensis](../Fichas/5154%20Lachemilla%20sandiensis.md) · 5154
+- ⬜ [Margyracaena skottsbergii](../Fichas/5155%20Margyracaena%20skottsbergii.md) · 5155
+- ⬜ [Margyricarpus digynus](../Fichas/5156%20Margyricarpus%20digynus.md) · 5156
+- ⬜ [Margyricarpus pinnatus](../Fichas/5157%20Margyricarpus%20pinnatus.md) · 5157
+- ⬜ [Polylepis rugulosa](../Fichas/5158%20Polylepis%20rugulosa.md) · 5158
+- ⬜ [Polylepis tarapacana](../Fichas/5159%20Polylepis%20tarapacana.md) · 5159
+- ⬜ [Potentilla anglica](../Fichas/5753%20Potentilla%20anglica.md) · 5753
+- ⬜ [Potentilla anserina](../Fichas/5160%20Potentilla%20anserina.md) · 5160
+- ⬜ [Potentilla reptans](../Fichas/5161%20Potentilla%20reptans.md) · 5161
+- ⬜ [Prunus cerasus](../Fichas/5162%20Prunus%20cerasus.md) · 5162
+- ⬜ [Rosa canina](../Fichas/5163%20Rosa%20canina.md) · 5163
+- ⬜ [Rosa rubiginosa](../Fichas/5164%20Rosa%20rubiginosa.md) · 5164
+- ⬜ [Rubus constrictus](../Fichas/5165%20Rubus%20constrictus.md) · 5165
+- ⬜ [Rubus geoides](../Fichas/5166%20Rubus%20geoides.md) · 5166
+- ⬜ [Rubus praecox](../Fichas/5167%20Rubus%20praecox.md) · 5167
+- ⬜ [Rubus radicans](../Fichas/5168%20Rubus%20radicans.md) · 5168
+- ⬜ [Rubus ulmifolius](../Fichas/5169%20Rubus%20ulmifolius.md) · 5169
+- ⬜ [Sanguisorba minor](../Fichas/5170%20Sanguisorba%20minor.md) · 5170
+- ⬜ [Tetraglochin acanthocarpum](../Fichas/5171%20Tetraglochin%20acanthocarpum.md) · 5171
+- ⬜ [Tetraglochin alata](../Fichas/5172%20Tetraglochin%20alata.md) · 5172
+- ⬜ [Tetraglochin cristatum](../Fichas/5173%20Tetraglochin%20cristatum.md) · 5173

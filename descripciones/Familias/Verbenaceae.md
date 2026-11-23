@@ -1,0 +1,72 @@
+# Verbenaceae
+
+[← Índice](../INDICE.md) · 0 de 68 especies con descripción.
+
+- ⬜ [Aloysia deserticola](../Fichas/5515%20Aloysia%20deserticola.md) · 5515
+- ⬜ [Aloysia gratissima](../Fichas/5516%20Aloysia%20gratissima.md) · 5516
+- ⬜ [Aloysia salviifolia](../Fichas/5517%20Aloysia%20salviifolia.md) · 5517
+- ⬜ [Aloysia tarapacana](../Fichas/5518%20Aloysia%20tarapacana.md) · 5518
+- ⬜ [Aloysia trifida](../Fichas/5519%20Aloysia%20trifida.md) · 5519
+- ⬜ [Diostea juncea](../Fichas/5520%20Diostea%20juncea.md) · 5520
+- ⬜ [Glandularia araucana](../Fichas/5521%20Glandularia%20araucana.md) · 5521
+- ⬜ [Glandularia atacamensis](../Fichas/5522%20Glandularia%20atacamensis.md) · 5522
+- ⬜ [Glandularia berteroi](../Fichas/5523%20Glandularia%20berteroi.md) · 5523
+- ⬜ [Glandularia corymbosa](../Fichas/5524%20Glandularia%20corymbosa.md) · 5524
+- ⬜ [Glandularia gynobasis](../Fichas/5525%20Glandularia%20gynobasis.md) · 5525
+- ⬜ [Glandularia laciniata](../Fichas/5526%20Glandularia%20laciniata.md) · 5526
+- ⬜ [Glandularia landbeckii](../Fichas/5527%20Glandularia%20landbeckii.md) · 5527
+- ⬜ [Glandularia lipozygioides](../Fichas/5528%20Glandularia%20lipozygioides.md) · 5528
+- ⬜ [Glandularia macrosperma](../Fichas/5529%20Glandularia%20macrosperma.md) · 5529
+- ⬜ [Glandularia multiglandulosa](../Fichas/5530%20Glandularia%20multiglandulosa.md) · 5530
+- ⬜ [Glandularia porrigens](../Fichas/5531%20Glandularia%20porrigens.md) · 5531
+- ⬜ [Glandularia ribifolia](../Fichas/5532%20Glandularia%20ribifolia.md) · 5532
+- ⬜ [Glandularia sulphurea](../Fichas/5534%20Glandularia%20sulphurea.md) · 5534
+- ⬜ [Junellia aretioides](../Fichas/5535%20Junellia%20aretioides.md) · 5535
+- ⬜ [Junellia bryoides](../Fichas/5536%20Junellia%20bryoides.md) · 5536
+- ⬜ [Junellia caespitosa](../Fichas/5537%20Junellia%20caespitosa.md) · 5537
+- ⬜ [Junellia crithmifolia](../Fichas/5538%20Junellia%20crithmifolia.md) · 5538
+- ⬜ [Junellia digitata var. digitata](../Fichas/5539%20Junellia%20digitata%20var.%20digitata.md) · 5539
+- ⬜ [Junellia digitata var. integerrima](../Fichas/5540%20Junellia%20digitata%20var.%20integerrima.md) · 5540
+- ⬜ [Junellia juniperina](../Fichas/5541%20Junellia%20juniperina.md) · 5541
+- ⬜ [Junellia lavandulifolia](../Fichas/5542%20Junellia%20lavandulifolia.md) · 5542
+- ⬜ [Junellia micrantha](../Fichas/5543%20Junellia%20micrantha.md) · 5543
+- ⬜ [Junellia minima](../Fichas/5544%20Junellia%20minima.md) · 5544
+- ⬜ [Junellia odonellii](../Fichas/5545%20Junellia%20odonellii.md) · 5545
+- ⬜ [Junellia origenes](../Fichas/5546%20Junellia%20origenes.md) · 5546
+- ⬜ [Junellia pappigera](../Fichas/5547%20Junellia%20pappigera.md) · 5547
+- ⬜ [Junellia pseudojuncea](../Fichas/5548%20Junellia%20pseudojuncea.md) · 5548
+- ⬜ [Junellia selaginoides var. illapelina](../Fichas/5549%20Junellia%20selaginoides%20var.%20illapelina.md) · 5549
+- ⬜ [Junellia selaginoides var. selaginoides](../Fichas/5550%20Junellia%20selaginoides%20var.%20selaginoides.md) · 5550
+- ⬜ [Junellia seriphioides](../Fichas/5551%20Junellia%20seriphioides.md) · 5551
+- ⬜ [Junellia silvestrii](../Fichas/5552%20Junellia%20silvestrii.md) · 5552
+- ⬜ [Junellia spathulata var. glauca](../Fichas/5553%20Junellia%20spathulata%20var.%20glauca.md) · 5553
+- ⬜ [Junellia spathulata var. spathulata](../Fichas/5554%20Junellia%20spathulata%20var.%20spathulata.md) · 5554
+- ⬜ [Junellia thymifolia](../Fichas/5555%20Junellia%20thymifolia.md) · 5555
+- ⬜ [Junellia tridactylites](../Fichas/5556%20Junellia%20tridactylites.md) · 5556
+- ⬜ [Junellia trifurcata](../Fichas/5557%20Junellia%20trifurcata.md) · 5557
+- ⬜ [Junellia ulicina](../Fichas/5558%20Junellia%20ulicina.md) · 5558
+- ⬜ [Junellia uniflora](../Fichas/5559%20Junellia%20uniflora.md) · 5559
+- ⬜ [Lampayo hieronymi](../Fichas/5560%20Lampayo%20hieronymi.md) · 5560
+- ⬜ [Lampayo medicinalis](../Fichas/5561%20Lampayo%20medicinalis.md) · 5561
+- ⬜ [Lantana camara](../Fichas/5562%20Lantana%20camara.md) · 5562
+- ⬜ [Lippia fragrans](../Fichas/5563%20Lippia%20fragrans.md) · 5563
+- ⬜ [Lippia turbinata](../Fichas/5564%20Lippia%20turbinata.md) · 5564
+- ⬜ [Mulguraea arequipensis](../Fichas/5565%20Mulguraea%20arequipensis.md) · 5565
+- ⬜ [Mulguraea asparagoides](../Fichas/5566%20Mulguraea%20asparagoides.md) · 5566
+- ⬜ [Mulguraea cinerascens](../Fichas/5567%20Mulguraea%20cinerascens.md) · 5567
+- ⬜ [Mulguraea hystrix](../Fichas/5568%20Mulguraea%20hystrix.md) · 5568
+- ⬜ [Mulguraea ligustrina var. ligustrina](../Fichas/5754%20Mulguraea%20ligustrina%20var.%20ligustrina.md) · 5754
+- ⬜ [Mulguraea scoparia](../Fichas/5569%20Mulguraea%20scoparia.md) · 5569
+- ⬜ [Mulguraea tridens](../Fichas/5570%20Mulguraea%20tridens.md) · 5570
+- ⬜ [Phyla nodiflora var. minor](../Fichas/5571%20Phyla%20nodiflora%20var.%20minor.md) · 5571
+- ⬜ [Phyla nodiflora var. nodiflora](../Fichas/5572%20Phyla%20nodiflora%20var.%20nodiflora.md) · 5572
+- ⬜ [Phyla nodiflora var. reptans](../Fichas/5713%20Phyla%20nodiflora%20var.%20reptans.md) · 5713
+- ⬜ [Pitraea cuneato-ovata](../Fichas/5573%20Pitraea%20cuneato-ovata.md) · 5573
+- ⬜ [Rhaphithamnus spinosus](../Fichas/5574%20Rhaphithamnus%20spinosus.md) · 5574
+- ⬜ [Rhaphithamnus venustus](../Fichas/5575%20Rhaphithamnus%20venustus.md) · 5575
+- ⬜ [Verbena bonariensis](../Fichas/5576%20Verbena%20bonariensis.md) · 5576
+- ⬜ [Verbena cuneifolia](../Fichas/5577%20Verbena%20cuneifolia.md) · 5577
+- ⬜ [Verbena hispida](../Fichas/5578%20Verbena%20hispida.md) · 5578
+- ⬜ [Verbena litoralis](../Fichas/5579%20Verbena%20litoralis.md) · 5579
+- ⬜ [Verbena officinalis](../Fichas/5580%20Verbena%20officinalis.md) · 5580
+- ⬜ [Verbena rigida](../Fichas/5581%20Verbena%20rigida.md) · 5581

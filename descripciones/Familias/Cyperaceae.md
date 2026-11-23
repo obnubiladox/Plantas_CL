@@ -1,0 +1,185 @@
+# Cyperaceae
+
+[← Índice](../INDICE.md) · 0 de 181 especies con descripción.
+
+- ⬜ [Amphiscirpus nevadensis](../Fichas/631%20Amphiscirpus%20nevadensis.md) · 631
+- ⬜ [Bolboschoenus maritimus](../Fichas/632%20Bolboschoenus%20maritimus.md) · 632
+- ⬜ [Bulbostylis juncoides var. lorentzii](../Fichas/5816%20Bulbostylis%20juncoides%20var.%20lorentzii.md) · 5816
+- ⬜ [Carex acaulis](../Fichas/633%20Carex%20acaulis.md) · 633
+- ⬜ [Carex aematorhyncha](../Fichas/635%20Carex%20aematorhyncha.md) · 635
+- ⬜ [Carex andersonii](../Fichas/637%20Carex%20andersonii.md) · 637
+- ⬜ [Carex andina](../Fichas/638%20Carex%20andina.md) · 638
+- ⬜ [Carex antucensis](../Fichas/658%20Carex%20antucensis.md) · 658
+- ⬜ [Carex aphylla](../Fichas/639%20Carex%20aphylla.md) · 639
+- ⬜ [Carex arctogena](../Fichas/655%20Carex%20arctogena.md) · 655
+- ⬜ [Carex arctogena](../Fichas/5885%20Carex%20arctogena.md) · 5885
+- ⬜ [Carex argentina](../Fichas/641%20Carex%20argentina.md) · 641
+- ⬜ [Carex aspericaulis](../Fichas/792%20Carex%20aspericaulis.md) · 792
+- ⬜ [Carex atropicta](../Fichas/642%20Carex%20atropicta.md) · 642
+- ⬜ [Carex austroamericana](../Fichas/643%20Carex%20austroamericana.md) · 643
+- ⬜ [Carex banksii](../Fichas/644%20Carex%20banksii.md) · 644
+- ⬜ [Carex berteroniana](../Fichas/648%20Carex%20berteroniana.md) · 648
+- ⬜ [Carex boelckeiana](../Fichas/5778%20Carex%20boelckeiana.md) · 5778
+- ⬜ [Carex bonariensis var. bonariensis](../Fichas/649%20Carex%20bonariensis%20var.%20bonariensis.md) · 649
+- ⬜ [Carex bracteosa](../Fichas/650%20Carex%20bracteosa.md) · 650
+- ⬜ [Carex brongniartii](../Fichas/651%20Carex%20brongniartii.md) · 651
+- ⬜ [Carex caduca](../Fichas/652%20Carex%20caduca.md) · 652
+- ⬜ [Carex camptoglochin](../Fichas/653%20Carex%20camptoglochin.md) · 653
+- ⬜ [Carex canescens](../Fichas/654%20Carex%20canescens.md) · 654
+- ⬜ [Carex catamarcensis](../Fichas/656%20Carex%20catamarcensis.md) · 656
+- ⬜ [Carex chilensis](../Fichas/657%20Carex%20chilensis.md) · 657
+- ⬜ [Carex chlorolepis](../Fichas/696%20Carex%20chlorolepis.md) · 696
+- ⬜ [Carex darwinii var. darwinii](../Fichas/659%20Carex%20darwinii%20var.%20darwinii.md) · 659
+- ⬜ [Carex darwinii var. serranoi](../Fichas/660%20Carex%20darwinii%20var.%20serranoi.md) · 660
+- ⬜ [Carex darwinii var. urolepis](../Fichas/661%20Carex%20darwinii%20var.%20urolepis.md) · 661
+- ⬜ [Carex decidua](../Fichas/662%20Carex%20decidua.md) · 662
+- ⬜ [Carex delacosta](../Fichas/799%20Carex%20delacosta.md) · 799
+- ⬜ [Carex divisa](../Fichas/5784%20Carex%20divisa.md) · 5784
+- ⬜ [Carex dolichophylla](../Fichas/802%20Carex%20dolichophylla.md) · 802
+- ⬜ [Carex dusenii](../Fichas/5786%20Carex%20dusenii.md) · 5786
+- ⬜ [Carex ecuadorica](../Fichas/5785%20Carex%20ecuadorica.md) · 5785
+- ⬜ [Carex erinacea](../Fichas/797%20Carex%20erinacea.md) · 797
+- ⬜ [Carex excelsa](../Fichas/664%20Carex%20excelsa.md) · 664
+- ⬜ [Carex fernandesiana](../Fichas/796%20Carex%20fernandesiana.md) · 796
+- ⬜ [Carex fernandezensis](../Fichas/665%20Carex%20fernandezensis.md) · 665
+- ⬜ [Carex firmicaulis](../Fichas/666%20Carex%20firmicaulis.md) · 666
+- ⬜ [Carex firmula subsp. firmula](../Fichas/808%20Carex%20firmula%20subsp.%20firmula.md) · 808
+- ⬜ [Carex firmula subsp. tenuis](../Fichas/5788%20Carex%20firmula%20subsp.%20tenuis.md) · 5788
+- ⬜ [Carex fuscula](../Fichas/667%20Carex%20fuscula.md) · 667
+- ⬜ [Carex gayana](../Fichas/671%20Carex%20gayana.md) · 671
+- ⬜ [Carex hookeri](../Fichas/674%20Carex%20hookeri.md) · 674
+- ⬜ [Carex hypoleucos](../Fichas/675%20Carex%20hypoleucos.md) · 675
+- ⬜ [Carex kingii](../Fichas/677%20Carex%20kingii.md) · 677
+- ⬜ [Carex lamprocarpa](../Fichas/678%20Carex%20lamprocarpa.md) · 678
+- ⬜ [Carex lechleriana](../Fichas/798%20Carex%20lechleriana.md) · 798
+- ⬜ [Carex leporina](../Fichas/5781%20Carex%20leporina.md) · 5781
+- ⬜ [Carex macloviana](../Fichas/680%20Carex%20macloviana.md) · 680
+- ⬜ [Carex macloviformis](../Fichas/800%20Carex%20macloviformis.md) · 800
+- ⬜ [Carex macrorrhiza](../Fichas/683%20Carex%20macrorrhiza.md) · 683
+- ⬜ [Carex macrosolen](../Fichas/684%20Carex%20macrosolen.md) · 684
+- ⬜ [Carex macrotrichoides](../Fichas/794%20Carex%20macrotrichoides.md) · 794
+- ⬜ [Carex magellanica](../Fichas/685%20Carex%20magellanica.md) · 685
+- ⬜ [Carex malmei](../Fichas/686%20Carex%20malmei.md) · 686
+- ⬜ [Carex manuelbarrosii](../Fichas/5851%20Carex%20manuelbarrosii.md) · 5851
+- ⬜ [Carex melanocystis](../Fichas/687%20Carex%20melanocystis.md) · 687
+- ⬜ [Carex meridensis](../Fichas/801%20Carex%20meridensis.md) · 801
+- ⬜ [Carex microglochin](../Fichas/688%20Carex%20microglochin.md) · 688
+- ⬜ [Carex minutissima](../Fichas/689%20Carex%20minutissima.md) · 689
+- ⬜ [Carex molinae](../Fichas/690%20Carex%20molinae.md) · 690
+- ⬜ [Carex moorei](../Fichas/691%20Carex%20moorei.md) · 691
+- ⬜ [Carex multifaria](../Fichas/803%20Carex%20multifaria.md) · 803
+- ⬜ [Carex multispicata](../Fichas/634%20Carex%20multispicata.md) · 634
+- ⬜ [Carex nebularum](../Fichas/693%20Carex%20nebularum.md) · 693
+- ⬜ [Carex negeri](../Fichas/804%20Carex%20negeri.md) · 804
+- ⬜ [Carex nelmesiana](../Fichas/5779%20Carex%20nelmesiana.md) · 5779
+- ⬜ [Carex odontolepis](../Fichas/695%20Carex%20odontolepis.md) · 695
+- ⬜ [Carex patagonica](../Fichas/5780%20Carex%20patagonica.md) · 5780
+- ⬜ [Carex pendula](../Fichas/5789%20Carex%20pendula.md) · 5789
+- ⬜ [Carex phleoides](../Fichas/805%20Carex%20phleoides.md) · 805
+- ⬜ [Carex phylloscirpoides](../Fichas/5787%20Carex%20phylloscirpoides.md) · 5787
+- ⬜ [Carex pisanoi](../Fichas/697%20Carex%20pisanoi.md) · 697
+- ⬜ [Carex pleioneura](../Fichas/698%20Carex%20pleioneura.md) · 698
+- ⬜ [Carex plurinervata](../Fichas/795%20Carex%20plurinervata.md) · 795
+- ⬜ [Carex poeppigii](../Fichas/699%20Carex%20poeppigii.md) · 699
+- ⬜ [Carex pumila](../Fichas/700%20Carex%20pumila.md) · 700
+- ⬜ [Carex pungens](../Fichas/647%20Carex%20pungens.md) · 647
+- ⬜ [Carex quinquin](../Fichas/809%20Carex%20quinquin.md) · 809
+- ⬜ [Carex recondita](../Fichas/5852%20Carex%20recondita.md) · 5852
+- ⬜ [Carex reicheana](../Fichas/5783%20Carex%20reicheana.md) · 5783
+- ⬜ [Carex reichei](../Fichas/701%20Carex%20reichei.md) · 701
+- ⬜ [Carex sagei](../Fichas/702%20Carex%20sagei.md) · 702
+- ⬜ [Carex salticola](../Fichas/790%20Carex%20salticola.md) · 790
+- ⬜ [Carex scabrida](../Fichas/806%20Carex%20scabrida.md) · 806
+- ⬜ [Carex setifolia](../Fichas/703%20Carex%20setifolia.md) · 703
+- ⬜ [Carex skottsbergiana](../Fichas/5782%20Carex%20skottsbergiana.md) · 5782
+- ⬜ [Carex sorianoi](../Fichas/704%20Carex%20sorianoi.md) · 704
+- ⬜ [Carex stuessyi](../Fichas/705%20Carex%20stuessyi.md) · 705
+- ⬜ [Carex subantarctica](../Fichas/706%20Carex%20subantarctica.md) · 706
+- ⬜ [Carex toroensis](../Fichas/707%20Carex%20toroensis.md) · 707
+- ⬜ [Carex transandina](../Fichas/709%20Carex%20transandina.md) · 709
+- ⬜ [Carex triangula](../Fichas/810%20Carex%20triangula.md) · 810
+- ⬜ [Carex trichodes](../Fichas/679%20Carex%20trichodes.md) · 679
+- ⬜ [Carex trifida](../Fichas/711%20Carex%20trifida.md) · 711
+- ⬜ [Carex turbaria](../Fichas/793%20Carex%20turbaria.md) · 793
+- ⬜ [Carex vallis-pulchrae var. barrosiana](../Fichas/712%20Carex%20vallis-pulchrae%20var.%20barrosiana.md) · 712
+- ⬜ [Carex vallis-pulchrae var. vallis-pulchrae](../Fichas/713%20Carex%20vallis-pulchrae%20var.%20vallis-pulchrae.md) · 713
+- ⬜ [Carex werdermannii](../Fichas/714%20Carex%20werdermannii.md) · 714
+- ⬜ [Carex wheeleri](../Fichas/791%20Carex%20wheeleri.md) · 791
+- ⬜ [Carpha schoenoides](../Fichas/715%20Carpha%20schoenoides.md) · 715
+- ⬜ [Cyperus aggregatus](../Fichas/716%20Cyperus%20aggregatus.md) · 716
+- ⬜ [Cyperus alternifolius](../Fichas/5818%20Cyperus%20alternifolius.md) · 5818
+- ⬜ [Cyperus articulatus](../Fichas/717%20Cyperus%20articulatus.md) · 717
+- ⬜ [Cyperus brevifolius](../Fichas/718%20Cyperus%20brevifolius.md) · 718
+- ⬜ [Cyperus cyperoides](../Fichas/719%20Cyperus%20cyperoides.md) · 719
+- ⬜ [Cyperus difformis](../Fichas/720%20Cyperus%20difformis.md) · 720
+- ⬜ [Cyperus eragrostis var. compactus](../Fichas/721%20Cyperus%20eragrostis%20var.%20compactus.md) · 721
+- ⬜ [Cyperus eragrostis var. eragrostis](../Fichas/722%20Cyperus%20eragrostis%20var.%20eragrostis.md) · 722
+- ⬜ [Cyperus fraternus](../Fichas/723%20Cyperus%20fraternus.md) · 723
+- ⬜ [Cyperus fuscus](../Fichas/724%20Cyperus%20fuscus.md) · 724
+- ⬜ [Cyperus grammicus](../Fichas/725%20Cyperus%20grammicus.md) · 725
+- ⬜ [Cyperus involucratus](../Fichas/726%20Cyperus%20involucratus.md) · 726
+- ⬜ [Cyperus laevigatus](../Fichas/727%20Cyperus%20laevigatus.md) · 727
+- ⬜ [Cyperus lanceolatus](../Fichas/728%20Cyperus%20lanceolatus.md) · 728
+- ⬜ [Cyperus megapotamicus var. jaeggii](../Fichas/729%20Cyperus%20megapotamicus%20var.%20jaeggii.md) · 729
+- ⬜ [Cyperus niger](../Fichas/730%20Cyperus%20niger.md) · 730
+- ⬜ [Cyperus odoratus](../Fichas/731%20Cyperus%20odoratus.md) · 731
+- ⬜ [Cyperus poeppigii](../Fichas/732%20Cyperus%20poeppigii.md) · 732
+- ⬜ [Cyperus polystachyos](../Fichas/733%20Cyperus%20polystachyos.md) · 733
+- ⬜ [Cyperus reflexus](../Fichas/734%20Cyperus%20reflexus.md) · 734
+- ⬜ [Cyperus rigens var. rigens](../Fichas/735%20Cyperus%20rigens%20var.%20rigens.md) · 735
+- ⬜ [Cyperus rotundus](../Fichas/737%20Cyperus%20rotundus.md) · 737
+- ⬜ [Cyperus squarrosus](../Fichas/738%20Cyperus%20squarrosus.md) · 738
+- ⬜ [Cyperus tweediei](../Fichas/739%20Cyperus%20tweediei.md) · 739
+- ⬜ [Cyperus virens var. montanus](../Fichas/740%20Cyperus%20virens%20var.%20montanus.md) · 740
+- ⬜ [Cyperus virens var. virens](../Fichas/741%20Cyperus%20virens%20var.%20virens.md) · 741
+- ⬜ [Cyperus volckmannii](../Fichas/742%20Cyperus%20volckmannii.md) · 742
+- ⬜ [Cyperus xanthostachyus](../Fichas/743%20Cyperus%20xanthostachyus.md) · 743
+- ⬜ [Eleocharis albibracteata](../Fichas/5817%20Eleocharis%20albibracteata.md) · 5817
+- ⬜ [Eleocharis atacamensis](../Fichas/744%20Eleocharis%20atacamensis.md) · 744
+- ⬜ [Eleocharis bonariensis](../Fichas/745%20Eleocharis%20bonariensis.md) · 745
+- ⬜ [Eleocharis cordillerana](../Fichas/746%20Eleocharis%20cordillerana.md) · 746
+- ⬜ [Eleocharis dombeyana](../Fichas/747%20Eleocharis%20dombeyana.md) · 747
+- ⬜ [Eleocharis flavescens](../Fichas/748%20Eleocharis%20flavescens.md) · 748
+- ⬜ [Eleocharis fuscopurpurea](../Fichas/749%20Eleocharis%20fuscopurpurea.md) · 749
+- ⬜ [Eleocharis lechleri](../Fichas/750%20Eleocharis%20lechleri.md) · 750
+- ⬜ [Eleocharis macrostachya](../Fichas/751%20Eleocharis%20macrostachya.md) · 751
+- ⬜ [Eleocharis maculosa](../Fichas/752%20Eleocharis%20maculosa.md) · 752
+- ⬜ [Eleocharis melanocephala](../Fichas/753%20Eleocharis%20melanocephala.md) · 753
+- ⬜ [Eleocharis melanomphala](../Fichas/754%20Eleocharis%20melanomphala.md) · 754
+- ⬜ [Eleocharis melanostachys](../Fichas/755%20Eleocharis%20melanostachys.md) · 755
+- ⬜ [Eleocharis montana](../Fichas/756%20Eleocharis%20montana.md) · 756
+- ⬜ [Eleocharis pachycarpa](../Fichas/757%20Eleocharis%20pachycarpa.md) · 757
+- ⬜ [Eleocharis pseudoalbibracteata](../Fichas/758%20Eleocharis%20pseudoalbibracteata.md) · 758
+- ⬜ [Eleocharis quinqueflora](../Fichas/759%20Eleocharis%20quinqueflora.md) · 759
+- ⬜ [Eleocharis radicans](../Fichas/760%20Eleocharis%20radicans.md) · 760
+- ⬜ [Eleocharis tucumanensis](../Fichas/761%20Eleocharis%20tucumanensis.md) · 761
+- ⬜ [Eleocharis uniflora](../Fichas/762%20Eleocharis%20uniflora.md) · 762
+- ⬜ [Ficinia nodosa](../Fichas/763%20Ficinia%20nodosa.md) · 763
+- ⬜ [Isolepis cernua](../Fichas/764%20Isolepis%20cernua.md) · 764
+- ⬜ [Isolepis nigricans](../Fichas/765%20Isolepis%20nigricans.md) · 765
+- ⬜ [Isolepis ranko](../Fichas/766%20Isolepis%20ranko.md) · 766
+- ⬜ [Isolepis varians](../Fichas/767%20Isolepis%20varians.md) · 767
+- ⬜ [Machaerina scirpoidea](../Fichas/768%20Machaerina%20scirpoidea.md) · 768
+- ⬜ [Oreobolus obtusangulus](../Fichas/769%20Oreobolus%20obtusangulus.md) · 769
+- ⬜ [Phylloscirpus acaulis](../Fichas/770%20Phylloscirpus%20acaulis.md) · 770
+- ⬜ [Phylloscirpus boliviensis](../Fichas/771%20Phylloscirpus%20boliviensis.md) · 771
+- ⬜ [Phylloscirpus deserticola](../Fichas/772%20Phylloscirpus%20deserticola.md) · 772
+- ⬜ [Rhodoscirpus asper](../Fichas/773%20Rhodoscirpus%20asper.md) · 773
+- ⬜ [Rhynchospora brownii subsp. americana](../Fichas/774%20Rhynchospora%20brownii%20subsp.%20americana.md) · 774
+- ⬜ [Schoenoplectiella mucronata](../Fichas/775%20Schoenoplectiella%20mucronata.md) · 775
+- ⬜ [Schoenoplectus americanus](../Fichas/776%20Schoenoplectus%20americanus.md) · 776
+- ⬜ [Schoenoplectus californicus var. californicus](../Fichas/777%20Schoenoplectus%20californicus%20var.%20californicus.md) · 777
+- ⬜ [Schoenoplectus californicus var. spoliatus](../Fichas/778%20Schoenoplectus%20californicus%20var.%20spoliatus.md) · 778
+- ⬜ [Schoenoplectus californicus var. tereticulmis](../Fichas/779%20Schoenoplectus%20californicus%20var.%20tereticulmis.md) · 779
+- ⬜ [Schoenoplectus pungens var. badius](../Fichas/780%20Schoenoplectus%20pungens%20var.%20badius.md) · 780
+- ⬜ [Schoenoplectus pungens var. longispicatus](../Fichas/781%20Schoenoplectus%20pungens%20var.%20longispicatus.md) · 781
+- ⬜ [Schoenoplectus pungens var. pungens](../Fichas/782%20Schoenoplectus%20pungens%20var.%20pungens.md) · 782
+- ⬜ [Schoenus andinus](../Fichas/783%20Schoenus%20andinus.md) · 783
+- ⬜ [Schoenus antarcticus](../Fichas/784%20Schoenus%20antarcticus.md) · 784
+- ⬜ [Schoenus rhynchosporoides](../Fichas/786%20Schoenus%20rhynchosporoides.md) · 786
+- ⬜ [Scirpus angustisquamis](../Fichas/787%20Scirpus%20angustisquamis.md) · 787
+- ⬜ [Scirpus melanocaulos](../Fichas/788%20Scirpus%20melanocaulos.md) · 788
+- ⬜ [Scirpus spegazzinianus](../Fichas/789%20Scirpus%20spegazzinianus.md) · 789
+- ⬜ [Zameioscirpus atacamensis](../Fichas/811%20Zameioscirpus%20atacamensis.md) · 811
+- ⬜ [Zameioscirpus gaimardioides](../Fichas/812%20Zameioscirpus%20gaimardioides.md) · 812
+- ⬜ [Zameioscirpus muticus](../Fichas/813%20Zameioscirpus%20muticus.md) · 813

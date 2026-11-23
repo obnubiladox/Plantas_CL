@@ -1,0 +1,392 @@
+# Fabaceae
+
+[← Índice](../INDICE.md) · 0 de 388 especies con descripción.
+
+- ⬜ [Acacia dealbata](../Fichas/3822%20Acacia%20dealbata.md) · 3822
+- ⬜ [Acacia melanoxylon](../Fichas/3826%20Acacia%20melanoxylon.md) · 3826
+- ⬜ [Acacia paradoxa](../Fichas/3827%20Acacia%20paradoxa.md) · 3827
+- ⬜ [Adesmia aegiceras](../Fichas/3829%20Adesmia%20aegiceras.md) · 3829
+- ⬜ [Adesmia aphylla](../Fichas/3830%20Adesmia%20aphylla.md) · 3830
+- ⬜ [Adesmia arachnipes](../Fichas/3831%20Adesmia%20arachnipes.md) · 3831
+- ⬜ [Adesmia araucana](../Fichas/3832%20Adesmia%20araucana.md) · 3832
+- ⬜ [Adesmia argentea](../Fichas/3833%20Adesmia%20argentea.md) · 3833
+- ⬜ [Adesmia argyrophylla](../Fichas/3834%20Adesmia%20argyrophylla.md) · 3834
+- ⬜ [Adesmia aromatica](../Fichas/3835%20Adesmia%20aromatica.md) · 3835
+- ⬜ [Adesmia aspera](../Fichas/3836%20Adesmia%20aspera.md) · 3836
+- ⬜ [Adesmia atacamensis](../Fichas/3837%20Adesmia%20atacamensis.md) · 3837
+- ⬜ [Adesmia aurantiaca](../Fichas/3838%20Adesmia%20aurantiaca.md) · 3838
+- ⬜ [Adesmia balsamica](../Fichas/3839%20Adesmia%20balsamica.md) · 3839
+- ⬜ [Adesmia bedwellii](../Fichas/3840%20Adesmia%20bedwellii.md) · 3840
+- ⬜ [Adesmia bicolor](../Fichas/3841%20Adesmia%20bicolor.md) · 3841
+- ⬜ [Adesmia bijuga](../Fichas/3842%20Adesmia%20bijuga.md) · 3842
+- ⬜ [Adesmia boronioides](../Fichas/3843%20Adesmia%20boronioides.md) · 3843
+- ⬜ [Adesmia brachysemeon](../Fichas/3844%20Adesmia%20brachysemeon.md) · 3844
+- ⬜ [Adesmia bracteata](../Fichas/3845%20Adesmia%20bracteata.md) · 3845
+- ⬜ [Adesmia brevivexillata](../Fichas/3846%20Adesmia%20brevivexillata.md) · 3846
+- ⬜ [Adesmia burkartii](../Fichas/3847%20Adesmia%20burkartii.md) · 3847
+- ⬜ [Adesmia calycicomosa](../Fichas/3848%20Adesmia%20calycicomosa.md) · 3848
+- ⬜ [Adesmia capitellata](../Fichas/3849%20Adesmia%20capitellata.md) · 3849
+- ⬜ [Adesmia colinensis](../Fichas/3850%20Adesmia%20colinensis.md) · 3850
+- ⬜ [Adesmia concinna](../Fichas/3851%20Adesmia%20concinna.md) · 3851
+- ⬜ [Adesmia conferta](../Fichas/3852%20Adesmia%20conferta.md) · 3852
+- ⬜ [Adesmia confusa](../Fichas/3853%20Adesmia%20confusa.md) · 3853
+- ⬜ [Adesmia coquimbensis](../Fichas/3854%20Adesmia%20coquimbensis.md) · 3854
+- ⬜ [Adesmia coronilloides](../Fichas/3855%20Adesmia%20coronilloides.md) · 3855
+- ⬜ [Adesmia corymbosa var. corymbosa](../Fichas/3856%20Adesmia%20corymbosa%20var.%20corymbosa.md) · 3856
+- ⬜ [Adesmia cuneata](../Fichas/3857%20Adesmia%20cuneata.md) · 3857
+- ⬜ [Adesmia curvifolia](../Fichas/3858%20Adesmia%20curvifolia.md) · 3858
+- ⬜ [Adesmia darapskyana](../Fichas/3859%20Adesmia%20darapskyana.md) · 3859
+- ⬜ [Adesmia davilae](../Fichas/3860%20Adesmia%20davilae.md) · 3860
+- ⬜ [Adesmia denticulata](../Fichas/3861%20Adesmia%20denticulata.md) · 3861
+- ⬜ [Adesmia denudata](../Fichas/3862%20Adesmia%20denudata.md) · 3862
+- ⬜ [Adesmia dessaueri](../Fichas/3863%20Adesmia%20dessaueri.md) · 3863
+- ⬜ [Adesmia dichotoma](../Fichas/3864%20Adesmia%20dichotoma.md) · 3864
+- ⬜ [Adesmia disperma](../Fichas/3865%20Adesmia%20disperma.md) · 3865
+- ⬜ [Adesmia dumosa](../Fichas/3866%20Adesmia%20dumosa.md) · 3866
+- ⬜ [Adesmia echinus](../Fichas/3867%20Adesmia%20echinus.md) · 3867
+- ⬜ [Adesmia elata](../Fichas/3868%20Adesmia%20elata.md) · 3868
+- ⬜ [Adesmia elegans](../Fichas/3869%20Adesmia%20elegans.md) · 3869
+- ⬜ [Adesmia emarginata](../Fichas/3870%20Adesmia%20emarginata.md) · 3870
+- ⬜ [Adesmia ephedroides](../Fichas/5879%20Adesmia%20ephedroides.md) · 5879
+- ⬜ [Adesmia eremophila](../Fichas/3871%20Adesmia%20eremophila.md) · 3871
+- ⬜ [Adesmia erinacea](../Fichas/3872%20Adesmia%20erinacea.md) · 3872
+- ⬜ [Adesmia exilis](../Fichas/3873%20Adesmia%20exilis.md) · 3873
+- ⬜ [Adesmia filicaulis](../Fichas/3874%20Adesmia%20filicaulis.md) · 3874
+- ⬜ [Adesmia filifolia](../Fichas/3875%20Adesmia%20filifolia.md) · 3875
+- ⬜ [Adesmia frigida](../Fichas/3876%20Adesmia%20frigida.md) · 3876
+- ⬜ [Adesmia fuentesii](../Fichas/3877%20Adesmia%20fuentesii.md) · 3877
+- ⬜ [Adesmia glaucescens](../Fichas/3878%20Adesmia%20glaucescens.md) · 3878
+- ⬜ [Adesmia glomerula var. australior](../Fichas/3879%20Adesmia%20glomerula%20var.%20australior.md) · 3879
+- ⬜ [Adesmia glomerula var. glomerula](../Fichas/3880%20Adesmia%20glomerula%20var.%20glomerula.md) · 3880
+- ⬜ [Adesmia glutinosa](../Fichas/3881%20Adesmia%20glutinosa.md) · 3881
+- ⬜ [Adesmia godoyae](../Fichas/3882%20Adesmia%20godoyae.md) · 3882
+- ⬜ [Adesmia gracilis](../Fichas/3883%20Adesmia%20gracilis.md) · 3883
+- ⬜ [Adesmia gracillima](../Fichas/3884%20Adesmia%20gracillima.md) · 3884
+- ⬜ [Adesmia hemisphaerica](../Fichas/3885%20Adesmia%20hemisphaerica.md) · 3885
+- ⬜ [Adesmia hirsuta](../Fichas/3886%20Adesmia%20hirsuta.md) · 3886
+- ⬜ [Adesmia horrida](../Fichas/3887%20Adesmia%20horrida.md) · 3887
+- ⬜ [Adesmia hystrix](../Fichas/3888%20Adesmia%20hystrix.md) · 3888
+- ⬜ [Adesmia jilesiana](../Fichas/3889%20Adesmia%20jilesiana.md) · 3889
+- ⬜ [Adesmia lanata](../Fichas/3890%20Adesmia%20lanata.md) · 3890
+- ⬜ [Adesmia landbeckii](../Fichas/3891%20Adesmia%20landbeckii.md) · 3891
+- ⬜ [Adesmia laxa](../Fichas/3892%20Adesmia%20laxa.md) · 3892
+- ⬜ [Adesmia leiocarpa](../Fichas/3893%20Adesmia%20leiocarpa.md) · 3893
+- ⬜ [Adesmia littoralis](../Fichas/3894%20Adesmia%20littoralis.md) · 3894
+- ⬜ [Adesmia longipes](../Fichas/3895%20Adesmia%20longipes.md) · 3895
+- ⬜ [Adesmia longiseta](../Fichas/3896%20Adesmia%20longiseta.md) · 3896
+- ⬜ [Adesmia lotoides](../Fichas/3897%20Adesmia%20lotoides.md) · 3897
+- ⬜ [Adesmia loudonia](../Fichas/3898%20Adesmia%20loudonia.md) · 3898
+- ⬜ [Adesmia medinae](../Fichas/3899%20Adesmia%20medinae.md) · 3899
+- ⬜ [Adesmia melanocaulos](../Fichas/3900%20Adesmia%20melanocaulos.md) · 3900
+- ⬜ [Adesmia melanthes](../Fichas/3901%20Adesmia%20melanthes.md) · 3901
+- ⬜ [Adesmia micrantha](../Fichas/3902%20Adesmia%20micrantha.md) · 3902
+- ⬜ [Adesmia microcalyx var. calvescens](../Fichas/3903%20Adesmia%20microcalyx%20var.%20calvescens.md) · 3903
+- ⬜ [Adesmia microcalyx var. microcalyx](../Fichas/3904%20Adesmia%20microcalyx%20var.%20microcalyx.md) · 3904
+- ⬜ [Adesmia microphylla](../Fichas/3905%20Adesmia%20microphylla.md) · 3905
+- ⬜ [Adesmia minor var. caespitosa](../Fichas/3906%20Adesmia%20minor%20var.%20caespitosa.md) · 3906
+- ⬜ [Adesmia mirabilis](../Fichas/5948%20Adesmia%20mirabilis.md) · 5948
+- ⬜ [Adesmia monosperma](../Fichas/3907%20Adesmia%20monosperma.md) · 3907
+- ⬜ [Adesmia montana](../Fichas/3908%20Adesmia%20montana.md) · 3908
+- ⬜ [Adesmia mucronata](../Fichas/3909%20Adesmia%20mucronata.md) · 3909
+- ⬜ [Adesmia multicuspis](../Fichas/3910%20Adesmia%20multicuspis.md) · 3910
+- ⬜ [Adesmia obcordata](../Fichas/3911%20Adesmia%20obcordata.md) · 3911
+- ⬜ [Adesmia obovata](../Fichas/3912%20Adesmia%20obovata.md) · 3912
+- ⬜ [Adesmia obscura](../Fichas/3913%20Adesmia%20obscura.md) · 3913
+- ⬜ [Adesmia occulta](../Fichas/3914%20Adesmia%20occulta.md) · 3914
+- ⬜ [Adesmia odontophylla](../Fichas/3915%20Adesmia%20odontophylla.md) · 3915
+- ⬜ [Adesmia ovallensis](../Fichas/3916%20Adesmia%20ovallensis.md) · 3916
+- ⬜ [Adesmia papposa var. papposa](../Fichas/3917%20Adesmia%20papposa%20var.%20papposa.md) · 3917
+- ⬜ [Adesmia papposa var. radicifolia](../Fichas/3918%20Adesmia%20papposa%20var.%20radicifolia.md) · 3918
+- ⬜ [Adesmia parviflora](../Fichas/3919%20Adesmia%20parviflora.md) · 3919
+- ⬜ [Adesmia parvifolia](../Fichas/3920%20Adesmia%20parvifolia.md) · 3920
+- ⬜ [Adesmia pauciflora](../Fichas/3921%20Adesmia%20pauciflora.md) · 3921
+- ⬜ [Adesmia pearcei](../Fichas/3922%20Adesmia%20pearcei.md) · 3922
+- ⬜ [Adesmia pedicellata](../Fichas/3923%20Adesmia%20pedicellata.md) · 3923
+- ⬜ [Adesmia pentaphylla](../Fichas/3924%20Adesmia%20pentaphylla.md) · 3924
+- ⬜ [Adesmia peraltae](../Fichas/3925%20Adesmia%20peraltae.md) · 3925
+- ⬜ [Adesmia phylloidea](../Fichas/3926%20Adesmia%20phylloidea.md) · 3926
+- ⬜ [Adesmia pimpinellifolia](../Fichas/5949%20Adesmia%20pimpinellifolia.md) · 5949
+- ⬜ [Adesmia pinifolia](../Fichas/3927%20Adesmia%20pinifolia.md) · 3927
+- ⬜ [Adesmia pirionii](../Fichas/3928%20Adesmia%20pirionii.md) · 3928
+- ⬜ [Adesmia polyphylla](../Fichas/3929%20Adesmia%20polyphylla.md) · 3929
+- ⬜ [Adesmia propinqua](../Fichas/3930%20Adesmia%20propinqua.md) · 3930
+- ⬜ [Adesmia prostrata var. eglandulosa](../Fichas/3931%20Adesmia%20prostrata%20var.%20eglandulosa.md) · 3931
+- ⬜ [Adesmia prostrata var. prostrata](../Fichas/3932%20Adesmia%20prostrata%20var.%20prostrata.md) · 3932
+- ⬜ [Adesmia pumila](../Fichas/3933%20Adesmia%20pumila.md) · 3933
+- ⬜ [Adesmia pungens](../Fichas/3934%20Adesmia%20pungens.md) · 3934
+- ⬜ [Adesmia pusilla](../Fichas/3935%20Adesmia%20pusilla.md) · 3935
+- ⬜ [Adesmia quadripinnata](../Fichas/3936%20Adesmia%20quadripinnata.md) · 3936
+- ⬜ [Adesmia rahmeri](../Fichas/3937%20Adesmia%20rahmeri.md) · 3937
+- ⬜ [Adesmia ramosissima](../Fichas/3938%20Adesmia%20ramosissima.md) · 3938
+- ⬜ [Adesmia reclinata](../Fichas/3939%20Adesmia%20reclinata.md) · 3939
+- ⬜ [Adesmia renjifoana](../Fichas/3940%20Adesmia%20renjifoana.md) · 3940
+- ⬜ [Adesmia resinosa](../Fichas/3941%20Adesmia%20resinosa.md) · 3941
+- ⬜ [Adesmia retusa](../Fichas/3942%20Adesmia%20retusa.md) · 3942
+- ⬜ [Adesmia rubroviridis](../Fichas/3943%20Adesmia%20rubroviridis.md) · 3943
+- ⬜ [Adesmia salicornioides](../Fichas/3944%20Adesmia%20salicornioides.md) · 3944
+- ⬜ [Adesmia sandwithii](../Fichas/3945%20Adesmia%20sandwithii.md) · 3945
+- ⬜ [Adesmia schneideri](../Fichas/3946%20Adesmia%20schneideri.md) · 3946
+- ⬜ [Adesmia spinosissima](../Fichas/3947%20Adesmia%20spinosissima.md) · 3947
+- ⬜ [Adesmia spuma](../Fichas/3948%20Adesmia%20spuma.md) · 3948
+- ⬜ [Adesmia subterranea](../Fichas/3949%20Adesmia%20subterranea.md) · 3949
+- ⬜ [Adesmia suffocata](../Fichas/5744%20Adesmia%20suffocata.md) · 5744
+- ⬜ [Adesmia tenella var. macrocarpa](../Fichas/3950%20Adesmia%20tenella%20var.%20macrocarpa.md) · 3950
+- ⬜ [Adesmia tenella var. misera](../Fichas/3951%20Adesmia%20tenella%20var.%20misera.md) · 3951
+- ⬜ [Adesmia tenella var. tenella](../Fichas/3952%20Adesmia%20tenella%20var.%20tenella.md) · 3952
+- ⬜ [Adesmia tomentosa](../Fichas/3953%20Adesmia%20tomentosa.md) · 3953
+- ⬜ [Adesmia torcaea](../Fichas/3954%20Adesmia%20torcaea.md) · 3954
+- ⬜ [Adesmia trifoliata](../Fichas/3955%20Adesmia%20trifoliata.md) · 3955
+- ⬜ [Adesmia trifoliolata](../Fichas/3956%20Adesmia%20trifoliolata.md) · 3956
+- ⬜ [Adesmia trijuga](../Fichas/5745%20Adesmia%20trijuga.md) · 5745
+- ⬜ [Adesmia uspallatensis](../Fichas/3957%20Adesmia%20uspallatensis.md) · 3957
+- ⬜ [Adesmia verrucosa](../Fichas/3958%20Adesmia%20verrucosa.md) · 3958
+- ⬜ [Adesmia villosa](../Fichas/3959%20Adesmia%20villosa.md) · 3959
+- ⬜ [Adesmia viscida](../Fichas/3960%20Adesmia%20viscida.md) · 3960
+- ⬜ [Adesmia viscidissima](../Fichas/3961%20Adesmia%20viscidissima.md) · 3961
+- ⬜ [Adesmia viscosa](../Fichas/3962%20Adesmia%20viscosa.md) · 3962
+- ⬜ [Adesmia volckmannii](../Fichas/3963%20Adesmia%20volckmannii.md) · 3963
+- ⬜ [Adesmia zoellneri](../Fichas/3964%20Adesmia%20zoellneri.md) · 3964
+- ⬜ [Albizia lophantha](../Fichas/3965%20Albizia%20lophantha.md) · 3965
+- ⬜ [Anarthrophyllum andicolum](../Fichas/3966%20Anarthrophyllum%20andicolum.md) · 3966
+- ⬜ [Anarthrophyllum cumingii](../Fichas/3967%20Anarthrophyllum%20cumingii.md) · 3967
+- ⬜ [Anarthrophyllum desideratum var. desideratum](../Fichas/3968%20Anarthrophyllum%20desideratum%20var.%20desideratum.md) · 3968
+- ⬜ [Anarthrophyllum desideratum var. morenonis](../Fichas/3969%20Anarthrophyllum%20desideratum%20var.%20morenonis.md) · 3969
+- ⬜ [Anarthrophyllum elegans](../Fichas/3970%20Anarthrophyllum%20elegans.md) · 3970
+- ⬜ [Anarthrophyllum gayanum](../Fichas/3971%20Anarthrophyllum%20gayanum.md) · 3971
+- ⬜ [Anarthrophyllum rigidum](../Fichas/3972%20Anarthrophyllum%20rigidum.md) · 3972
+- ⬜ [Astragalus amatus](../Fichas/3973%20Astragalus%20amatus.md) · 3973
+- ⬜ [Astragalus arequipensis](../Fichas/3974%20Astragalus%20arequipensis.md) · 3974
+- ⬜ [Astragalus arnottianus](../Fichas/3975%20Astragalus%20arnottianus.md) · 3975
+- ⬜ [Astragalus bellus](../Fichas/3976%20Astragalus%20bellus.md) · 3976
+- ⬜ [Astragalus berteri](../Fichas/3977%20Astragalus%20berteri.md) · 3977
+- ⬜ [Astragalus berterianus](../Fichas/3978%20Astragalus%20berterianus.md) · 3978
+- ⬜ [Astragalus bustillosii](../Fichas/3979%20Astragalus%20bustillosii.md) · 3979
+- ⬜ [Astragalus cachinalensis](../Fichas/3980%20Astragalus%20cachinalensis.md) · 3980
+- ⬜ [Astragalus chamissonis](../Fichas/3981%20Astragalus%20chamissonis.md) · 3981
+- ⬜ [Astragalus confinis](../Fichas/3982%20Astragalus%20confinis.md) · 3982
+- ⬜ [Astragalus coquimbensis](../Fichas/3983%20Astragalus%20coquimbensis.md) · 3983
+- ⬜ [Astragalus cruckshanksii](../Fichas/3984%20Astragalus%20cruckshanksii.md) · 3984
+- ⬜ [Astragalus cryptanthus](../Fichas/3985%20Astragalus%20cryptanthus.md) · 3985
+- ⬜ [Astragalus cryptobotrys](../Fichas/3986%20Astragalus%20cryptobotrys.md) · 3986
+- ⬜ [Astragalus curvicaulis](../Fichas/3987%20Astragalus%20curvicaulis.md) · 3987
+- ⬜ [Astragalus darumbium](../Fichas/3988%20Astragalus%20darumbium.md) · 3988
+- ⬜ [Astragalus diminutivus](../Fichas/3989%20Astragalus%20diminutivus.md) · 3989
+- ⬜ [Astragalus dodtii](../Fichas/3990%20Astragalus%20dodtii.md) · 3990
+- ⬜ [Astragalus domeykoanus](../Fichas/3991%20Astragalus%20domeykoanus.md) · 3991
+- ⬜ [Astragalus edmonstonei](../Fichas/3992%20Astragalus%20edmonstonei.md) · 3992
+- ⬜ [Astragalus germainii](../Fichas/3993%20Astragalus%20germainii.md) · 3993
+- ⬜ [Astragalus johnstonii](../Fichas/3994%20Astragalus%20johnstonii.md) · 3994
+- ⬜ [Astragalus limariensis](../Fichas/3995%20Astragalus%20limariensis.md) · 3995
+- ⬜ [Astragalus looseri](../Fichas/3996%20Astragalus%20looseri.md) · 3996
+- ⬜ [Astragalus magellanicus](../Fichas/3997%20Astragalus%20magellanicus.md) · 3997
+- ⬜ [Astragalus maulensis](../Fichas/3998%20Astragalus%20maulensis.md) · 3998
+- ⬜ [Astragalus micranthellus](../Fichas/3999%20Astragalus%20micranthellus.md) · 3999
+- ⬜ [Astragalus minimus](../Fichas/4000%20Astragalus%20minimus.md) · 4000
+- ⬜ [Astragalus minutissimus](../Fichas/4001%20Astragalus%20minutissimus.md) · 4001
+- ⬜ [Astragalus monteroi](../Fichas/4002%20Astragalus%20monteroi.md) · 4002
+- ⬜ [Astragalus monticola](../Fichas/4003%20Astragalus%20monticola.md) · 4003
+- ⬜ [Astragalus nivicola](../Fichas/4004%20Astragalus%20nivicola.md) · 4004
+- ⬜ [Astragalus nudus](../Fichas/4005%20Astragalus%20nudus.md) · 4005
+- ⬜ [Astragalus orthocarpus](../Fichas/4006%20Astragalus%20orthocarpus.md) · 4006
+- ⬜ [Astragalus palenae var. palenae](../Fichas/4007%20Astragalus%20palenae%20var.%20palenae.md) · 4007
+- ⬜ [Astragalus paposanus](../Fichas/4008%20Astragalus%20paposanus.md) · 4008
+- ⬜ [Astragalus patagonicus](../Fichas/4009%20Astragalus%20patagonicus.md) · 4009
+- ⬜ [Astragalus pehuenches](../Fichas/4010%20Astragalus%20pehuenches.md) · 4010
+- ⬜ [Astragalus pissisii](../Fichas/4011%20Astragalus%20pissisii.md) · 4011
+- ⬜ [Astragalus pusillus](../Fichas/4012%20Astragalus%20pusillus.md) · 4012
+- ⬜ [Astragalus reichei](../Fichas/4013%20Astragalus%20reichei.md) · 4013
+- ⬜ [Astragalus schinetorum](../Fichas/4014%20Astragalus%20schinetorum.md) · 4014
+- ⬜ [Astragalus tacorensis](../Fichas/4015%20Astragalus%20tacorensis.md) · 4015
+- ⬜ [Astragalus triflorus](../Fichas/4016%20Astragalus%20triflorus.md) · 4016
+- ⬜ [Astragalus trifoliatus](../Fichas/4017%20Astragalus%20trifoliatus.md) · 4017
+- ⬜ [Astragalus vagus](../Fichas/4018%20Astragalus%20vagus.md) · 4018
+- ⬜ [Astragalus valerianensis](../Fichas/4019%20Astragalus%20valerianensis.md) · 4019
+- ⬜ [Astragalus verticillatus](../Fichas/4020%20Astragalus%20verticillatus.md) · 4020
+- ⬜ [Astragalus vesiculosus](../Fichas/4021%20Astragalus%20vesiculosus.md) · 4021
+- ⬜ [Astragalus werdermannii](../Fichas/4022%20Astragalus%20werdermannii.md) · 4022
+- ⬜ [Balsamocarpon brevifolium](../Fichas/4023%20Balsamocarpon%20brevifolium.md) · 4023
+- ⬜ [Calliandra chilensis](../Fichas/4025%20Calliandra%20chilensis.md) · 4025
+- ⬜ [Colutea arborescens](../Fichas/5772%20Colutea%20arborescens.md) · 5772
+- ⬜ [Crotalaria grahamiana](../Fichas/4026%20Crotalaria%20grahamiana.md) · 4026
+- ⬜ [Crotalaria incana](../Fichas/4027%20Crotalaria%20incana.md) · 4027
+- ⬜ [Crotalaria pallida](../Fichas/4028%20Crotalaria%20pallida.md) · 4028
+- ⬜ [Cytisus scoparius](../Fichas/4029%20Cytisus%20scoparius.md) · 4029
+- ⬜ [Cytisus striatus](../Fichas/4030%20Cytisus%20striatus.md) · 4030
+- ⬜ [Dalea azurea](../Fichas/4031%20Dalea%20azurea.md) · 4031
+- ⬜ [Dalea cylindrica](../Fichas/5741%20Dalea%20cylindrica.md) · 5741
+- ⬜ [Dalea moquehuana](../Fichas/4032%20Dalea%20moquehuana.md) · 4032
+- ⬜ [Dalea pennellii var. chilensis](../Fichas/4033%20Dalea%20pennellii%20var.%20chilensis.md) · 4033
+- ⬜ [Desmanthus virgatus](../Fichas/4034%20Desmanthus%20virgatus.md) · 4034
+- ⬜ [Dipogon lignosus](../Fichas/4035%20Dipogon%20lignosus.md) · 4035
+- ⬜ [Errazurizia multifoliolata](../Fichas/4036%20Errazurizia%20multifoliolata.md) · 4036
+- ⬜ [Erythrostemon angulatus](../Fichas/4037%20Erythrostemon%20angulatus.md) · 4037
+- ⬜ [Erythrostemon gilliesii](../Fichas/4038%20Erythrostemon%20gilliesii.md) · 4038
+- ⬜ [Galega officinalis](../Fichas/4039%20Galega%20officinalis.md) · 4039
+- ⬜ [Geoffroea decorticans](../Fichas/4040%20Geoffroea%20decorticans.md) · 4040
+- ⬜ [Glycyrrhiza astragalina](../Fichas/4041%20Glycyrrhiza%20astragalina.md) · 4041
+- ⬜ [Guilandina major](../Fichas/4024%20Guilandina%20major.md) · 4024
+- ⬜ [Hoffmannseggia aphylla](../Fichas/4042%20Hoffmannseggia%20aphylla.md) · 4042
+- ⬜ [Hoffmannseggia doellii](../Fichas/4043%20Hoffmannseggia%20doellii.md) · 4043
+- ⬜ [Hoffmannseggia erecta](../Fichas/5723%20Hoffmannseggia%20erecta.md) · 5723
+- ⬜ [Hoffmannseggia eremophila](../Fichas/4044%20Hoffmannseggia%20eremophila.md) · 4044
+- ⬜ [Hoffmannseggia glauca](../Fichas/4045%20Hoffmannseggia%20glauca.md) · 4045
+- ⬜ [Hoffmannseggia minor](../Fichas/4046%20Hoffmannseggia%20minor.md) · 4046
+- ⬜ [Hoffmannseggia prostrata](../Fichas/4047%20Hoffmannseggia%20prostrata.md) · 4047
+- ⬜ [Hoffmannseggia trifoliata](../Fichas/4048%20Hoffmannseggia%20trifoliata.md) · 4048
+- ⬜ [Hoffmannseggia viscosa](../Fichas/4049%20Hoffmannseggia%20viscosa.md) · 4049
+- ⬜ [Indigofera suffruticosa](../Fichas/4050%20Indigofera%20suffruticosa.md) · 4050
+- ⬜ [Lablab purpureus](../Fichas/4051%20Lablab%20purpureus.md) · 4051
+- ⬜ [Lathyrus berteroanus](../Fichas/4052%20Lathyrus%20berteroanus.md) · 4052
+- ⬜ [Lathyrus cabrerianus](../Fichas/4053%20Lathyrus%20cabrerianus.md) · 4053
+- ⬜ [Lathyrus campestris](../Fichas/4054%20Lathyrus%20campestris.md) · 4054
+- ⬜ [Lathyrus cicera](../Fichas/4055%20Lathyrus%20cicera.md) · 4055
+- ⬜ [Lathyrus crassipes](../Fichas/4056%20Lathyrus%20crassipes.md) · 4056
+- ⬜ [Lathyrus hookeri](../Fichas/4057%20Lathyrus%20hookeri.md) · 4057
+- ⬜ [Lathyrus japonicus var. aleuticus](../Fichas/4058%20Lathyrus%20japonicus%20var.%20aleuticus.md) · 4058
+- ⬜ [Lathyrus japonicus var. japonicus](../Fichas/4059%20Lathyrus%20japonicus%20var.%20japonicus.md) · 4059
+- ⬜ [Lathyrus latifolius](../Fichas/4060%20Lathyrus%20latifolius.md) · 4060
+- ⬜ [Lathyrus lomanus](../Fichas/4061%20Lathyrus%20lomanus.md) · 4061
+- ⬜ [Lathyrus magellanicus var. glaucescens](../Fichas/4063%20Lathyrus%20magellanicus%20var.%20glaucescens.md) · 4063
+- ⬜ [Lathyrus magellanicus var. longipes](../Fichas/4064%20Lathyrus%20magellanicus%20var.%20longipes.md) · 4064
+- ⬜ [Lathyrus magellanicus var. magellanicus](../Fichas/4065%20Lathyrus%20magellanicus%20var.%20magellanicus.md) · 4065
+- ⬜ [Lathyrus magellanicus var. tucumanensis](../Fichas/4066%20Lathyrus%20magellanicus%20var.%20tucumanensis.md) · 4066
+- ⬜ [Lathyrus multiceps](../Fichas/4067%20Lathyrus%20multiceps.md) · 4067
+- ⬜ [Lathyrus nervosus](../Fichas/4068%20Lathyrus%20nervosus.md) · 4068
+- ⬜ [Lathyrus pubescens](../Fichas/4069%20Lathyrus%20pubescens.md) · 4069
+- ⬜ [Lathyrus pusillus](../Fichas/4070%20Lathyrus%20pusillus.md) · 4070
+- ⬜ [Lathyrus sativus](../Fichas/4071%20Lathyrus%20sativus.md) · 4071
+- ⬜ [Lathyrus subandinus](../Fichas/4072%20Lathyrus%20subandinus.md) · 4072
+- ⬜ [Leucaena leucocephala](../Fichas/4073%20Leucaena%20leucocephala.md) · 4073
+- ⬜ [Lotus angustissimus](../Fichas/5961%20Lotus%20angustissimus.md) · 5961
+- ⬜ [Lotus corniculatus](../Fichas/4074%20Lotus%20corniculatus.md) · 4074
+- ⬜ [Lotus pedunculatus](../Fichas/4075%20Lotus%20pedunculatus.md) · 4075
+- ⬜ [Lotus subpinnatus](../Fichas/4076%20Lotus%20subpinnatus.md) · 4076
+- ⬜ [Lotus tenuis](../Fichas/4077%20Lotus%20tenuis.md) · 4077
+- ⬜ [Lupinus albus](../Fichas/4078%20Lupinus%20albus.md) · 4078
+- ⬜ [Lupinus ananeanus](../Fichas/5938%20Lupinus%20ananeanus.md) · 5938
+- ⬜ [Lupinus andicola var. subacaulis](../Fichas/4085%20Lupinus%20andicola%20var.%20subacaulis.md) · 4085
+- ⬜ [Lupinus andicola var. subinflatus](../Fichas/4086%20Lupinus%20andicola%20var.%20subinflatus.md) · 4086
+- ⬜ [Lupinus angustifolius](../Fichas/4079%20Lupinus%20angustifolius.md) · 4079
+- ⬜ [Lupinus arboreus](../Fichas/4080%20Lupinus%20arboreus.md) · 4080
+- ⬜ [Lupinus luteus](../Fichas/4081%20Lupinus%20luteus.md) · 4081
+- ⬜ [Lupinus microcarpus](../Fichas/4082%20Lupinus%20microcarpus.md) · 4082
+- ⬜ [Lupinus oreophilus](../Fichas/4083%20Lupinus%20oreophilus.md) · 4083
+- ⬜ [Lupinus polyphyllus](../Fichas/4084%20Lupinus%20polyphyllus.md) · 4084
+- ⬜ [Lupinus tarapacensis](../Fichas/4087%20Lupinus%20tarapacensis.md) · 4087
+- ⬜ [Lupinus werdermannianus](../Fichas/4088%20Lupinus%20werdermannianus.md) · 4088
+- ⬜ [Macroptilium lathyroides](../Fichas/4089%20Macroptilium%20lathyroides.md) · 4089
+- ⬜ [Medicago arabica](../Fichas/4090%20Medicago%20arabica.md) · 4090
+- ⬜ [Medicago arborea](../Fichas/4091%20Medicago%20arborea.md) · 4091
+- ⬜ [Medicago lupulina](../Fichas/4092%20Medicago%20lupulina.md) · 4092
+- ⬜ [Medicago minima var. minima](../Fichas/4093%20Medicago%20minima%20var.%20minima.md) · 4093
+- ⬜ [Medicago polymorpha var. confinis](../Fichas/4094%20Medicago%20polymorpha%20var.%20confinis.md) · 4094
+- ⬜ [Medicago polymorpha var. polymorpha](../Fichas/4095%20Medicago%20polymorpha%20var.%20polymorpha.md) · 4095
+- ⬜ [Medicago polymorpha var. vulgaris](../Fichas/4096%20Medicago%20polymorpha%20var.%20vulgaris.md) · 4096
+- ⬜ [Medicago sativa](../Fichas/4097%20Medicago%20sativa.md) · 4097
+- ⬜ [Melilotus albus](../Fichas/4098%20Melilotus%20albus.md) · 4098
+- ⬜ [Melilotus indicus](../Fichas/4099%20Melilotus%20indicus.md) · 4099
+- ⬜ [Melilotus officinalis](../Fichas/4100%20Melilotus%20officinalis.md) · 4100
+- ⬜ [Neltuma alba var. alba](../Fichas/4105%20Neltuma%20alba%20var.%20alba.md) · 4105
+- ⬜ [Neltuma alba var. atacamensis](../Fichas/5920%20Neltuma%20alba%20var.%20atacamensis.md) · 5920
+- ⬜ [Neltuma alba var. panta](../Fichas/5958%20Neltuma%20alba%20var.%20panta.md) · 5958
+- ⬜ [Neltuma alpataco](../Fichas/5954%20Neltuma%20alpataco.md) · 5954
+- ⬜ [Neltuma chilensis var. berteroana](../Fichas/5909%20Neltuma%20chilensis%20var.%20berteroana.md) · 5909
+- ⬜ [Neltuma chilensis var. catamarcana](../Fichas/5959%20Neltuma%20chilensis%20var.%20catamarcana.md) · 5959
+- ⬜ [Neltuma chilensis var. chilensis](../Fichas/4107%20Neltuma%20chilensis%20var.%20chilensis.md) · 4107
+- ⬜ [Neltuma flexuosa var. depressa](../Fichas/5912%20Neltuma%20flexuosa%20var.%20depressa.md) · 5912
+- ⬜ [Neltuma flexuosa var. flexuosa](../Fichas/4108%20Neltuma%20flexuosa%20var.%20flexuosa.md) · 4108
+- ⬜ [Neltuma flexuosa var. fruticosa](../Fichas/4109%20Neltuma%20flexuosa%20var.%20fruticosa.md) · 4109
+- ⬜ [Ornithopus compressus](../Fichas/4101%20Ornithopus%20compressus.md) · 4101
+- ⬜ [Ornithopus pinnatus](../Fichas/4102%20Ornithopus%20pinnatus.md) · 4102
+- ⬜ [Ornithopus sativus](../Fichas/4103%20Ornithopus%20sativus.md) · 4103
+- ⬜ [Otholobium glandulosum](../Fichas/4104%20Otholobium%20glandulosum.md) · 4104
+- ⬜ [Parasenegalia visco](../Fichas/3828%20Parasenegalia%20visco.md) · 3828
+- ⬜ [Rhynchosia minima](../Fichas/4112%20Rhynchosia%20minima.md) · 4112
+- ⬜ [Robinia pseudoacacia](../Fichas/4113%20Robinia%20pseudoacacia.md) · 4113
+- ⬜ [Senna arnottiana](../Fichas/4114%20Senna%20arnottiana.md) · 4114
+- ⬜ [Senna birostris var. arequipensis](../Fichas/4115%20Senna%20birostris%20var.%20arequipensis.md) · 4115
+- ⬜ [Senna brongniartii](../Fichas/4116%20Senna%20brongniartii.md) · 4116
+- ⬜ [Senna candolleana](../Fichas/4117%20Senna%20candolleana.md) · 4117
+- ⬜ [Senna cruckshanksii](../Fichas/4118%20Senna%20cruckshanksii.md) · 4118
+- ⬜ [Senna cumingii var. alcaparra](../Fichas/4119%20Senna%20cumingii%20var.%20alcaparra.md) · 4119
+- ⬜ [Senna cumingii var. coquimbensis](../Fichas/4120%20Senna%20cumingii%20var.%20coquimbensis.md) · 4120
+- ⬜ [Senna cumingii var. cumingii](../Fichas/4121%20Senna%20cumingii%20var.%20cumingii.md) · 4121
+- ⬜ [Senna cumingii var. eremobia](../Fichas/4122%20Senna%20cumingii%20var.%20eremobia.md) · 4122
+- ⬜ [Senna huidobriana](../Fichas/4123%20Senna%20huidobriana.md) · 4123
+- ⬜ [Senna multiglandulosa](../Fichas/5871%20Senna%20multiglandulosa.md) · 5871
+- ⬜ [Senna paposana](../Fichas/4124%20Senna%20paposana.md) · 4124
+- ⬜ [Senna septemtrionalis](../Fichas/4125%20Senna%20septemtrionalis.md) · 4125
+- ⬜ [Senna stipulacea var. anglorum](../Fichas/4126%20Senna%20stipulacea%20var.%20anglorum.md) · 4126
+- ⬜ [Senna stipulacea var. stipulacea](../Fichas/4127%20Senna%20stipulacea%20var.%20stipulacea.md) · 4127
+- ⬜ [Senna urmenetae](../Fichas/4128%20Senna%20urmenetae.md) · 4128
+- ⬜ [Sophora cassioides](../Fichas/4129%20Sophora%20cassioides.md) · 4129
+- ⬜ [Sophora fernandeziana var. fernandeziana](../Fichas/4130%20Sophora%20fernandeziana%20var.%20fernandeziana.md) · 4130
+- ⬜ [Sophora fernandeziana var. reedeana](../Fichas/4131%20Sophora%20fernandeziana%20var.%20reedeana.md) · 4131
+- ⬜ [Sophora macrocarpa](../Fichas/4132%20Sophora%20macrocarpa.md) · 4132
+- ⬜ [Sophora masafuerana](../Fichas/4133%20Sophora%20masafuerana.md) · 4133
+- ⬜ [Sophora toromiro](../Fichas/4134%20Sophora%20toromiro.md) · 4134
+- ⬜ [Spartium junceum](../Fichas/4135%20Spartium%20junceum.md) · 4135
+- ⬜ [Strombocarpa burkartii](../Fichas/4106%20Strombocarpa%20burkartii.md) · 4106
+- ⬜ [Strombocarpa strombulifera](../Fichas/4110%20Strombocarpa%20strombulifera.md) · 4110
+- ⬜ [Strombocarpa tamarugo](../Fichas/4111%20Strombocarpa%20tamarugo.md) · 4111
+- ⬜ [Tara spinosa](../Fichas/4136%20Tara%20spinosa.md) · 4136
+- ⬜ [Teline monspessulana](../Fichas/4137%20Teline%20monspessulana.md) · 4137
+- ⬜ [Trifolium angustifolium](../Fichas/4138%20Trifolium%20angustifolium.md) · 4138
+- ⬜ [Trifolium antucoense](../Fichas/4139%20Trifolium%20antucoense.md) · 4139
+- ⬜ [Trifolium arvense](../Fichas/4140%20Trifolium%20arvense.md) · 4140
+- ⬜ [Trifolium aureum](../Fichas/4141%20Trifolium%20aureum.md) · 4141
+- ⬜ [Trifolium campestre](../Fichas/4142%20Trifolium%20campestre.md) · 4142
+- ⬜ [Trifolium cernuum](../Fichas/4143%20Trifolium%20cernuum.md) · 4143
+- ⬜ [Trifolium chilense](../Fichas/4144%20Trifolium%20chilense.md) · 4144
+- ⬜ [Trifolium depauperatum](../Fichas/4145%20Trifolium%20depauperatum.md) · 4145
+- ⬜ [Trifolium dubium](../Fichas/4146%20Trifolium%20dubium.md) · 4146
+- ⬜ [Trifolium fragiferum subsp. fragiferum](../Fichas/4147%20Trifolium%20fragiferum%20subsp.%20fragiferum.md) · 4147
+- ⬜ [Trifolium glomeratum](../Fichas/4148%20Trifolium%20glomeratum.md) · 4148
+- ⬜ [Trifolium hybridum var. hybridum](../Fichas/4149%20Trifolium%20hybridum%20var.%20hybridum.md) · 4149
+- ⬜ [Trifolium incarnatum](../Fichas/4150%20Trifolium%20incarnatum.md) · 4150
+- ⬜ [Trifolium macraei](../Fichas/4151%20Trifolium%20macraei.md) · 4151
+- ⬜ [Trifolium microdon](../Fichas/4152%20Trifolium%20microdon.md) · 4152
+- ⬜ [Trifolium physanthum](../Fichas/4153%20Trifolium%20physanthum.md) · 4153
+- ⬜ [Trifolium polymorphum var. grandiflorum](../Fichas/4154%20Trifolium%20polymorphum%20var.%20grandiflorum.md) · 4154
+- ⬜ [Trifolium polymorphum var. polymorphum](../Fichas/4155%20Trifolium%20polymorphum%20var.%20polymorphum.md) · 4155
+- ⬜ [Trifolium pratense](../Fichas/4156%20Trifolium%20pratense.md) · 4156
+- ⬜ [Trifolium repens](../Fichas/4157%20Trifolium%20repens.md) · 4157
+- ⬜ [Trifolium spadiceum](../Fichas/4158%20Trifolium%20spadiceum.md) · 4158
+- ⬜ [Trifolium striatum](../Fichas/4159%20Trifolium%20striatum.md) · 4159
+- ⬜ [Trifolium subterraneum](../Fichas/4160%20Trifolium%20subterraneum.md) · 4160
+- ⬜ [Trifolium suffocatum](../Fichas/4161%20Trifolium%20suffocatum.md) · 4161
+- ⬜ [Trifolium tomentosum](../Fichas/4162%20Trifolium%20tomentosum.md) · 4162
+- ⬜ [Trifolium triaristatum](../Fichas/4163%20Trifolium%20triaristatum.md) · 4163
+- ⬜ [Trifolium vernum](../Fichas/4164%20Trifolium%20vernum.md) · 4164
+- ⬜ [Trifolium vestitum](../Fichas/4165%20Trifolium%20vestitum.md) · 4165
+- ⬜ [Trigonella monspeliaca](../Fichas/4166%20Trigonella%20monspeliaca.md) · 4166
+- ⬜ [Ulex europaeus](../Fichas/4167%20Ulex%20europaeus.md) · 4167
+- ⬜ [Vachellia aroma](../Fichas/3820%20Vachellia%20aroma.md) · 3820
+- ⬜ [Vachellia caven](../Fichas/3821%20Vachellia%20caven.md) · 3821
+- ⬜ [Vachellia horrida](../Fichas/3823%20Vachellia%20horrida.md) · 3823
+- ⬜ [Vachellia karroo](../Fichas/3824%20Vachellia%20karroo.md) · 3824
+- ⬜ [Vachellia macracantha](../Fichas/3825%20Vachellia%20macracantha.md) · 3825
+- ⬜ [Vicia araucana](../Fichas/4168%20Vicia%20araucana.md) · 4168
+- ⬜ [Vicia benghalensis](../Fichas/4169%20Vicia%20benghalensis.md) · 4169
+- ⬜ [Vicia bijuga](../Fichas/4170%20Vicia%20bijuga.md) · 4170
+- ⬜ [Vicia coquimbensis](../Fichas/4171%20Vicia%20coquimbensis.md) · 4171
+- ⬜ [Vicia graminea](../Fichas/4172%20Vicia%20graminea.md) · 4172
+- ⬜ [Vicia hirsuta](../Fichas/4173%20Vicia%20hirsuta.md) · 4173
+- ⬜ [Vicia inconspicua](../Fichas/4174%20Vicia%20inconspicua.md) · 4174
+- ⬜ [Vicia linearifolia](../Fichas/4175%20Vicia%20linearifolia.md) · 4175
+- ⬜ [Vicia magellanica](../Fichas/4176%20Vicia%20magellanica.md) · 4176
+- ⬜ [Vicia modesta](../Fichas/4177%20Vicia%20modesta.md) · 4177
+- ⬜ [Vicia mucronata](../Fichas/4178%20Vicia%20mucronata.md) · 4178
+- ⬜ [Vicia nana](../Fichas/4179%20Vicia%20nana.md) · 4179
+- ⬜ [Vicia nigricans](../Fichas/4180%20Vicia%20nigricans.md) · 4180
+- ⬜ [Vicia pallida](../Fichas/4181%20Vicia%20pallida.md) · 4181
+- ⬜ [Vicia parviflora](../Fichas/4182%20Vicia%20parviflora.md) · 4182
+- ⬜ [Vicia sativa subsp. nigra](../Fichas/4183%20Vicia%20sativa%20subsp.%20nigra.md) · 4183
+- ⬜ [Vicia sativa subsp. sativa](../Fichas/4184%20Vicia%20sativa%20subsp.%20sativa.md) · 4184
+- ⬜ [Vicia sessiliflora](../Fichas/4185%20Vicia%20sessiliflora.md) · 4185
+- ⬜ [Vicia setifolia](../Fichas/4186%20Vicia%20setifolia.md) · 4186
+- ⬜ [Vicia subserrata](../Fichas/4187%20Vicia%20subserrata.md) · 4187
+- ⬜ [Vicia tetrasperma](../Fichas/4188%20Vicia%20tetrasperma.md) · 4188
+- ⬜ [Vicia vicina](../Fichas/4189%20Vicia%20vicina.md) · 4189
+- ⬜ [Vicia villosa](../Fichas/4190%20Vicia%20villosa.md) · 4190
+- ⬜ [Weberbauerella chilensis](../Fichas/4191%20Weberbauerella%20chilensis.md) · 4191

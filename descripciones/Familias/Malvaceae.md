@@ -1,0 +1,108 @@
+# Malvaceae
+
+[← Índice](../INDICE.md) · 0 de 104 especies con descripción.
+
+- ⬜ [Abutilon grandifolium](../Fichas/4437%20Abutilon%20grandifolium.md) · 4437
+- ⬜ [Andeimalva chilensis](../Fichas/4438%20Andeimalva%20chilensis.md) · 4438
+- ⬜ [Anoda cristata](../Fichas/4439%20Anoda%20cristata.md) · 4439
+- ⬜ [Corynabutilon bicolor](../Fichas/4440%20Corynabutilon%20bicolor.md) · 4440
+- ⬜ [Corynabutilon ceratocarpum](../Fichas/4441%20Corynabutilon%20ceratocarpum.md) · 4441
+- ⬜ [Corynabutilon hirsutum](../Fichas/4442%20Corynabutilon%20hirsutum.md) · 4442
+- ⬜ [Corynabutilon ochsenii](../Fichas/4443%20Corynabutilon%20ochsenii.md) · 4443
+- ⬜ [Corynabutilon salicifolium](../Fichas/4444%20Corynabutilon%20salicifolium.md) · 4444
+- ⬜ [Corynabutilon viride](../Fichas/4445%20Corynabutilon%20viride.md) · 4445
+- ⬜ [Corynabutilon vitifolium](../Fichas/4446%20Corynabutilon%20vitifolium.md) · 4446
+- ⬜ [Cristaria adenophora](../Fichas/4447%20Cristaria%20adenophora.md) · 4447
+- ⬜ [Cristaria andicola](../Fichas/4448%20Cristaria%20andicola.md) · 4448
+- ⬜ [Cristaria argyliifolia](../Fichas/4449%20Cristaria%20argyliifolia.md) · 4449
+- ⬜ [Cristaria aspera var. aspera](../Fichas/4450%20Cristaria%20aspera%20var.%20aspera.md) · 4450
+- ⬜ [Cristaria aspera var. formosula](../Fichas/4451%20Cristaria%20aspera%20var.%20formosula.md) · 4451
+- ⬜ [Cristaria aspera var. sadae](../Fichas/4452%20Cristaria%20aspera%20var.%20sadae.md) · 4452
+- ⬜ [Cristaria calderiana](../Fichas/4453%20Cristaria%20calderiana.md) · 4453
+- ⬜ [Cristaria cordato-rotundifolia](../Fichas/4454%20Cristaria%20cordato-rotundifolia.md) · 4454
+- ⬜ [Cristaria cyanea](../Fichas/4455%20Cristaria%20cyanea.md) · 4455
+- ⬜ [Cristaria dissecta var. dissecta](../Fichas/4456%20Cristaria%20dissecta%20var.%20dissecta.md) · 4456
+- ⬜ [Cristaria dissecta var. glandulosa](../Fichas/4457%20Cristaria%20dissecta%20var.%20glandulosa.md) · 4457
+- ⬜ [Cristaria dissecta var. inconspicua](../Fichas/4458%20Cristaria%20dissecta%20var.%20inconspicua.md) · 4458
+- ⬜ [Cristaria fuentesiana](../Fichas/4459%20Cristaria%20fuentesiana.md) · 4459
+- ⬜ [Cristaria glaucophylla var. eriantha](../Fichas/4460%20Cristaria%20glaucophylla%20var.%20eriantha.md) · 4460
+- ⬜ [Cristaria glaucophylla var. glaucophylla](../Fichas/4461%20Cristaria%20glaucophylla%20var.%20glaucophylla.md) · 4461
+- ⬜ [Cristaria gracilis](../Fichas/4462%20Cristaria%20gracilis.md) · 4462
+- ⬜ [Cristaria insularis var. insularis](../Fichas/4463%20Cristaria%20insularis%20var.%20insularis.md) · 4463
+- ⬜ [Cristaria insularis var. johowii](../Fichas/4464%20Cristaria%20insularis%20var.%20johowii.md) · 4464
+- ⬜ [Cristaria integerrima var. integerrima](../Fichas/4465%20Cristaria%20integerrima%20var.%20integerrima.md) · 4465
+- ⬜ [Cristaria integerrima var. lobulata](../Fichas/4466%20Cristaria%20integerrima%20var.%20lobulata.md) · 4466
+- ⬜ [Cristaria leucantha](../Fichas/4467%20Cristaria%20leucantha.md) · 4467
+- ⬜ [Cristaria molinae](../Fichas/4468%20Cristaria%20molinae.md) · 4468
+- ⬜ [Cristaria multiflora](../Fichas/4469%20Cristaria%20multiflora.md) · 4469
+- ⬜ [Cristaria ovata](../Fichas/4470%20Cristaria%20ovata.md) · 4470
+- ⬜ [Cristaria tenuissima](../Fichas/4471%20Cristaria%20tenuissima.md) · 4471
+- ⬜ [Cristaria viridiluteola var. pinnata](../Fichas/4472%20Cristaria%20viridiluteola%20var.%20pinnata.md) · 4472
+- ⬜ [Cristaria viridiluteola var. viridiluteola](../Fichas/4473%20Cristaria%20viridiluteola%20var.%20viridiluteola.md) · 4473
+- ⬜ [Fuertesimalva chilensis](../Fichas/4534%20Fuertesimalva%20chilensis.md) · 4534
+- ⬜ [Fuertesimalva peruviana](../Fichas/4536%20Fuertesimalva%20peruviana.md) · 4536
+- ⬜ [Fuertesimalva sanambrosiana](../Fichas/4537%20Fuertesimalva%20sanambrosiana.md) · 4537
+- ⬜ [Gossypium barbadense](../Fichas/4474%20Gossypium%20barbadense.md) · 4474
+- ⬜ [Hibiscus trionum](../Fichas/4475%20Hibiscus%20trionum.md) · 4475
+- ⬜ [Lecanophora subacaulis](../Fichas/4476%20Lecanophora%20subacaulis.md) · 4476
+- ⬜ [Malva arborea](../Fichas/4478%20Malva%20arborea.md) · 4478
+- ⬜ [Malva assurgentiflora](../Fichas/4477%20Malva%20assurgentiflora.md) · 4477
+- ⬜ [Malva moschata](../Fichas/4479%20Malva%20moschata.md) · 4479
+- ⬜ [Malva multiflora](../Fichas/5960%20Malva%20multiflora.md) · 5960
+- ⬜ [Malva neglecta](../Fichas/4480%20Malva%20neglecta.md) · 4480
+- ⬜ [Malva nicaeensis](../Fichas/4481%20Malva%20nicaeensis.md) · 4481
+- ⬜ [Malva parviflora](../Fichas/4482%20Malva%20parviflora.md) · 4482
+- ⬜ [Malva sylvestris](../Fichas/4483%20Malva%20sylvestris.md) · 4483
+- ⬜ [Malva verticillata](../Fichas/4484%20Malva%20verticillata.md) · 4484
+- ⬜ [Malvastrum coromandelianum subsp. coromandelianum](../Fichas/4485%20Malvastrum%20coromandelianum%20subsp.%20coromandelianum.md) · 4485
+- ⬜ [Malvella leprosa](../Fichas/4486%20Malvella%20leprosa.md) · 4486
+- ⬜ [Modiola caroliniana](../Fichas/4487%20Modiola%20caroliniana.md) · 4487
+- ⬜ [Nototriche alternata](../Fichas/4488%20Nototriche%20alternata.md) · 4488
+- ⬜ [Nototriche anthemidifolia](../Fichas/4489%20Nototriche%20anthemidifolia.md) · 4489
+- ⬜ [Nototriche argentea](../Fichas/4490%20Nototriche%20argentea.md) · 4490
+- ⬜ [Nototriche auricoma](../Fichas/4491%20Nototriche%20auricoma.md) · 4491
+- ⬜ [Nototriche clandestina](../Fichas/4492%20Nototriche%20clandestina.md) · 4492
+- ⬜ [Nototriche compacta](../Fichas/4493%20Nototriche%20compacta.md) · 4493
+- ⬜ [Nototriche diminutiva](../Fichas/4494%20Nototriche%20diminutiva.md) · 4494
+- ⬜ [Nototriche estipulata](../Fichas/4495%20Nototriche%20estipulata.md) · 4495
+- ⬜ [Nototriche heroica](../Fichas/5962%20Nototriche%20heroica.md) · 5962
+- ⬜ [Nototriche hillii](../Fichas/4496%20Nototriche%20hillii.md) · 4496
+- ⬜ [Nototriche leucosphaera](../Fichas/4497%20Nototriche%20leucosphaera.md) · 4497
+- ⬜ [Nototriche meyenii](../Fichas/4498%20Nototriche%20meyenii.md) · 4498
+- ⬜ [Nototriche nana](../Fichas/4499%20Nototriche%20nana.md) · 4499
+- ⬜ [Nototriche obcuneata var. cinerea](../Fichas/4500%20Nototriche%20obcuneata%20var.%20cinerea.md) · 4500
+- ⬜ [Nototriche obcuneata var. obcuneata](../Fichas/4501%20Nototriche%20obcuneata%20var.%20obcuneata.md) · 4501
+- ⬜ [Nototriche orbignyana](../Fichas/4502%20Nototriche%20orbignyana.md) · 4502
+- ⬜ [Nototriche ovata](../Fichas/4503%20Nototriche%20ovata.md) · 4503
+- ⬜ [Nototriche parviflora](../Fichas/4504%20Nototriche%20parviflora.md) · 4504
+- ⬜ [Nototriche philippii](../Fichas/4505%20Nototriche%20philippii.md) · 4505
+- ⬜ [Nototriche pulverulenta](../Fichas/4506%20Nototriche%20pulverulenta.md) · 4506
+- ⬜ [Nototriche pulvinata](../Fichas/4507%20Nototriche%20pulvinata.md) · 4507
+- ⬜ [Nototriche pusilla](../Fichas/4508%20Nototriche%20pusilla.md) · 4508
+- ⬜ [Nototriche pygmaea](../Fichas/4509%20Nototriche%20pygmaea.md) · 4509
+- ⬜ [Nototriche rugosa](../Fichas/4510%20Nototriche%20rugosa.md) · 4510
+- ⬜ [Nototriche stipularis](../Fichas/4511%20Nototriche%20stipularis.md) · 4511
+- ⬜ [Nototriche turritella](../Fichas/4512%20Nototriche%20turritella.md) · 4512
+- ⬜ [Palaua concinna](../Fichas/4513%20Palaua%20concinna.md) · 4513
+- ⬜ [Palaua dissecta](../Fichas/4514%20Palaua%20dissecta.md) · 4514
+- ⬜ [Palaua inconspicua](../Fichas/4515%20Palaua%20inconspicua.md) · 4515
+- ⬜ [Palaua modesta](../Fichas/4516%20Palaua%20modesta.md) · 4516
+- ⬜ [Sida rhombifolia](../Fichas/4517%20Sida%20rhombifolia.md) · 4517
+- ⬜ [Sida spinosa](../Fichas/4518%20Sida%20spinosa.md) · 4518
+- ⬜ [Sphaeralcea obtusiloba](../Fichas/4519%20Sphaeralcea%20obtusiloba.md) · 4519
+- ⬜ [Sphaeralcea purpurata](../Fichas/4520%20Sphaeralcea%20purpurata.md) · 4520
+- ⬜ [Tarasa antofagastana](../Fichas/4521%20Tarasa%20antofagastana.md) · 4521
+- ⬜ [Tarasa congestiflora](../Fichas/4522%20Tarasa%20congestiflora.md) · 4522
+- ⬜ [Tarasa humilis](../Fichas/4523%20Tarasa%20humilis.md) · 4523
+- ⬜ [Tarasa martiniana](../Fichas/4524%20Tarasa%20martiniana.md) · 4524
+- ⬜ [Tarasa operculata](../Fichas/4525%20Tarasa%20operculata.md) · 4525
+- ⬜ [Tarasa pediculata](../Fichas/4526%20Tarasa%20pediculata.md) · 4526
+- ⬜ [Tarasa reichei](../Fichas/4527%20Tarasa%20reichei.md) · 4527
+- ⬜ [Tarasa tarapacana](../Fichas/4528%20Tarasa%20tarapacana.md) · 4528
+- ⬜ [Tarasa tenella](../Fichas/4529%20Tarasa%20tenella.md) · 4529
+- ⬜ [Tarasa umbellata](../Fichas/4530%20Tarasa%20umbellata.md) · 4530
+- ⬜ [Thespesia populnea](../Fichas/4531%20Thespesia%20populnea.md) · 4531
+- ⬜ [Triumfetta semitriloba](../Fichas/4532%20Triumfetta%20semitriloba.md) · 4532
+- ⬜ [Urocarpidium albiflorum](../Fichas/4533%20Urocarpidium%20albiflorum.md) · 4533
+- ⬜ [Urocarpidium mathewsii](../Fichas/4535%20Urocarpidium%20mathewsii.md) · 4535
+- ⬜ [Waltheria indica](../Fichas/4538%20Waltheria%20indica.md) · 4538

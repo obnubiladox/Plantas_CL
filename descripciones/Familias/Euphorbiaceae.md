@@ -1,0 +1,59 @@
+# Euphorbiaceae
+
+[← Índice](../INDICE.md) · 0 de 55 especies con descripción.
+
+- ⬜ [Adenopeltis serrata](../Fichas/3766%20Adenopeltis%20serrata.md) · 3766
+- ⬜ [Avellanita bustillosii](../Fichas/3767%20Avellanita%20bustillosii.md) · 3767
+- ⬜ [Chiropetalum berterianum var. berterianum](../Fichas/3768%20Chiropetalum%20berterianum%20var.%20berterianum.md) · 3768
+- ⬜ [Chiropetalum berterianum var. psiladenium](../Fichas/3769%20Chiropetalum%20berterianum%20var.%20psiladenium.md) · 3769
+- ⬜ [Chiropetalum canescens](../Fichas/3770%20Chiropetalum%20canescens.md) · 3770
+- ⬜ [Chiropetalum cremnophilum](../Fichas/3771%20Chiropetalum%20cremnophilum.md) · 3771
+- ⬜ [Chiropetalum tricuspidatum](../Fichas/3772%20Chiropetalum%20tricuspidatum.md) · 3772
+- ⬜ [Colliguaja dombeyana](../Fichas/3773%20Colliguaja%20dombeyana.md) · 3773
+- ⬜ [Colliguaja integerrima](../Fichas/3774%20Colliguaja%20integerrima.md) · 3774
+- ⬜ [Colliguaja odorifera](../Fichas/3775%20Colliguaja%20odorifera.md) · 3775
+- ⬜ [Colliguaja salicifolia](../Fichas/3776%20Colliguaja%20salicifolia.md) · 3776
+- ⬜ [Croton chilensis](../Fichas/3777%20Croton%20chilensis.md) · 3777
+- ⬜ [Croton setiger](../Fichas/3778%20Croton%20setiger.md) · 3778
+- ⬜ [Dysopsis chilensis](../Fichas/5822%20Dysopsis%20chilensis.md) · 5822
+- ⬜ [Dysopsis glechomoides](../Fichas/3779%20Dysopsis%20glechomoides.md) · 3779
+- ⬜ [Dysopsis hirsuta](../Fichas/3780%20Dysopsis%20hirsuta.md) · 3780
+- ⬜ [Euphorbia amandi](../Fichas/3781%20Euphorbia%20amandi.md) · 3781
+- ⬜ [Euphorbia araucana](../Fichas/3782%20Euphorbia%20araucana.md) · 3782
+- ⬜ [Euphorbia besseri](../Fichas/3783%20Euphorbia%20besseri.md) · 3783
+- ⬜ [Euphorbia collina var. andina](../Fichas/3784%20Euphorbia%20collina%20var.%20andina.md) · 3784
+- ⬜ [Euphorbia collina var. collina](../Fichas/3785%20Euphorbia%20collina%20var.%20collina.md) · 3785
+- ⬜ [Euphorbia collina var. minor](../Fichas/3786%20Euphorbia%20collina%20var.%20minor.md) · 3786
+- ⬜ [Euphorbia collina var. spathulata](../Fichas/3787%20Euphorbia%20collina%20var.%20spathulata.md) · 3787
+- ⬜ [Euphorbia copiapina](../Fichas/3788%20Euphorbia%20copiapina.md) · 3788
+- ⬜ [Euphorbia cyathophora](../Fichas/3789%20Euphorbia%20cyathophora.md) · 3789
+- ⬜ [Euphorbia elquiensis](../Fichas/3790%20Euphorbia%20elquiensis.md) · 3790
+- ⬜ [Euphorbia engelmannii](../Fichas/3791%20Euphorbia%20engelmannii.md) · 3791
+- ⬜ [Euphorbia falcata](../Fichas/3792%20Euphorbia%20falcata.md) · 3792
+- ⬜ [Euphorbia germainii](../Fichas/3793%20Euphorbia%20germainii.md) · 3793
+- ⬜ [Euphorbia helioscopia](../Fichas/3794%20Euphorbia%20helioscopia.md) · 3794
+- ⬜ [Euphorbia hirta var. hirta](../Fichas/3795%20Euphorbia%20hirta%20var.%20hirta.md) · 3795
+- ⬜ [Euphorbia hirta var. ophthalmica](../Fichas/5726%20Euphorbia%20hirta%20var.%20ophthalmica.md) · 5726
+- ⬜ [Euphorbia hypericifolia](../Fichas/3796%20Euphorbia%20hypericifolia.md) · 3796
+- ⬜ [Euphorbia klotzschii var. argentina](../Fichas/3797%20Euphorbia%20klotzschii%20var.%20argentina.md) · 3797
+- ⬜ [Euphorbia klotzschii var. klotzschii](../Fichas/3798%20Euphorbia%20klotzschii%20var.%20klotzschii.md) · 3798
+- ⬜ [Euphorbia klotzschii var. schizosepala](../Fichas/3799%20Euphorbia%20klotzschii%20var.%20schizosepala.md) · 3799
+- ⬜ [Euphorbia lactiflua](../Fichas/3800%20Euphorbia%20lactiflua.md) · 3800
+- ⬜ [Euphorbia lathyris](../Fichas/3801%20Euphorbia%20lathyris.md) · 3801
+- ⬜ [Euphorbia macraulonia](../Fichas/3802%20Euphorbia%20macraulonia.md) · 3802
+- ⬜ [Euphorbia maculata](../Fichas/3803%20Euphorbia%20maculata.md) · 3803
+- ⬜ [Euphorbia meyeniana](../Fichas/3804%20Euphorbia%20meyeniana.md) · 3804
+- ⬜ [Euphorbia ovalleana](../Fichas/3805%20Euphorbia%20ovalleana.md) · 3805
+- ⬜ [Euphorbia peplus](../Fichas/3806%20Euphorbia%20peplus.md) · 3806
+- ⬜ [Euphorbia philippiana](../Fichas/3807%20Euphorbia%20philippiana.md) · 3807
+- ⬜ [Euphorbia platyphyllos](../Fichas/3808%20Euphorbia%20platyphyllos.md) · 3808
+- ⬜ [Euphorbia porphyrantha](../Fichas/3809%20Euphorbia%20porphyrantha.md) · 3809
+- ⬜ [Euphorbia portulacoides](../Fichas/3810%20Euphorbia%20portulacoides.md) · 3810
+- ⬜ [Euphorbia raphilippii](../Fichas/3811%20Euphorbia%20raphilippii.md) · 3811
+- ⬜ [Euphorbia serpens](../Fichas/3812%20Euphorbia%20serpens.md) · 3812
+- ⬜ [Euphorbia tarapacana](../Fichas/3813%20Euphorbia%20tarapacana.md) · 3813
+- ⬜ [Euphorbia terracina](../Fichas/3814%20Euphorbia%20terracina.md) · 3814
+- ⬜ [Euphorbia thinophila](../Fichas/3815%20Euphorbia%20thinophila.md) · 3815
+- ⬜ [Euphorbia verna](../Fichas/3816%20Euphorbia%20verna.md) · 3816
+- ⬜ [Mercurialis annua](../Fichas/3818%20Mercurialis%20annua.md) · 3818
+- ⬜ [Ricinus communis](../Fichas/3819%20Ricinus%20communis.md) · 3819
