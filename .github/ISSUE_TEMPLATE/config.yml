@@ -1,0 +1,12 @@
+# Opciones de "New issue" del repo de datos (obnubiladox/Plantas_CL).
+blank_issues_enabled: true
+contact_links:
+  - name: Escribir o mejorar una descripción
+    url: https://github.com/obnubiladox/Plantas_CL/blob/main/descripciones/CONTRIBUTING.md
+    about: Las descripciones se proponen editando la ficha de la especie (no con un issue). Aquí está cómo.
+  - name: Índice de las descripciones
+    url: https://github.com/obnubiladox/Plantas_CL/blob/main/descripciones/INDICE.md
+    about: Todas las especies por familia, con las que ya tienen descripción.
+  - name: Política de privacidad
+    url: https://github.com/obnubiladox/Plantas_CL/blob/main/PRIVACIDAD.md
+    about: Qué datos maneja la app y adónde van.

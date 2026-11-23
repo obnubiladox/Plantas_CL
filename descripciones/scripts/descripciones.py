@@ -176,18 +176,28 @@ def from_especie(especie: str) -> str | None:
     return " ".join(out)
 
 
-def load_catalog(root: Path, db_path: str | None = None) -> dict[int, Species]:
-    """Las especies de la base publicada (Updates/catalogo.json → catalogo.db.gz), o de una catalogo.db local."""
-    tmp = None
-    if db_path is None:
+_DB_CACHE: dict[str, str] = {}
+
+
+def catalog_db(root: Path, db_path: str | None = None) -> str:
+    """La catalogo.db publicada (Updates/catalogo.json → catalogo.db.gz), bajada una vez por ejecución; o una local."""
+    if db_path:
+        return db_path
+    key = str(root)
+    if key not in _DB_CACHE:
         m = json.loads(paths(root)["catalog_manifest"].read_text("utf-8"))
         data = fetch(m["db"])
         if m.get("dbSha256") and sha256(data) != m["dbSha256"]:
             raise SystemExit("La catalogo.db.gz publicada no coincide con su sha256 (Updates/catalogo.json).")
         tmp = Path(tempfile.mkdtemp()) / "catalogo.db"
         tmp.write_bytes(gzip.decompress(data))
-        db_path = str(tmp)
-    con = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
+        _DB_CACHE[key] = str(tmp)
+    return _DB_CACHE[key]
+
+
+def load_catalog(root: Path, db_path: str | None = None) -> dict[int, Species]:
+    """Las especies de la base (publicada o local), con el nombre que muestra la app y su familia."""
+    con = sqlite3.connect(f"file:{catalog_db(root, db_path)}?mode=ro", uri=True)
     try:
         out = {}
         for cid, especie, display, familia in con.execute(
@@ -199,8 +209,17 @@ def load_catalog(root: Path, db_path: str | None = None) -> dict[int, Species]:
         return out
     finally:
         con.close()
-        if tmp:
-            shutil.rmtree(tmp.parent, ignore_errors=True)
+
+
+def load_renumbered(root: Path, db_path: str | None = None) -> dict[int, int]:
+    """Especies que cambiaron de N.° de ficha (tabla `renumbered` de la base; vacía si no la trae)."""
+    con = sqlite3.connect(f"file:{catalog_db(root, db_path)}?mode=ro", uri=True)
+    try:
+        return {int(a): int(b) for a, b in con.execute("SELECT oldId, newId FROM renumbered")}
+    except sqlite3.OperationalError:
+        return {}
+    finally:
+        con.close()
 
 
 def expected_name(sp: Species) -> str:
@@ -676,9 +695,52 @@ def cmd_revisar(root: Path, base: str | None, autor: str, dueno: str, catalog_db
     return 1 if errors else 0
 
 
-def cmd_plantillas(root: Path, catalog_db: str | None) -> int:
+def git_move(root: Path, source: Path, target: Path, in_git: bool):
+    if in_git:
+        git(root, "mv", source.relative_to(root).as_posix(), target.relative_to(root).as_posix())
+    else:
+        source.rename(target)
+
+
+def set_title(file: Path, name: str):
+    """La primera línea (# Nombre) con el nombre del catálogo."""
+    text = file.read_text("utf-8")
+    first, _, rest = text.partition("\n")
+    if first.startswith("# "):
+        file.write_text(f"# {name}\n" + rest, encoding="utf-8", newline="\n")
+
+
+def move_renumbered(root: Path, catalog: dict, renumbered: dict[int, int], fichas: dict, in_git: bool) -> int:
+    """Una especie que cambió de N.° se lleva su ficha (con su texto) al número nuevo.
+    Si las dos tienen texto no se toca nada: se avisa para juntarlas a mano."""
+    moved = 0
+    for old, new in sorted(renumbered.items()):
+        source, sp = fichas.get(old), catalog.get(new)
+        if source is None or sp is None or old in catalog:
+            continue
+        current = fichas.get(new)
+        if current is not None:
+            if read_ficha(current)[0]:
+                if read_ficha(source)[0]:
+                    annotate("warning", source.path, None,
+                             f"La especie pasó al N.° {new} y las dos fichas tienen texto: júntalas a mano en {current.path}.")
+                continue
+            if in_git:
+                git(root, "rm", "-q", current.file.relative_to(root).as_posix())
+            else:
+                current.file.unlink()
+        target = paths(root)["fichas"] / expected_name(sp)
+        git_move(root, source.file, target, in_git)
+        set_title(target, sp.name)
+        fichas[new] = Ficha(new, target.relative_to(root).as_posix(), sp.name, target)
+        fichas.pop(old, None)
+        moved += 1
+    return moved
+
+
+def cmd_plantillas(root: Path, catalog_db_path: str | None) -> int:
     p = paths(root)
-    catalog = load_catalog(root, catalog_db)
+    catalog = load_catalog(root, catalog_db_path)
     problems: list = []
     fichas = list_fichas(root, problems)
     for file, line, msg in problems:
@@ -687,6 +749,9 @@ def cmd_plantillas(root: Path, catalog_db: str | None) -> int:
         return 1
     p["fichas"].mkdir(parents=True, exist_ok=True)
     in_git = (root / ".git").exists()
+    moved = move_renumbered(root, catalog, load_renumbered(root, catalog_db_path), fichas, in_git)
+    if moved:
+        fichas = list_fichas(root, [])
     created = renamed = 0
     for sp in sorted(catalog.values(), key=lambda s: s.id):
         name = expected_name(sp)
@@ -698,14 +763,8 @@ def cmd_plantillas(root: Path, catalog_db: str | None) -> int:
         if f.file.name == name:
             continue
         target = p["fichas"] / name
-        if in_git:
-            git(root, "mv", f.file.relative_to(root).as_posix(), target.relative_to(root).as_posix())
-        else:
-            f.file.rename(target)
-        text = target.read_text("utf-8")
-        lines = text.split("\n", 1)
-        if lines[0].startswith("# "):        # el nombre de la primera línea también
-            target.write_text(f"# {sp.name}\n" + (lines[1] if len(lines) > 1 else ""), encoding="utf-8", newline="\n")
+        git_move(root, f.file, target, in_git)
+        set_title(target, sp.name)           # el nombre de la primera línea también
         renamed += 1
     orphans = sorted(cid for cid in fichas if cid not in catalog)
     for cid in orphans:
@@ -713,7 +772,8 @@ def cmd_plantillas(root: Path, catalog_db: str | None) -> int:
     fichas = list_fichas(root, [])
     with_text = {cid for cid, f in fichas.items() if read_ficha(f)[0]}
     write_index(root, catalog, fichas, with_text, today_chile())
-    summary(f"### Plantillas\n\n{es_number(created)} fichas nuevas, {es_number(renamed)} renombradas"
+    summary(f"### Plantillas\n\n{es_number(created)} fichas nuevas, {es_number(renamed)} renombradas, "
+            f"{es_number(moved)} movidas a su N.° nuevo"
             f"{f', {len(orphans)} sin especie en el catálogo' if orphans else ''}.")
     return 0
 
@@ -755,12 +815,41 @@ def cmd_armar(root: Path, out: Path, previous_files: list[str], version: int | N
     return 0
 
 
+ORPHAN_TITLE = "Fichas de descripciones sin especie en el catálogo"
+
+
+def report_orphans(root: Path, catalog: dict):
+    """Las fichas con texto cuyo N.° ya no está en el catálogo no se publican: se avisa en
+    un issue (uno solo, que se actualiza y se cierra solo cuando ya no queda ninguna)."""
+    orphans = [f for cid, f in sorted(list_fichas(root, []).items()) if cid not in catalog and read_ficha(f)[0]]
+    found = json.loads(gh("issue", "list", "--repo", REPO, "--state", "open", "--search", f"{ORPHAN_TITLE} in:title",
+                          "--json", "number,title"))
+    existing = [i["number"] for i in found if i["title"] == ORPHAN_TITLE]
+    if not orphans:
+        for number in existing:
+            gh("issue", "close", str(number), "--repo", REPO, "--comment", "Ya no quedan fichas con texto sin especie.")
+        return
+    body = ("Estas fichas tienen texto, pero su N.° ya no está en el catálogo, así que **no llegan a la app**. "
+            "Si la especie cambió de número, mueve el texto a su ficha nueva (o agrega la renumeración en "
+            "`renumeraciones.csv` y vuelve a publicar el catálogo); si se eliminó, deja la ficha vacía o bórrala.\n\n"
+            + "\n".join(f"- [{f.file.name}](../blob/main/{urllib.parse.quote(f.path)})" for f in orphans))
+    if existing:
+        gh("issue", "edit", str(existing[0]), "--repo", REPO, "--body", body)
+    else:
+        gh("issue", "create", "--repo", REPO, "--title", ORPHAN_TITLE, "--body", body)
+    annotate("warning", None, None, f"{len(orphans)} fichas con texto sin especie en el catálogo (ver el issue).")
+
+
 def cmd_publicar(root: Path, notes: str, catalog_db: str | None) -> int:
     p = paths(root)
     catalog = load_catalog(root, catalog_db)
     entries = check_all(root, catalog)
     if entries is None:
         return 1
+    try:
+        report_orphans(root, catalog)
+    except (subprocess.CalledProcessError, OSError) as e:      # el aviso no frena la publicación
+        annotate("warning", None, None, f"No se pudo revisar el issue de fichas sin especie: {e}")
     target = content_hash(entries)
     current = json.loads(p["manifest"].read_text("utf-8")) if p["manifest"].exists() else {}
     if current.get("contentSha256") == target:

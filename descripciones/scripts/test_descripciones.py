@@ -101,6 +101,28 @@ class NamesTest(unittest.TestCase):
         self.assertEqual("12 Aa b_c.md", d.expected_name(d.Species(12, "Aa b/c", "F")))
 
 
+class RenumberTest(unittest.TestCase):
+
+    def test_renumbered_ficha_keeps_its_text(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            fichas = root / "descripciones" / "Fichas"
+            fichas.mkdir(parents=True)
+            (fichas / "10 Aa bb.md").write_text("# Aa bb\n\nTexto escrito.\n", encoding="utf-8")
+            (fichas / "20 Aa cc.md").write_text("# Aa cc\n", encoding="utf-8")          # plantilla vacía del N.° nuevo
+            (fichas / "30 Dd ee.md").write_text("# Dd ee\n\nUno.\n", encoding="utf-8")
+            (fichas / "40 Dd ff.md").write_text("# Dd ff\n\nDos.\n", encoding="utf-8")  # las dos con texto
+            catalog = {20: d.Species(20, "Aa cc", "F"), 40: d.Species(40, "Dd ff", "F")}
+            found = d.list_fichas(root, [])
+            moved = d.move_renumbered(root, catalog, {10: 20, 30: 40}, found, in_git=False)
+            self.assertEqual(1, moved)
+            self.assertFalse((fichas / "10 Aa bb.md").exists())
+            self.assertEqual("# Aa cc\n\nTexto escrito.\n", (fichas / "20 Aa cc.md").read_text("utf-8"))
+            # Con texto en las dos no se toca nada: se junta a mano.
+            self.assertTrue((fichas / "30 Dd ee.md").exists())
+            self.assertEqual("# Dd ff\n\nDos.\n", (fichas / "40 Dd ff.md").read_text("utf-8"))
+
+
 class ReleaseTest(unittest.TestCase):
 
     def test_hash_is_stable(self):

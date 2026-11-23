@@ -5,7 +5,8 @@
 #      últimas 6 publicaciones),
 #   2. actualiza Updates/descripciones.json y el índice (commit en main con la
 #      llave de despliegue, que el ruleset deja pasar),
-#   3. borra los Releases de descripciones más viejos que esas 6.
+#   3. borra los Releases de descripciones más viejos que esas 6, y
+#   4. abre (o cierra) el issue de fichas con texto cuyo N.° ya no está en el catálogo.
 name: Publicar descripciones
 
 on:
@@ -18,6 +19,7 @@ on:
 
 permissions:
   contents: write
+  issues: write       # aviso de fichas con texto sin especie en el catálogo
 
 concurrency:
   group: descripciones-main
