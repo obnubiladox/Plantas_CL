@@ -55,9 +55,9 @@ La app se conecta solo a estos servicios y solo para lo que se indica:
 
 | Servicio | Para qué |
 |---|---|
-| iNaturalist (`api.inaturalist.org`, `tiles.inaturalist.org` y sus servidores de fotos) | Buscar y descargar fotos de especies, importar listas o búsquedas que tú pegues y, al abrir la ficha de una especie que no viene en la app, cuántas observaciones tiene en Chile para su mapa (las de las especies de la base vienen incluidas) |
+| iNaturalist (`api.inaturalist.org`, `tiles.inaturalist.org` y sus servidores de fotos) | Buscar y descargar fotos de especies, importar listas o búsquedas que tú pegues y, al abrir la ficha de una especie que no viene en la app, cuántas observaciones tiene en Chile para su mapa (las de las especies de la base se descargan juntas desde GitHub; mientras no están, también se consultan así) |
 | Catálogo de plantas de la Universidad de Concepción (`catalogoplantas.udec.cl`) | Mostrar y descargar las fotos de la ficha de una especie, cuando lo pides |
-| Herbario Digital de la Universidad de Concepción (`www.herbariodigital.cl` e `images.herbariodigital.cl`) | Mostrar y descargar fotos de campo y pliegos de herbario de una especie, cuando lo pides, y abrir la ficha de un ejemplar que tocas en el mapa (los ejemplares de cada especie vienen incluidos) |
+| Herbario Digital de la Universidad de Concepción (`www.herbariodigital.cl` e `images.herbariodigital.cl`) | Mostrar y descargar fotos de campo y pliegos de herbario de una especie, cuando lo pides, y abrir la ficha de un ejemplar que tocas en el mapa (los ejemplares de cada especie se descargan juntos desde GitHub) |
 | GitHub (`raw.githubusercontent.com` y `github.com`) | Revisar si hay versiones nuevas de la base de datos, de las descripciones, de las observaciones de iNaturalist y de los ejemplares de Herbario Digital para los mapas, y descargarlas. Además, los botones **Escribir en GitHub** y **Mejorar en GitHub** de la pestaña Descripción abren esa página en tu navegador, solo cuando los tocas |
 
 En esas conexiones **no se envían datos personales**: ni tus notas, ni tus
