@@ -1,0 +1,50 @@
+# Revisa cada PR: formato de las fichas, nombres, N.° en el catálogo y las
+# casillas de licencia. Es el chequeo obligatorio del ruleset de main
+# ("revisar"), así que corre en todos los PR; si no tocan las fichas, pasa al
+# tiro. Los problemas salen como anotaciones en "Files changed".
+name: Revisar descripciones
+
+on:
+  pull_request:
+    # edited: al marcar las casillas de la descripción del PR se vuelve a revisar.
+    types: [opened, synchronize, reopened, edited]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: revisar-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  revisar:
+    name: revisar
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # El script de la rama base, no el del PR: una propuesta no puede
+      # cambiar cómo se la revisa. (La primera vez, sin script en main, el del PR.)
+      - name: Script de revisión
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
+        run: |
+          git show "$BASE:descripciones/scripts/descripciones.py" > "$RUNNER_TEMP/descripciones.py" 2>/dev/null \
+            || cp descripciones/scripts/descripciones.py "$RUNNER_TEMP/descripciones.py"
+
+      # Lo que escribe la persona (la descripción del PR) va por variables de
+      # entorno, nunca dentro del script.
+      - name: Revisar
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
+          PR_AUTOR: ${{ github.event.pull_request.user.login }}
+          PR_BODY: ${{ github.event.pull_request.body }}
+          DUENO: ${{ github.repository_owner }}
+        run: python "$RUNNER_TEMP/descripciones.py" --raiz . revisar --base "$BASE" --autor "$PR_AUTOR" --dueno "$DUENO"

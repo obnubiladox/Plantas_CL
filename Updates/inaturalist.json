@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "schema": 1,
+  "file": "https://github.com/obnubiladox/Plantas_CL/releases/download/inaturalist-v2/inaturalist.db.gz",
+  "sha256": "ea60d6e1d1b01cfe84218e254e0d204450ae3cbfc750ff5af87585a5a48b1870",
+  "bytes": 279705,
+  "rows": 4676,
+  "updated": "2026-11-11",
+  "since": "2026-11-11",
+  "notes": "DS68 revisado contra la nómina del D.S. 68/2009 (BCN)",
+  "contentSha256": "3e6ea51fece9a0022a37cbea4205cf24006459f6adeb6cebbd5e47f187da50f1"
+}

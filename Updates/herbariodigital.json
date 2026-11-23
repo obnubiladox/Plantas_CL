@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "schema": 1,
+  "file": "https://github.com/obnubiladox/Plantas_CL/releases/download/herbariodigital-v2/herbariodigital.db.gz",
+  "sha256": "973fa5be7797ad3488860d9ba5ee05b476f2cf3c087f4003065e688fae339e11",
+  "bytes": 1119687,
+  "rows": 5578,
+  "specimens": 173148,
+  "updated": "2026-11-11",
+  "notes": "DS68 revisado contra la nómina del D.S. 68/2009 (BCN)",
+  "contentSha256": "a642e7f463ac81416b44c20a94cda95d4966090e8991e0489669c7c884fb0a66"
+}

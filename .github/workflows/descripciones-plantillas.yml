@@ -1,0 +1,44 @@
+# Pone las fichas al día con la base publicada (Updates/catalogo.json), solo a
+# mano: crea las de especies nuevas (vacías, con su nombre en la primera
+# línea), renombra las que cambiaron de nombre y rehace el índice. Las de
+# especies que ya no están en el catálogo no se borran: se avisan.
+# La primera vez crea las ~5.600 fichas. Correrlo después de publicar una base nueva.
+name: Plantillas de descripciones
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: descripciones-main
+  cancel-in-progress: false
+
+jobs:
+  plantillas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.DESCRIPCIONES_DEPLOY_KEY }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Plantillas e índice
+        run: python descripciones/scripts/descripciones.py plantillas
+
+      - name: Subir
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A descripciones
+          if git diff --cached --quiet; then
+            echo "Las fichas ya estaban al día." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          git commit -m "Fichas de descripciones al día con el catálogo"
+          git push

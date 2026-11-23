@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "sha256": "9707f6c9dfdd99e727a6d051c9ff5ed73f09a62062af8d90785d7444f7f92401",
+  "rows": 5588,
+  "updated": "2026-11-11",
+  "notes": "DS68 revisado contra la nómina del D.S. 68/2009 (BCN)",
+  "db": "https://github.com/obnubiladox/Plantas_CL/releases/download/catalogo-v2/catalogo.db.gz",
+  "dbSha256": "ff1e9f4218f6ad4491dcda377383c99968dee0169141e9d8bb5369127d4302f5",
+  "dbMapper": 5
+}

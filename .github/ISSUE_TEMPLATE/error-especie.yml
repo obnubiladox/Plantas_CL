@@ -1,6 +1,6 @@
 # Copiar a .github/ISSUE_TEMPLATE/error-especie.yml del repo de datos
-# (obnubiladox/Florax). La app abre
-#   https://github.com/obnubiladox/Florax/issues/new?template=error-especie.yml&id_especie=…&especie=…&version_base=…&mensaje=…
+# (obnubiladox/Plantas_CL). La app abre
+#   https://github.com/obnubiladox/Plantas_CL/issues/new?template=error-especie.yml&id_especie=…&especie=…&version_base=…&mensaje=…
 # y GitHub llena cada campo cuyo `id` coincide con un parámetro de la URL.
 name: Error en una especie
 description: Algo está mal en la ficha de una especie (nombre, distribución, categoría, fotos…).
