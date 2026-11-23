@@ -1,48 +1,67 @@
 # Plantas_CL
 
-Una app para Android con el catálogo de las plantas vasculares de Chile: unas
-**5.500 especies** para buscar, filtrar, conocer y fotografiar, en el
-teléfono y **sin conexión**.
+Los **datos abiertos** de [Plantas_CL](https://play.google.com/store/apps/details?id=cl.obnubilado.plantascl),
+una app para Android con el catálogo de las plantas vasculares de Chile: unas
+**5.500 especies** para buscar, filtrar, conocer y fotografiar, en el teléfono
+y **sin conexión**. Sin cuentas, sin anuncios, sin pagos y sin enviar datos
+tuyos a ninguna parte.
 
-Puedes marcar las especies que has visto o que te gustan, escribirles notas,
-juntar fotos de iNaturalist, del Catálogo de la Universidad de Concepción, de
-Herbario Digital o de tu propio teléfono, y armar galerías para tus salidas a
-terreno, tus clases o tus colecciones.
+Este repositorio no tiene el código de la app. Aquí está:
 
-Sin cuentas, sin anuncios, sin pagos y sin enviar datos tuyos a ninguna parte.
+| | Qué es |
+|---|---|
+| [`descripciones/`](descripciones) | Las **descripciones morfológicas**, una ficha por especie. **Cualquiera puede escribirlas o mejorarlas**: [cómo hacerlo](descripciones/CONTRIBUTING.md). |
+| [`Updates/`](Updates) | Los manifiestos que la app revisa una vez al día ([qué dice cada uno](Updates/README.md)). |
+| [Releases](https://github.com/obnubiladox/Plantas_CL/releases) | Los archivos que la app descarga: catálogo, descripciones, observaciones de iNaturalist y ejemplares de Herbario Digital. |
+| [Issues](https://github.com/obnubiladox/Plantas_CL/issues) | Errores en una especie y sugerencias. |
+| [`PRIVACIDAD.md`](PRIVACIDAD.md) | La política de privacidad de la app. |
 
-Este repositorio no tiene el código de la app: aquí se publican los **datos**
-que la app descarga (base de datos, descripciones, observaciones de
-iNaturalist y ejemplares de Herbario Digital), la
-[política de privacidad](PRIVACIDAD.md) y el formulario para
-[informar errores](https://github.com/obnubiladox/Plantas_CL/issues).
+## Los datos
 
-**Las descripciones morfológicas se escriben aquí**, una ficha por especie en
-[`descripciones`](descripciones), y cualquiera puede proponer una nueva o
-mejorar una existente: mira [cómo escribir una descripción](descripciones/CONTRIBUTING.md).
+| Datos | Qué trae | Se renueva | Fuente |
+|---|---|---|---|
+| **Catálogo** (`catalogo-AAAAMMDD`) | Las especies: taxonomía, sinónimos, hábito, origen, distribución por región, altitud, conservación, cruces con WFO, iNaturalist y Herbario Digital | cada 3 meses | [Catálogo de las Plantas Vasculares de Chile](https://catalogoplantas.udec.cl/) (Universidad de Concepción), [MMA](https://clasificacionespecies.mma.gob.cl/), [World Flora Online](https://www.worldfloraonline.org/) |
+| **Descripciones** (`descripciones-AAAAMMDD`) | La descripción morfológica de cada especie, con sus fuentes | cuando hay aportes nuevos | Quienes colaboran en [`descripciones/`](descripciones) (dominio público, [CC0 1.0](descripciones/LICENSE)) |
+| **Observaciones** (`inaturalist-AAAAMMDD`) | Cuántas observaciones verificables tiene cada especie en Chile, en celdas de ~20 km | cada 3 meses | [iNaturalist](https://www.inaturalist.org/) |
+| **Herbario** (`herbariodigital-AAAAMMDD`) | Los ejemplares de herbario georreferenciados de cada especie | cada 3 meses | [Herbario Digital](https://www.herbariodigital.cl/) (Universidad de Concepción) |
+
+- **La versión de cada dato es la fecha en que se publicó** (`20270215` = 15 de
+  febrero de 2027). Lo que decide si hay algo nuevo es su huella
+  (`contentSha256`): si el contenido no cambió, no se vuelve a publicar.
+- Cada Release guarda solo esa versión; quedan la actual y la anterior.
+- Si usas estos datos, **cita las fuentes originales** (abajo, en Créditos).
+  Cada una conserva su licencia: la app y este repositorio solo los reúnen.
+
+## Colaborar
+
+- **Escribir o mejorar una descripción:** busca la especie en el
+  [índice](descripciones/INDICE.md), toca el lápiz y propone el cambio. Una
+  revisión automática revisa el formato y cada propuesta se revisa antes de
+  llegar a la app. Paso a paso en [cómo escribir una descripción](descripciones/CONTRIBUTING.md).
+- **Informar un error:** desde la ficha de la especie en la app, **menú →
+  Informar error** (abre un formulario aquí, ya con la especie), o
+  [directamente](https://github.com/obnubiladox/Plantas_CL/issues/new/choose).
+
+Necesitas una cuenta de GitHub (es gratis).
 
 ---
 
-## Descargar
+## La app
 
 La app se instala **solo desde Google Play**:
 [Plantas_CL en Google Play](https://play.google.com/store/apps/details?id=cl.obnubilado.plantascl).
 Funciona desde **Android 7.0**.
 
-### Actualizaciones
-
 - **La app** se actualiza desde Google Play.
-- **Los datos** los revisa la app sola una vez al día y, si hay nuevos, los
-  instala y te avisa. En **menú → Actualizaciones** ves qué versión de cada uno
-  estás usando y puedes revisarlo cuando quieras: la base de datos, las
-  descripciones morfológicas, las observaciones de iNaturalist y los ejemplares
-  de Herbario Digital.
+- **Los datos** los revisa sola una vez al día y, si hay nuevos, los baja e
+  instala (casi siempre unos KB) y te avisa. La primera vez que la abres con
+  conexión baja las descripciones, las observaciones y el herbario. En **menú →
+  Actualizaciones** ves qué versión de cada uno tienes.
 
-Siempre se conservan tus marcas, notas, galerías y fotos.
+Siempre se conservan tus marcas, notas, galerías y fotos. Si una especie cambia
+de número en el catálogo, se van con ella.
 
----
-
-## Primeros pasos: elige una carpeta
+### Primeros pasos: elige una carpeta
 
 Al abrir la app por primera vez, te pide permiso para mostrar notificaciones
 (para el avance de las descargas) y que **elijas una carpeta** del teléfono
@@ -57,10 +76,6 @@ Esa carpeta **sigue ahí aunque desinstales la app**. Si reinstalas o cambias
 de teléfono (copiando la carpeta), elige la misma carpeta y todo vuelve.
 Todo lo de la carpeta está en **menú → Configuración**.
 
----
-
-## Funciones
-
 ### Catálogo
 
 Todas las especies como tarjetas: nombre científico, nombre común, hábito,
@@ -72,11 +87,8 @@ origen (endémica, nativa o introducida), categoría de conservación y fotos.
   conservación, distribución por región y rango altitudinal; y **Mostrar
   solo** Avistadas, Favoritas, Con notas, Con fotos, DS68 y Amenazadas. Cada
   opción dice cuántas especies quedarían.
-- **Amenazadas:** por defecto En peligro crítico, En peligro y Vulnerable; con
-  un toque largo eliges otras.
 - **Orden** por nombre científico, por clasificación o por familia y género,
   con grupos que se contraen y expanden.
-- **Selección múltiple** (toque largo) para agregar especies a una galería.
 - **Visor de fotos** con zoom: hacia los lados, otra foto; hacia arriba o
   abajo, otra especie.
 
@@ -86,25 +98,20 @@ Fotos, nombre común, hábito, origen, categoría de conservación y DS68;
 botones **Avistada**, **Favorita**, **Nota** y **Agregar a galería**. Debajo,
 pestañas con su fuente y un enlace a ella:
 
-- **Descripción:** la descripción morfológica, con sus fuentes. Sus botones
-  **Escribir en GitHub** y **Mejorar en GitHub** abren la ficha de la especie
-  en este repositorio.
+- **Descripción:** la descripción morfológica, con sus fuentes, y los botones
+  **Escribir en GitHub** o **Mejorar en GitHub**.
 - **Catálogo:** taxonomía, sinónimos, **distribución** con un **mapa de
   Chile** (relieve, regiones y, si quieres, las observaciones de iNaturalist y
   los ejemplares de Herbario Digital), rango altitudinal y notas.
 - **Conservación:** la clasificación del RCE con todo su detalle.
 - **WFO:** nombre aceptado y clasificación según World Flora Online.
-- **iNaturalist:** taxonomía y un mapa con las observaciones verificables en
-  Chile.
-- **Herbario Digital:** los ejemplares de herbario georreferenciados de la
-  especie, en un mapa.
+- **iNaturalist:** un mapa con las observaciones verificables en Chile.
+- **Herbario Digital:** los ejemplares de herbario georreferenciados, en un mapa.
 
 Los mapas se abren en pantalla completa, con zoom. Mantén presionada una
-pestaña para cambiar su orden.
-
-Desde el menú de la ficha puedes agregar fotos del teléfono; buscar fotos en
-iNaturalist, en el Catálogo o en Herbario Digital y elegir cuáles guardar;
-abrir la especie en esos sitios, e **informar un error**.
+pestaña para cambiar su orden. Desde el menú de la ficha puedes agregar fotos
+del teléfono, buscar fotos en iNaturalist, en el Catálogo o en Herbario Digital
+y elegir cuáles guardar, e **informar un error**.
 
 ### Galerías y colecciones
 
@@ -130,18 +137,10 @@ La app sigue el modo claro u oscuro del teléfono. Mantén presionado el título
 
 No hay cuentas. Tus marcas, notas, galerías y fotos se guardan solo en tu
 teléfono y en la carpeta que eliges. La app se conecta a internet solo para
-buscar y bajar fotos, crear galerías desde iNaturalist, mostrar el mapa de
-especies que no vienen incluidas y revisar actualizaciones; ninguna de esas
-consultas lleva datos tuyos. Detalle en la [política de privacidad](PRIVACIDAD.md).
-
----
-
-## Informar un error
-
-En la ficha de la especie, **menú → Informar error**: se abre un formulario en
-[Issues](https://github.com/obnubiladox/Plantas_CL/issues), ya completado con
-la especie (necesitas una cuenta de GitHub). Ahí también puedes dejar
-sugerencias.
+buscar y bajar fotos, crear galerías desde iNaturalist, bajar y revisar los
+datos de este repositorio y mostrar el mapa de especies que no están en la
+base; ninguna de esas consultas lleva datos tuyos. Detalle en la
+[política de privacidad](PRIVACIDAD.md).
 
 ---
 
