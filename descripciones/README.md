@@ -24,13 +24,3 @@ por especie, en Markdown, que cualquiera puede escribir o mejorar.
 La carpeta [`Fichas`](Fichas) tiene más de 5.000 archivos y la web de GitHub
 muestra solo los primeros 1.000: para encontrar una especie usa el
 [índice](INDICE.md) o la tecla `t` en la página del repositorio.
-
-## Para quien mantiene el repositorio
-
-- `scripts/descripciones.py`: la única lógica que lee las fichas (revisar,
-  plantillas, índice y publicar). Solo librería estándar de Python. Sus tests:
-  `python -m unittest descripciones/scripts/test_descripciones.py`.
-- Workflows (`.github/workflows/`): **Revisar descripciones** (cada PR; es el
-  chequeo obligatorio `revisar`), **Publicar descripciones** y **Plantillas de
-  descripciones** (los dos a mano, desde la pestaña Actions).
-- `INDICE.md` y `Familias/` los rehacen los workflows: no se editan a mano.
