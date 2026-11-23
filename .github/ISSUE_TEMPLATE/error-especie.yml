@@ -1,0 +1,30 @@
+# Copiar a .github/ISSUE_TEMPLATE/error-especie.yml del repo de datos
+# (obnubiladox/Plantas_CL). La app abre
+#   https://github.com/obnubiladox/Plantas_CL/issues/new?template=error-especie.yml&id_especie=…&especie=…&version_base=…&mensaje=…
+# y GitHub llena cada campo cuyo `id` coincide con un parámetro de la URL.
+name: Error en una especie
+description: Algo está mal en la ficha de una especie (nombre, distribución, categoría, fotos…).
+title: "[ID] Especie"
+labels: ["error-especie"]
+body:
+  - type: input
+    id: id_especie
+    attributes:
+      label: ID de la especie
+      description: Número de nodo de catalogoplantas.udec.cl (la app lo completa).
+    validations:
+      required: true
+  - type: input
+    id: especie
+    attributes:
+      label: Especie
+  - type: input
+    id: version_base
+    attributes:
+      label: Versión de la base
+  - type: textarea
+    id: mensaje
+    attributes:
+      label: ¿Qué está mal?
+    validations:
+      required: true

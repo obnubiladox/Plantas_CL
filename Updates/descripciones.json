@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "version": 20261123,
+  "updated": "2026-11-23",
+  "contentSha256": "091e54f17aa6e014a017e9aea47d7ef73e321d486b265d8233b982a36e55a960",
+  "rows": 0,
+  "species": 5588,
+  "notes": "Primera publicación: las fichas de todas las especies, listas para escribir.",
+  "full": {
+    "url": "https://github.com/obnubiladox/Plantas_CL/releases/download/descripciones-20261123/completo.json.gz",
+    "sha256": "091681f7f1881476b36c4a68d54700cf384a787f34ebb48b7ce29466c0453edb",
+    "bytes": 72149
+  },
+  "changes": []
+}

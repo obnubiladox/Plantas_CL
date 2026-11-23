@@ -1,0 +1,92 @@
+# Calceolariaceae
+
+[← Índice](../INDICE.md) · 0 de 88 especies con descripción.
+
+- ⬜ [Calceolaria aiseniana](../Fichas/3293%20Calceolaria%20aiseniana.md) · 3293
+- ⬜ [Calceolaria alba](../Fichas/3294%20Calceolaria%20alba.md) · 3294
+- ⬜ [Calceolaria andina](../Fichas/3295%20Calceolaria%20andina.md) · 3295
+- ⬜ [Calceolaria angustifolia](../Fichas/3296%20Calceolaria%20angustifolia.md) · 3296
+- ⬜ [Calceolaria arachnoidea subsp. arachnoidea](../Fichas/3297%20Calceolaria%20arachnoidea%20subsp.%20arachnoidea.md) · 3297
+- ⬜ [Calceolaria arachnoidea subsp. nubigena](../Fichas/3298%20Calceolaria%20arachnoidea%20subsp.%20nubigena.md) · 3298
+- ⬜ [Calceolaria ascendens subsp. ascendens](../Fichas/3299%20Calceolaria%20ascendens%20subsp.%20ascendens.md) · 3299
+- ⬜ [Calceolaria ascendens subsp. exigua](../Fichas/3300%20Calceolaria%20ascendens%20subsp.%20exigua.md) · 3300
+- ⬜ [Calceolaria ascendens subsp. glandulifera](../Fichas/3301%20Calceolaria%20ascendens%20subsp.%20glandulifera.md) · 3301
+- ⬜ [Calceolaria ascendens subsp. pristiphylla](../Fichas/3302%20Calceolaria%20ascendens%20subsp.%20pristiphylla.md) · 3302
+- ⬜ [Calceolaria asperula](../Fichas/3303%20Calceolaria%20asperula.md) · 3303
+- ⬜ [Calceolaria auriculata](../Fichas/3304%20Calceolaria%20auriculata.md) · 3304
+- ⬜ [Calceolaria biflora](../Fichas/3305%20Calceolaria%20biflora.md) · 3305
+- ⬜ [Calceolaria caleuana](../Fichas/3306%20Calceolaria%20caleuana.md) · 3306
+- ⬜ [Calceolaria campanae](../Fichas/3307%20Calceolaria%20campanae.md) · 3307
+- ⬜ [Calceolaria cana](../Fichas/3308%20Calceolaria%20cana.md) · 3308
+- ⬜ [Calceolaria chasmophila](../Fichas/5896%20Calceolaria%20chasmophila.md) · 5896
+- ⬜ [Calceolaria chelidonioides](../Fichas/3310%20Calceolaria%20chelidonioides.md) · 3310
+- ⬜ [Calceolaria collina subsp. collina](../Fichas/3311%20Calceolaria%20collina%20subsp.%20collina.md) · 3311
+- ⬜ [Calceolaria collina subsp. conferta](../Fichas/3312%20Calceolaria%20collina%20subsp.%20conferta.md) · 3312
+- ⬜ [Calceolaria collina subsp. subincisa](../Fichas/3313%20Calceolaria%20collina%20subsp.%20subincisa.md) · 3313
+- ⬜ [Calceolaria corymbosa subsp. corymbosa](../Fichas/3314%20Calceolaria%20corymbosa%20subsp.%20corymbosa.md) · 3314
+- ⬜ [Calceolaria corymbosa subsp. floccosa](../Fichas/3315%20Calceolaria%20corymbosa%20subsp.%20floccosa.md) · 3315
+- ⬜ [Calceolaria corymbosa subsp. mimuloides](../Fichas/3316%20Calceolaria%20corymbosa%20subsp.%20mimuloides.md) · 3316
+- ⬜ [Calceolaria corymbosa subsp. montana](../Fichas/3317%20Calceolaria%20corymbosa%20subsp.%20montana.md) · 3317
+- ⬜ [Calceolaria corymbosa subsp. santiagina](../Fichas/3318%20Calceolaria%20corymbosa%20subsp.%20santiagina.md) · 3318
+- ⬜ [Calceolaria corymbosa subsp. tetraphylla](../Fichas/3319%20Calceolaria%20corymbosa%20subsp.%20tetraphylla.md) · 3319
+- ⬜ [Calceolaria crenatiflora](../Fichas/3320%20Calceolaria%20crenatiflora.md) · 3320
+- ⬜ [Calceolaria densifolia subsp. densifolia](../Fichas/3321%20Calceolaria%20densifolia%20subsp.%20densifolia.md) · 3321
+- ⬜ [Calceolaria densifolia subsp. laxa](../Fichas/3322%20Calceolaria%20densifolia%20subsp.%20laxa.md) · 3322
+- ⬜ [Calceolaria dentata subsp. araucana](../Fichas/3323%20Calceolaria%20dentata%20subsp.%20araucana.md) · 3323
+- ⬜ [Calceolaria dentata subsp. cummingiana](../Fichas/3324%20Calceolaria%20dentata%20subsp.%20cummingiana.md) · 3324
+- ⬜ [Calceolaria dentata subsp. dentata](../Fichas/3325%20Calceolaria%20dentata%20subsp.%20dentata.md) · 3325
+- ⬜ [Calceolaria filicaulis subsp. filicaulis](../Fichas/3326%20Calceolaria%20filicaulis%20subsp.%20filicaulis.md) · 3326
+- ⬜ [Calceolaria filicaulis subsp. luxurians](../Fichas/3327%20Calceolaria%20filicaulis%20subsp.%20luxurians.md) · 3327
+- ⬜ [Calceolaria flavida](../Fichas/5709%20Calceolaria%20flavida.md) · 5709
+- ⬜ [Calceolaria flavovirens](../Fichas/3328%20Calceolaria%20flavovirens.md) · 3328
+- ⬜ [Calceolaria georgiana](../Fichas/3329%20Calceolaria%20georgiana.md) · 3329
+- ⬜ [Calceolaria germainii](../Fichas/3330%20Calceolaria%20germainii.md) · 3330
+- ⬜ [Calceolaria glandulosa subsp. alicahuensis](../Fichas/3331%20Calceolaria%20glandulosa%20subsp.%20alicahuensis.md) · 3331
+- ⬜ [Calceolaria glandulosa subsp. glandulosa](../Fichas/3332%20Calceolaria%20glandulosa%20subsp.%20glandulosa.md) · 3332
+- ⬜ [Calceolaria hypericina](../Fichas/3333%20Calceolaria%20hypericina.md) · 3333
+- ⬜ [Calceolaria inamoena subsp. inamoena](../Fichas/3334%20Calceolaria%20inamoena%20subsp.%20inamoena.md) · 3334
+- ⬜ [Calceolaria integrifolia](../Fichas/3335%20Calceolaria%20integrifolia.md) · 3335
+- ⬜ [Calceolaria laguna-blancae](../Fichas/3336%20Calceolaria%20laguna-blancae.md) · 3336
+- ⬜ [Calceolaria lanigera](../Fichas/3337%20Calceolaria%20lanigera.md) · 3337
+- ⬜ [Calceolaria latifolia](../Fichas/3338%20Calceolaria%20latifolia.md) · 3338
+- ⬜ [Calceolaria lepida](../Fichas/3339%20Calceolaria%20lepida.md) · 3339
+- ⬜ [Calceolaria maulensis](../Fichas/5969%20Calceolaria%20maulensis.md) · 5969
+- ⬜ [Calceolaria meyeniana subsp. cheiranthoides](../Fichas/3340%20Calceolaria%20meyeniana%20subsp.%20cheiranthoides.md) · 3340
+- ⬜ [Calceolaria meyeniana subsp. glabrata](../Fichas/3341%20Calceolaria%20meyeniana%20subsp.%20glabrata.md) · 3341
+- ⬜ [Calceolaria meyeniana subsp. meyeniana](../Fichas/3342%20Calceolaria%20meyeniana%20subsp.%20meyeniana.md) · 3342
+- ⬜ [Calceolaria meyeniana subsp. nahuelbutae](../Fichas/3343%20Calceolaria%20meyeniana%20subsp.%20nahuelbutae.md) · 3343
+- ⬜ [Calceolaria morisii](../Fichas/3344%20Calceolaria%20morisii.md) · 3344
+- ⬜ [Calceolaria nitida](../Fichas/3345%20Calceolaria%20nitida.md) · 3345
+- ⬜ [Calceolaria pallida](../Fichas/3347%20Calceolaria%20pallida.md) · 3347
+- ⬜ [Calceolaria paposana](../Fichas/3348%20Calceolaria%20paposana.md) · 3348
+- ⬜ [Calceolaria paralia](../Fichas/3349%20Calceolaria%20paralia.md) · 3349
+- ⬜ [Calceolaria petioalaris](../Fichas/3350%20Calceolaria%20petioalaris.md) · 3350
+- ⬜ [Calceolaria philippii](../Fichas/3351%20Calceolaria%20philippii.md) · 3351
+- ⬜ [Calceolaria picta](../Fichas/3352%20Calceolaria%20picta.md) · 3352
+- ⬜ [Calceolaria pinifolia](../Fichas/3353%20Calceolaria%20pinifolia.md) · 3353
+- ⬜ [Calceolaria pinnata](../Fichas/3354%20Calceolaria%20pinnata.md) · 3354
+- ⬜ [Calceolaria poikilanthes](../Fichas/3355%20Calceolaria%20poikilanthes.md) · 3355
+- ⬜ [Calceolaria polifolia](../Fichas/3356%20Calceolaria%20polifolia.md) · 3356
+- ⬜ [Calceolaria polyrhiza](../Fichas/3357%20Calceolaria%20polyrhiza.md) · 3357
+- ⬜ [Calceolaria pratensis](../Fichas/3346%20Calceolaria%20pratensis.md) · 3346
+- ⬜ [Calceolaria purpurea](../Fichas/3358%20Calceolaria%20purpurea.md) · 3358
+- ⬜ [Calceolaria recta](../Fichas/3309%20Calceolaria%20recta.md) · 3309
+- ⬜ [Calceolaria rinconada](../Fichas/3359%20Calceolaria%20rinconada.md) · 3359
+- ⬜ [Calceolaria rubiginosa](../Fichas/3360%20Calceolaria%20rubiginosa.md) · 3360
+- ⬜ [Calceolaria segethii](../Fichas/3361%20Calceolaria%20segethii.md) · 3361
+- ⬜ [Calceolaria spathulata](../Fichas/3362%20Calceolaria%20spathulata.md) · 3362
+- ⬜ [Calceolaria stellariifolia](../Fichas/3363%20Calceolaria%20stellariifolia.md) · 3363
+- ⬜ [Calceolaria talcana](../Fichas/3364%20Calceolaria%20talcana.md) · 3364
+- ⬜ [Calceolaria tenella](../Fichas/3365%20Calceolaria%20tenella.md) · 3365
+- ⬜ [Calceolaria thyrsiflora](../Fichas/3366%20Calceolaria%20thyrsiflora.md) · 3366
+- ⬜ [Calceolaria tripartita](../Fichas/3367%20Calceolaria%20tripartita.md) · 3367
+- ⬜ [Calceolaria undulata](../Fichas/3368%20Calceolaria%20undulata.md) · 3368
+- ⬜ [Calceolaria uniflora](../Fichas/3369%20Calceolaria%20uniflora.md) · 3369
+- ⬜ [Calceolaria valdiviana subsp. crassifolia](../Fichas/3370%20Calceolaria%20valdiviana%20subsp.%20crassifolia.md) · 3370
+- ⬜ [Calceolaria valdiviana subsp. valdiviana](../Fichas/3371%20Calceolaria%20valdiviana%20subsp.%20valdiviana.md) · 3371
+- ⬜ [Calceolaria verbascifolia](../Fichas/3372%20Calceolaria%20verbascifolia.md) · 3372
+- ⬜ [Calceolaria viscosissima](../Fichas/3373%20Calceolaria%20viscosissima.md) · 3373
+- ⬜ [Calceolaria volckmannii](../Fichas/3374%20Calceolaria%20volckmannii.md) · 3374
+- ⬜ [Calceolaria williamsii](../Fichas/3375%20Calceolaria%20williamsii.md) · 3375
+- ⬜ [Jovellana punctata](../Fichas/3376%20Jovellana%20punctata.md) · 3376
+- ⬜ [Jovellana violacea](../Fichas/3377%20Jovellana%20violacea.md) · 3377

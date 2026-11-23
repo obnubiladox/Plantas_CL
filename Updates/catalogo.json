@@ -1,0 +1,12 @@
+{
+  "version": 20261123,
+  "sha256": "9707f6c9dfdd99e727a6d051c9ff5ed73f09a62062af8d90785d7444f7f92401",
+  "rows": 5588,
+  "updated": "2026-11-23",
+  "notes": "",
+  "db": "https://github.com/obnubiladox/Plantas_CL/releases/download/catalogo-20261123/catalogo.db.gz",
+  "dbSha256": "41aa95501cbbcb464565169277f3cd81bbffea125cd5dc7c0696f83a169c3d04",
+  "dbMapper": 5,
+  "renumbered": 0,
+  "contentSha256": "7d45be4ba96852e80a4193f801caac18cec141e65457a782fb1953bc07078818"
+}

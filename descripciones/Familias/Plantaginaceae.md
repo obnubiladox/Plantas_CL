@@ -1,0 +1,85 @@
+# Plantaginaceae
+
+[← Índice](../INDICE.md) · 0 de 81 especies con descripción.
+
+- ⬜ [Antirrhinum majus](../Fichas/5930%20Antirrhinum%20majus.md) · 5930
+- ⬜ [Bacopa monnieri](../Fichas/4865%20Bacopa%20monnieri.md) · 4865
+- ⬜ [Callitriche albomarginata](../Fichas/4866%20Callitriche%20albomarginata.md) · 4866
+- ⬜ [Callitriche antarctica](../Fichas/4867%20Callitriche%20antarctica.md) · 4867
+- ⬜ [Callitriche berteroana](../Fichas/4870%20Callitriche%20berteroana.md) · 4870
+- ⬜ [Callitriche deflexa](../Fichas/4868%20Callitriche%20deflexa.md) · 4868
+- ⬜ [Callitriche heterophylla](../Fichas/4869%20Callitriche%20heterophylla.md) · 4869
+- ⬜ [Callitriche lechleri](../Fichas/4871%20Callitriche%20lechleri.md) · 4871
+- ⬜ [Callitriche praetermissa](../Fichas/5964%20Callitriche%20praetermissa.md) · 5964
+- ⬜ [Callitriche rimosa](../Fichas/5965%20Callitriche%20rimosa.md) · 5965
+- ⬜ [Callitriche stagnalis](../Fichas/5966%20Callitriche%20stagnalis.md) · 5966
+- ⬜ [Callitriche truncata](../Fichas/4873%20Callitriche%20truncata.md) · 4873
+- ⬜ [Callitriche turfosa](../Fichas/4872%20Callitriche%20turfosa.md) · 4872
+- ⬜ [Cymbalaria muralis](../Fichas/4874%20Cymbalaria%20muralis.md) · 4874
+- ⬜ [Digitalis purpurea](../Fichas/4875%20Digitalis%20purpurea.md) · 4875
+- ⬜ [Fonkia uliginosa](../Fichas/4876%20Fonkia%20uliginosa.md) · 4876
+- ⬜ [Gratiola peruviana](../Fichas/4877%20Gratiola%20peruviana.md) · 4877
+- ⬜ [Hebe elliptica](../Fichas/4878%20Hebe%20elliptica.md) · 4878
+- ⬜ [Hebe salicifolia](../Fichas/4879%20Hebe%20salicifolia.md) · 4879
+- ⬜ [Hippuris vulgaris](../Fichas/4880%20Hippuris%20vulgaris.md) · 4880
+- ⬜ [Kickxia elatine](../Fichas/4881%20Kickxia%20elatine.md) · 4881
+- ⬜ [Limosella australis](../Fichas/4882%20Limosella%20australis.md) · 4882
+- ⬜ [Linaria vulgaris](../Fichas/4884%20Linaria%20vulgaris.md) · 4884
+- ⬜ [Littorella australis](../Fichas/4885%20Littorella%20australis.md) · 4885
+- ⬜ [Mecardonia procumbens var. flagellaris](../Fichas/4886%20Mecardonia%20procumbens%20var.%20flagellaris.md) · 4886
+- ⬜ [Mecardonia procumbens var. procumbens](../Fichas/4887%20Mecardonia%20procumbens%20var.%20procumbens.md) · 4887
+- ⬜ [Melosperma andicola](../Fichas/4888%20Melosperma%20andicola.md) · 4888
+- ⬜ [Melosperma angustifolia](../Fichas/4889%20Melosperma%20angustifolia.md) · 4889
+- ⬜ [Monttea chilensis var. chilensis](../Fichas/4890%20Monttea%20chilensis%20var.%20chilensis.md) · 4890
+- ⬜ [Monttea chilensis var. taltalensis](../Fichas/4891%20Monttea%20chilensis%20var.%20taltalensis.md) · 4891
+- ⬜ [Nuttallanthus canadensis](../Fichas/4883%20Nuttallanthus%20canadensis.md) · 4883
+- ⬜ [Ourisia alpina](../Fichas/4892%20Ourisia%20alpina.md) · 4892
+- ⬜ [Ourisia breviflora subsp. breviflora](../Fichas/4893%20Ourisia%20breviflora%20subsp.%20breviflora.md) · 4893
+- ⬜ [Ourisia breviflora subsp. uniflora](../Fichas/4894%20Ourisia%20breviflora%20subsp.%20uniflora.md) · 4894
+- ⬜ [Ourisia coccinea subsp. coccinea](../Fichas/4895%20Ourisia%20coccinea%20subsp.%20coccinea.md) · 4895
+- ⬜ [Ourisia coccinea subsp. elegans](../Fichas/4896%20Ourisia%20coccinea%20subsp.%20elegans.md) · 4896
+- ⬜ [Ourisia fragrans](../Fichas/4897%20Ourisia%20fragrans.md) · 4897
+- ⬜ [Ourisia fuegiana](../Fichas/4898%20Ourisia%20fuegiana.md) · 4898
+- ⬜ [Ourisia microphylla](../Fichas/4899%20Ourisia%20microphylla.md) · 4899
+- ⬜ [Ourisia muscosa](../Fichas/4900%20Ourisia%20muscosa.md) · 4900
+- ⬜ [Ourisia polyantha](../Fichas/4901%20Ourisia%20polyantha.md) · 4901
+- ⬜ [Ourisia pygmaea](../Fichas/4902%20Ourisia%20pygmaea.md) · 4902
+- ⬜ [Ourisia ruelloides](../Fichas/4903%20Ourisia%20ruelloides.md) · 4903
+- ⬜ [Ourisia serpyllifolia](../Fichas/4904%20Ourisia%20serpyllifolia.md) · 4904
+- ⬜ [Plantago australis subsp. australis](../Fichas/4905%20Plantago%20australis%20subsp.%20australis.md) · 4905
+- ⬜ [Plantago australis subsp. cumingiana](../Fichas/4906%20Plantago%20australis%20subsp.%20cumingiana.md) · 4906
+- ⬜ [Plantago barbata subsp. barbata](../Fichas/4908%20Plantago%20barbata%20subsp.%20barbata.md) · 4908
+- ⬜ [Plantago brasiliensis](../Fichas/4911%20Plantago%20brasiliensis.md) · 4911
+- ⬜ [Plantago coronopus](../Fichas/4912%20Plantago%20coronopus.md) · 4912
+- ⬜ [Plantago fernandezia](../Fichas/4913%20Plantago%20fernandezia.md) · 4913
+- ⬜ [Plantago firma](../Fichas/4914%20Plantago%20firma.md) · 4914
+- ⬜ [Plantago grandiflora](../Fichas/4915%20Plantago%20grandiflora.md) · 4915
+- ⬜ [Plantago hispidula](../Fichas/4916%20Plantago%20hispidula.md) · 4916
+- ⬜ [Plantago johnstonii](../Fichas/4917%20Plantago%20johnstonii.md) · 4917
+- ⬜ [Plantago lanceolata](../Fichas/4918%20Plantago%20lanceolata.md) · 4918
+- ⬜ [Plantago litorea](../Fichas/4919%20Plantago%20litorea.md) · 4919
+- ⬜ [Plantago lundborgii](../Fichas/4920%20Plantago%20lundborgii.md) · 4920
+- ⬜ [Plantago major](../Fichas/4921%20Plantago%20major.md) · 4921
+- ⬜ [Plantago maritima](../Fichas/4922%20Plantago%20maritima.md) · 4922
+- ⬜ [Plantago monanthos var. monanthos](../Fichas/4909%20Plantago%20monanthos%20var.%20monanthos.md) · 4909
+- ⬜ [Plantago monanthos var. muscoides](../Fichas/4910%20Plantago%20monanthos%20var.%20muscoides.md) · 4910
+- ⬜ [Plantago monticola](../Fichas/4928%20Plantago%20monticola.md) · 4928
+- ⬜ [Plantago nebularis](../Fichas/5751%20Plantago%20nebularis.md) · 5751
+- ⬜ [Plantago pachyneura](../Fichas/4923%20Plantago%20pachyneura.md) · 4923
+- ⬜ [Plantago rancaguae](../Fichas/4925%20Plantago%20rancaguae.md) · 4925
+- ⬜ [Plantago sempervivoides](../Fichas/4926%20Plantago%20sempervivoides.md) · 4926
+- ⬜ [Plantago sericea var. sericea](../Fichas/5834%20Plantago%20sericea%20var.%20sericea.md) · 5834
+- ⬜ [Plantago tehuelcha](../Fichas/4929%20Plantago%20tehuelcha.md) · 4929
+- ⬜ [Plantago truncata](../Fichas/4930%20Plantago%20truncata.md) · 4930
+- ⬜ [Plantago tubulosa](../Fichas/4931%20Plantago%20tubulosa.md) · 4931
+- ⬜ [Plantago zoellneriana](../Fichas/4927%20Plantago%20zoellneriana.md) · 4927
+- ⬜ [Stemodia durantifolia var. chilensis](../Fichas/4933%20Stemodia%20durantifolia%20var.%20chilensis.md) · 4933
+- ⬜ [Veronica anagallis-aquatica](../Fichas/4934%20Veronica%20anagallis-aquatica.md) · 4934
+- ⬜ [Veronica arvensis](../Fichas/4935%20Veronica%20arvensis.md) · 4935
+- ⬜ [Veronica beccabunga](../Fichas/4936%20Veronica%20beccabunga.md) · 4936
+- ⬜ [Veronica chamaedrys](../Fichas/4937%20Veronica%20chamaedrys.md) · 4937
+- ⬜ [Veronica officinalis](../Fichas/4938%20Veronica%20officinalis.md) · 4938
+- ⬜ [Veronica peregrina](../Fichas/4939%20Veronica%20peregrina.md) · 4939
+- ⬜ [Veronica persica](../Fichas/4940%20Veronica%20persica.md) · 4940
+- ⬜ [Veronica scutellata](../Fichas/4941%20Veronica%20scutellata.md) · 4941
+- ⬜ [Veronica serpyllifolia](../Fichas/4942%20Veronica%20serpyllifolia.md) · 4942

@@ -1,0 +1,48 @@
+# Publica las descripciones para la app: solo a mano (Actions → Publicar
+# descripciones → Run workflow). Revisa todas las fichas; si algo falla o nada
+# cambió desde la última publicación, no publica. Si no:
+#   1. crea el Release descripciones-AAAAMMDD (completo + cambios desde las
+#      últimas 6 publicaciones),
+#   2. actualiza Updates/descripciones.json y el índice (commit en main con la
+#      llave de despliegue, que el ruleset deja pasar),
+#   3. borra los Releases de descripciones más viejos que esas 6, y
+#   4. abre (o cierra) el issue de fichas con texto cuyo N.° ya no está en el catálogo.
+name: Publicar descripciones
+
+on:
+  workflow_dispatch:
+    inputs:
+      notas:
+        description: "Notas de esta versión (opcional, se ven en Actualizaciones)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  issues: write       # aviso de fichas con texto sin especie en el catálogo
+
+concurrency:
+  group: descripciones-main
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.DESCRIPCIONES_DEPLOY_KEY }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Publicar
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NOTAS: ${{ inputs.notas }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python descripciones/scripts/descripciones.py publicar --notas "$NOTAS"

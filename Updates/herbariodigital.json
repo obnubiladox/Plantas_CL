@@ -1,0 +1,12 @@
+{
+  "version": 20261123,
+  "schema": 1,
+  "file": "https://github.com/obnubiladox/Plantas_CL/releases/download/herbariodigital-20261123/herbariodigital.db.gz",
+  "sha256": "159e9a69962313ade825702fbf427240bcf675a2d0771eea3149ac28dcb673b4",
+  "bytes": 1119690,
+  "rows": 5578,
+  "specimens": 173148,
+  "updated": "2026-11-11",
+  "notes": "",
+  "contentSha256": "a642e7f463ac81416b44c20a94cda95d4966090e8991e0489669c7c884fb0a66"
+}

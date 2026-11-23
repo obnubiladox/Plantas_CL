@@ -1,0 +1,212 @@
+# Solanaceae
+
+[← Índice](../INDICE.md) · 0 de 208 especies con descripción.
+
+- ⬜ [Benthamiella azorella](../Fichas/5267%20Benthamiella%20azorella.md) · 5267
+- ⬜ [Benthamiella lanata](../Fichas/5268%20Benthamiella%20lanata.md) · 5268
+- ⬜ [Benthamiella nordenskioldii](../Fichas/5269%20Benthamiella%20nordenskioldii.md) · 5269
+- ⬜ [Benthamiella patagonica](../Fichas/5270%20Benthamiella%20patagonica.md) · 5270
+- ⬜ [Calibrachoa parviflora](../Fichas/5271%20Calibrachoa%20parviflora.md) · 5271
+- ⬜ [Cestrum parqui](../Fichas/5272%20Cestrum%20parqui.md) · 5272
+- ⬜ [Combera minima](../Fichas/5273%20Combera%20minima.md) · 5273
+- ⬜ [Combera paradoxa](../Fichas/5274%20Combera%20paradoxa.md) · 5274
+- ⬜ [Datura ferox](../Fichas/5275%20Datura%20ferox.md) · 5275
+- ⬜ [Datura inoxia](../Fichas/5276%20Datura%20inoxia.md) · 5276
+- ⬜ [Datura stramonium](../Fichas/5277%20Datura%20stramonium.md) · 5277
+- ⬜ [Dunalia spinosa](../Fichas/5278%20Dunalia%20spinosa.md) · 5278
+- ⬜ [Exodeconus flavus](../Fichas/5279%20Exodeconus%20flavus.md) · 5279
+- ⬜ [Exodeconus integrifolius](../Fichas/5280%20Exodeconus%20integrifolius.md) · 5280
+- ⬜ [Exodeconus pusillus](../Fichas/5281%20Exodeconus%20pusillus.md) · 5281
+- ⬜ [Fabiana bryoides](../Fichas/5282%20Fabiana%20bryoides.md) · 5282
+- ⬜ [Fabiana densa](../Fichas/5858%20Fabiana%20densa.md) · 5858
+- ⬜ [Fabiana denudata](../Fichas/5284%20Fabiana%20denudata.md) · 5284
+- ⬜ [Fabiana imbricata](../Fichas/5285%20Fabiana%20imbricata.md) · 5285
+- ⬜ [Fabiana ramulosa](../Fichas/5286%20Fabiana%20ramulosa.md) · 5286
+- ⬜ [Fabiana squamata](../Fichas/5287%20Fabiana%20squamata.md) · 5287
+- ⬜ [Fabiana stephanii](../Fichas/5288%20Fabiana%20stephanii.md) · 5288
+- ⬜ [Fabiana viscosa](../Fichas/5289%20Fabiana%20viscosa.md) · 5289
+- ⬜ [Jaborosa caulescens var. bipinnatifida](../Fichas/5290%20Jaborosa%20caulescens%20var.%20bipinnatifida.md) · 5290
+- ⬜ [Jaborosa caulescens var. caulescens](../Fichas/5291%20Jaborosa%20caulescens%20var.%20caulescens.md) · 5291
+- ⬜ [Jaborosa laciniata](../Fichas/5292%20Jaborosa%20laciniata.md) · 5292
+- ⬜ [Jaborosa magellanica](../Fichas/5293%20Jaborosa%20magellanica.md) · 5293
+- ⬜ [Jaborosa parviflora](../Fichas/5294%20Jaborosa%20parviflora.md) · 5294
+- ⬜ [Jaborosa pinnata](../Fichas/5295%20Jaborosa%20pinnata.md) · 5295
+- ⬜ [Jaborosa reflexa](../Fichas/5296%20Jaborosa%20reflexa.md) · 5296
+- ⬜ [Jaborosa riojana](../Fichas/5297%20Jaborosa%20riojana.md) · 5297
+- ⬜ [Jaborosa squarrosa](../Fichas/5298%20Jaborosa%20squarrosa.md) · 5298
+- ⬜ [Jaborosa volkmannii](../Fichas/5299%20Jaborosa%20volkmannii.md) · 5299
+- ⬜ [Latua pubiflora](../Fichas/5300%20Latua%20pubiflora.md) · 5300
+- ⬜ [Lycianthes lycioides](../Fichas/5716%20Lycianthes%20lycioides.md) · 5716
+- ⬜ [Lycium boerhaviifolium](../Fichas/5301%20Lycium%20boerhaviifolium.md) · 5301
+- ⬜ [Lycium bridgesii](../Fichas/5302%20Lycium%20bridgesii.md) · 5302
+- ⬜ [Lycium carolinianum var. sandwicense](../Fichas/5303%20Lycium%20carolinianum%20var.%20sandwicense.md) · 5303
+- ⬜ [Lycium chilense var. chilense](../Fichas/5304%20Lycium%20chilense%20var.%20chilense.md) · 5304
+- ⬜ [Lycium chilense var. confertifolium](../Fichas/5305%20Lycium%20chilense%20var.%20confertifolium.md) · 5305
+- ⬜ [Lycium chilense var. filifolium](../Fichas/5306%20Lycium%20chilense%20var.%20filifolium.md) · 5306
+- ⬜ [Lycium chilense var. glaberrimum](../Fichas/5307%20Lycium%20chilense%20var.%20glaberrimum.md) · 5307
+- ⬜ [Lycium chilense var. minutifolium](../Fichas/5308%20Lycium%20chilense%20var.%20minutifolium.md) · 5308
+- ⬜ [Lycium chilense var. vergarae](../Fichas/5309%20Lycium%20chilense%20var.%20vergarae.md) · 5309
+- ⬜ [Lycium deserti](../Fichas/5310%20Lycium%20deserti.md) · 5310
+- ⬜ [Lycium distichum](../Fichas/5311%20Lycium%20distichum.md) · 5311
+- ⬜ [Lycium humile](../Fichas/5312%20Lycium%20humile.md) · 5312
+- ⬜ [Lycium leiostemum](../Fichas/5313%20Lycium%20leiostemum.md) · 5313
+- ⬜ [Lycium minutifolium](../Fichas/5314%20Lycium%20minutifolium.md) · 5314
+- ⬜ [Lycium rachidocladum](../Fichas/5315%20Lycium%20rachidocladum.md) · 5315
+- ⬜ [Lycium stenophyllum](../Fichas/5316%20Lycium%20stenophyllum.md) · 5316
+- ⬜ [Lycium tenuispinosum var. calycinum](../Fichas/5317%20Lycium%20tenuispinosum%20var.%20calycinum.md) · 5317
+- ⬜ [Nicandra physalodes](../Fichas/5318%20Nicandra%20physalodes.md) · 5318
+- ⬜ [Nicotiana acuminata var. acuminata](../Fichas/5319%20Nicotiana%20acuminata%20var.%20acuminata.md) · 5319
+- ⬜ [Nicotiana acuminata var. compacta](../Fichas/5320%20Nicotiana%20acuminata%20var.%20compacta.md) · 5320
+- ⬜ [Nicotiana acuminata var. multiflora](../Fichas/5321%20Nicotiana%20acuminata%20var.%20multiflora.md) · 5321
+- ⬜ [Nicotiana cordifolia subsp. cordifolia](../Fichas/5322%20Nicotiana%20cordifolia%20subsp.%20cordifolia.md) · 5322
+- ⬜ [Nicotiana cordifolia subsp. sanctaclarae](../Fichas/5323%20Nicotiana%20cordifolia%20subsp.%20sanctaclarae.md) · 5323
+- ⬜ [Nicotiana corymbosa var. corymbosa](../Fichas/5324%20Nicotiana%20corymbosa%20var.%20corymbosa.md) · 5324
+- ⬜ [Nicotiana glauca](../Fichas/5325%20Nicotiana%20glauca.md) · 5325
+- ⬜ [Nicotiana knightiana](../Fichas/5735%20Nicotiana%20knightiana.md) · 5735
+- ⬜ [Nicotiana linearis](../Fichas/5326%20Nicotiana%20linearis.md) · 5326
+- ⬜ [Nicotiana longibracteata](../Fichas/5327%20Nicotiana%20longibracteata.md) · 5327
+- ⬜ [Nicotiana miersii var. lychnoides](../Fichas/5328%20Nicotiana%20miersii%20var.%20lychnoides.md) · 5328
+- ⬜ [Nicotiana miersii var. miersii](../Fichas/5329%20Nicotiana%20miersii%20var.%20miersii.md) · 5329
+- ⬜ [Nicotiana paa](../Fichas/5330%20Nicotiana%20paa.md) · 5330
+- ⬜ [Nicotiana pauciflora](../Fichas/5331%20Nicotiana%20pauciflora.md) · 5331
+- ⬜ [Nicotiana petunioides](../Fichas/5332%20Nicotiana%20petunioides.md) · 5332
+- ⬜ [Nicotiana rupicola](../Fichas/5734%20Nicotiana%20rupicola.md) · 5734
+- ⬜ [Nicotiana rustica var. pavonii](../Fichas/5905%20Nicotiana%20rustica%20var.%20pavonii.md) · 5905
+- ⬜ [Nicotiana solanifolia](../Fichas/5333%20Nicotiana%20solanifolia.md) · 5333
+- ⬜ [Nicotiana tabacum](../Fichas/5334%20Nicotiana%20tabacum.md) · 5334
+- ⬜ [Nicotiana undulata](../Fichas/5335%20Nicotiana%20undulata.md) · 5335
+- ⬜ [Nierembergia repens](../Fichas/5336%20Nierembergia%20repens.md) · 5336
+- ⬜ [Nolana acuminata](../Fichas/5337%20Nolana%20acuminata.md) · 5337
+- ⬜ [Nolana adansonii](../Fichas/5338%20Nolana%20adansonii.md) · 5338
+- ⬜ [Nolana albescens](../Fichas/5339%20Nolana%20albescens.md) · 5339
+- ⬜ [Nolana aplocaryoides](../Fichas/5340%20Nolana%20aplocaryoides.md) · 5340
+- ⬜ [Nolana arenicola](../Fichas/5341%20Nolana%20arenicola.md) · 5341
+- ⬜ [Nolana baccata](../Fichas/5342%20Nolana%20baccata.md) · 5342
+- ⬜ [Nolana balsamiflua](../Fichas/5343%20Nolana%20balsamiflua.md) · 5343
+- ⬜ [Nolana carnosa](../Fichas/5344%20Nolana%20carnosa.md) · 5344
+- ⬜ [Nolana clivicola](../Fichas/5345%20Nolana%20clivicola.md) · 5345
+- ⬜ [Nolana coelestis](../Fichas/5346%20Nolana%20coelestis.md) · 5346
+- ⬜ [Nolana crassulifolia](../Fichas/5347%20Nolana%20crassulifolia.md) · 5347
+- ⬜ [Nolana dianae](../Fichas/5349%20Nolana%20dianae.md) · 5349
+- ⬜ [Nolana diffusa](../Fichas/5350%20Nolana%20diffusa.md) · 5350
+- ⬜ [Nolana divaricata](../Fichas/5351%20Nolana%20divaricata.md) · 5351
+- ⬜ [Nolana elegans](../Fichas/5352%20Nolana%20elegans.md) · 5352
+- ⬜ [Nolana filifolia](../Fichas/5353%20Nolana%20filifolia.md) · 5353
+- ⬜ [Nolana foliosa](../Fichas/5354%20Nolana%20foliosa.md) · 5354
+- ⬜ [Nolana glauca](../Fichas/5355%20Nolana%20glauca.md) · 5355
+- ⬜ [Nolana gracillima](../Fichas/5356%20Nolana%20gracillima.md) · 5356
+- ⬜ [Nolana incana](../Fichas/5357%20Nolana%20incana.md) · 5357
+- ⬜ [Nolana inconspicua](../Fichas/5358%20Nolana%20inconspicua.md) · 5358
+- ⬜ [Nolana intonsa](../Fichas/5359%20Nolana%20intonsa.md) · 5359
+- ⬜ [Nolana jaffuelii](../Fichas/5360%20Nolana%20jaffuelii.md) · 5360
+- ⬜ [Nolana lachimbensis](../Fichas/5361%20Nolana%20lachimbensis.md) · 5361
+- ⬜ [Nolana leptophylla](../Fichas/5362%20Nolana%20leptophylla.md) · 5362
+- ⬜ [Nolana linearifolia](../Fichas/5363%20Nolana%20linearifolia.md) · 5363
+- ⬜ [Nolana lycioides](../Fichas/5364%20Nolana%20lycioides.md) · 5364
+- ⬜ [Nolana mollis](../Fichas/5365%20Nolana%20mollis.md) · 5365
+- ⬜ [Nolana onoana](../Fichas/5366%20Nolana%20onoana.md) · 5366
+- ⬜ [Nolana paradoxa](../Fichas/5367%20Nolana%20paradoxa.md) · 5367
+- ⬜ [Nolana parviflora](../Fichas/5368%20Nolana%20parviflora.md) · 5368
+- ⬜ [Nolana patachensis](../Fichas/5369%20Nolana%20patachensis.md) · 5369
+- ⬜ [Nolana patula](../Fichas/5370%20Nolana%20patula.md) · 5370
+- ⬜ [Nolana peruviana](../Fichas/5371%20Nolana%20peruviana.md) · 5371
+- ⬜ [Nolana philippiana](../Fichas/5372%20Nolana%20philippiana.md) · 5372
+- ⬜ [Nolana pterocarpa](../Fichas/5373%20Nolana%20pterocarpa.md) · 5373
+- ⬜ [Nolana ramosissima](../Fichas/5374%20Nolana%20ramosissima.md) · 5374
+- ⬜ [Nolana reichei](../Fichas/5375%20Nolana%20reichei.md) · 5375
+- ⬜ [Nolana rhombifolia](../Fichas/5376%20Nolana%20rhombifolia.md) · 5376
+- ⬜ [Nolana rostrata](../Fichas/5377%20Nolana%20rostrata.md) · 5377
+- ⬜ [Nolana rupicola](../Fichas/5378%20Nolana%20rupicola.md) · 5378
+- ⬜ [Nolana salsoloides](../Fichas/5379%20Nolana%20salsoloides.md) · 5379
+- ⬜ [Nolana sedifolia](../Fichas/5380%20Nolana%20sedifolia.md) · 5380
+- ⬜ [Nolana sessiliflora](../Fichas/5381%20Nolana%20sessiliflora.md) · 5381
+- ⬜ [Nolana sphaerophylla](../Fichas/5382%20Nolana%20sphaerophylla.md) · 5382
+- ⬜ [Nolana stenophylla](../Fichas/5383%20Nolana%20stenophylla.md) · 5383
+- ⬜ [Nolana tarapacana](../Fichas/5384%20Nolana%20tarapacana.md) · 5384
+- ⬜ [Nolana tocopillensis](../Fichas/5385%20Nolana%20tocopillensis.md) · 5385
+- ⬜ [Nolana villosa](../Fichas/5386%20Nolana%20villosa.md) · 5386
+- ⬜ [Nolana werdermannii](../Fichas/5387%20Nolana%20werdermannii.md) · 5387
+- ⬜ [Physalis peruviana](../Fichas/5388%20Physalis%20peruviana.md) · 5388
+- ⬜ [Physalis viscosa](../Fichas/5389%20Physalis%20viscosa.md) · 5389
+- ⬜ [Reyesia cactorum](../Fichas/5390%20Reyesia%20cactorum.md) · 5390
+- ⬜ [Reyesia chilensis](../Fichas/5391%20Reyesia%20chilensis.md) · 5391
+- ⬜ [Reyesia juniperoides](../Fichas/5392%20Reyesia%20juniperoides.md) · 5392
+- ⬜ [Reyesia parviflora](../Fichas/5393%20Reyesia%20parviflora.md) · 5393
+- ⬜ [Salpichroa origanifolia](../Fichas/5394%20Salpichroa%20origanifolia.md) · 5394
+- ⬜ [Salpichroa scandens](../Fichas/5395%20Salpichroa%20scandens.md) · 5395
+- ⬜ [Salpichroa tristis var. lehmannii](../Fichas/5396%20Salpichroa%20tristis%20var.%20lehmannii.md) · 5396
+- ⬜ [Salpiglossis sinuata](../Fichas/5397%20Salpiglossis%20sinuata.md) · 5397
+- ⬜ [Salpiglossis spinescens](../Fichas/5398%20Salpiglossis%20spinescens.md) · 5398
+- ⬜ [Schizanthus alpestris](../Fichas/5399%20Schizanthus%20alpestris.md) · 5399
+- ⬜ [Schizanthus candidus](../Fichas/5400%20Schizanthus%20candidus.md) · 5400
+- ⬜ [Schizanthus carlomunozii var. carlomunozii](../Fichas/5706%20Schizanthus%20carlomunozii%20var.%20carlomunozii.md) · 5706
+- ⬜ [Schizanthus carlomunozii var. dilutimaculatus](../Fichas/5707%20Schizanthus%20carlomunozii%20var.%20dilutimaculatus.md) · 5707
+- ⬜ [Schizanthus coccineus](../Fichas/5401%20Schizanthus%20coccineus.md) · 5401
+- ⬜ [Schizanthus fallax](../Fichas/5696%20Schizanthus%20fallax.md) · 5696
+- ⬜ [Schizanthus grahamii](../Fichas/5402%20Schizanthus%20grahamii.md) · 5402
+- ⬜ [Schizanthus hookeri](../Fichas/5403%20Schizanthus%20hookeri.md) · 5403
+- ⬜ [Schizanthus integrifolius](../Fichas/5404%20Schizanthus%20integrifolius.md) · 5404
+- ⬜ [Schizanthus lacteus](../Fichas/5405%20Schizanthus%20lacteus.md) · 5405
+- ⬜ [Schizanthus laetus](../Fichas/5406%20Schizanthus%20laetus.md) · 5406
+- ⬜ [Schizanthus litoralis var. humilis](../Fichas/5737%20Schizanthus%20litoralis%20var.%20humilis.md) · 5737
+- ⬜ [Schizanthus litoralis var. litoralis](../Fichas/5407%20Schizanthus%20litoralis%20var.%20litoralis.md) · 5407
+- ⬜ [Schizanthus nutantiflorus](../Fichas/5697%20Schizanthus%20nutantiflorus.md) · 5697
+- ⬜ [Schizanthus parvulus](../Fichas/5408%20Schizanthus%20parvulus.md) · 5408
+- ⬜ [Schizanthus pinnatus](../Fichas/5409%20Schizanthus%20pinnatus.md) · 5409
+- ⬜ [Schizanthus porrigens subsp. borealis](../Fichas/5708%20Schizanthus%20porrigens%20subsp.%20borealis.md) · 5708
+- ⬜ [Schizanthus porrigens subsp. porrigens](../Fichas/5410%20Schizanthus%20porrigens%20subsp.%20porrigens.md) · 5410
+- ⬜ [Schizanthus splendens](../Fichas/5738%20Schizanthus%20splendens.md) · 5738
+- ⬜ [Solanum acaule](../Fichas/5829%20Solanum%20acaule.md) · 5829
+- ⬜ [Solanum ajanhuiri](../Fichas/5884%20Solanum%20ajanhuiri.md) · 5884
+- ⬜ [Solanum alphonsei](../Fichas/5412%20Solanum%20alphonsei.md) · 5412
+- ⬜ [Solanum americanum](../Fichas/5413%20Solanum%20americanum.md) · 5413
+- ⬜ [Solanum amygdalifolium](../Fichas/5854%20Solanum%20amygdalifolium.md) · 5854
+- ⬜ [Solanum argenteum](../Fichas/5414%20Solanum%20argenteum.md) · 5414
+- ⬜ [Solanum brachyantherum](../Fichas/5415%20Solanum%20brachyantherum.md) · 5415
+- ⬜ [Solanum chenopodioides](../Fichas/5856%20Solanum%20chenopodioides.md) · 5856
+- ⬜ [Solanum chilense](../Fichas/5416%20Solanum%20chilense.md) · 5416
+- ⬜ [Solanum coquimbense](../Fichas/5417%20Solanum%20coquimbense.md) · 5417
+- ⬜ [Solanum crispum](../Fichas/5418%20Solanum%20crispum.md) · 5418
+- ⬜ [Solanum echegarayi](../Fichas/5419%20Solanum%20echegarayi.md) · 5419
+- ⬜ [Solanum elaeagnifolium](../Fichas/5420%20Solanum%20elaeagnifolium.md) · 5420
+- ⬜ [Solanum etuberosum](../Fichas/5421%20Solanum%20etuberosum.md) · 5421
+- ⬜ [Solanum fernandezianum](../Fichas/5422%20Solanum%20fernandezianum.md) · 5422
+- ⬜ [Solanum fragile](../Fichas/5423%20Solanum%20fragile.md) · 5423
+- ⬜ [Solanum furcatum](../Fichas/5424%20Solanum%20furcatum.md) · 5424
+- ⬜ [Solanum gaudichaudii](../Fichas/5425%20Solanum%20gaudichaudii.md) · 5425
+- ⬜ [Solanum herba-bona](../Fichas/5426%20Solanum%20herba-bona.md) · 5426
+- ⬜ [Solanum heterantherum](../Fichas/5427%20Solanum%20heterantherum.md) · 5427
+- ⬜ [Solanum indivisum](../Fichas/5428%20Solanum%20indivisum.md) · 5428
+- ⬜ [Solanum infundibuliforme](../Fichas/5429%20Solanum%20infundibuliforme.md) · 5429
+- ⬜ [Solanum ligustrinum](../Fichas/5855%20Solanum%20ligustrinum.md) · 5855
+- ⬜ [Solanum lycopersicoides](../Fichas/5430%20Solanum%20lycopersicoides.md) · 5430
+- ⬜ [Solanum maglia](../Fichas/5431%20Solanum%20maglia.md) · 5431
+- ⬜ [Solanum marginatum](../Fichas/5432%20Solanum%20marginatum.md) · 5432
+- ⬜ [Solanum medians](../Fichas/5433%20Solanum%20medians.md) · 5433
+- ⬜ [Solanum montanum](../Fichas/5434%20Solanum%20montanum.md) · 5434
+- ⬜ [Solanum nitidibaccatum](../Fichas/5436%20Solanum%20nitidibaccatum.md) · 5436
+- ⬜ [Solanum nitidum](../Fichas/5437%20Solanum%20nitidum.md) · 5437
+- ⬜ [Solanum opacum](../Fichas/5438%20Solanum%20opacum.md) · 5438
+- ⬜ [Solanum palustre](../Fichas/5439%20Solanum%20palustre.md) · 5439
+- ⬜ [Solanum paposanum](../Fichas/5440%20Solanum%20paposanum.md) · 5440
+- ⬜ [Solanum pennellii](../Fichas/5441%20Solanum%20pennellii.md) · 5441
+- ⬜ [Solanum pentlandii subsp. interandinum](../Fichas/5442%20Solanum%20pentlandii%20subsp.%20interandinum.md) · 5442
+- ⬜ [Solanum pentlandii subsp. pentlandii](../Fichas/5443%20Solanum%20pentlandii%20subsp.%20pentlandii.md) · 5443
+- ⬜ [Solanum peruvianum](../Fichas/5444%20Solanum%20peruvianum.md) · 5444
+- ⬜ [Solanum pimpinellifolium](../Fichas/5445%20Solanum%20pimpinellifolium.md) · 5445
+- ⬜ [Solanum pinnatum](../Fichas/5446%20Solanum%20pinnatum.md) · 5446
+- ⬜ [Solanum polyphyllum](../Fichas/5447%20Solanum%20polyphyllum.md) · 5447
+- ⬜ [Solanum pseudocapsicum](../Fichas/5448%20Solanum%20pseudocapsicum.md) · 5448
+- ⬜ [Solanum radicans](../Fichas/5449%20Solanum%20radicans.md) · 5449
+- ⬜ [Solanum remyanum](../Fichas/5450%20Solanum%20remyanum.md) · 5450
+- ⬜ [Solanum sanfurgoi](../Fichas/5451%20Solanum%20sanfurgoi.md) · 5451
+- ⬜ [Solanum sarrachoides](../Fichas/5452%20Solanum%20sarrachoides.md) · 5452
+- ⬜ [Solanum sinuatirecurvum](../Fichas/5453%20Solanum%20sinuatirecurvum.md) · 5453
+- ⬜ [Solanum sisymbriifolium](../Fichas/5454%20Solanum%20sisymbriifolium.md) · 5454
+- ⬜ [Solanum sitiens](../Fichas/5455%20Solanum%20sitiens.md) · 5455
+- ⬜ [Solanum trinominum](../Fichas/5456%20Solanum%20trinominum.md) · 5456
+- ⬜ [Solanum tuberosum](../Fichas/5457%20Solanum%20tuberosum.md) · 5457
+- ⬜ [Solanum tweedianum](../Fichas/5458%20Solanum%20tweedianum.md) · 5458
+- ⬜ [Solanum valdiviense](../Fichas/5459%20Solanum%20valdiviense.md) · 5459
+- ⬜ [Solanum weddellii](../Fichas/5460%20Solanum%20weddellii.md) · 5460
+- ⬜ [Vestia foetida](../Fichas/5461%20Vestia%20foetida.md) · 5461

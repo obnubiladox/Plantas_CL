@@ -1,0 +1,54 @@
+# Ranunculaceae
+
+[← Índice](../INDICE.md) · 0 de 50 especies con descripción.
+
+- ⬜ [Anemonastrum antucense](../Fichas/5047%20Anemonastrum%20antucense.md) · 5047
+- ⬜ [Anemone decapetala var. decapetala](../Fichas/5048%20Anemone%20decapetala%20var.%20decapetala.md) · 5048
+- ⬜ [Anemone hepaticifolia](../Fichas/5050%20Anemone%20hepaticifolia.md) · 5050
+- ⬜ [Anemone moorei](../Fichas/5051%20Anemone%20moorei.md) · 5051
+- ⬜ [Anemone multifida](../Fichas/5052%20Anemone%20multifida.md) · 5052
+- ⬜ [Anemone rigida](../Fichas/5053%20Anemone%20rigida.md) · 5053
+- ⬜ [Anemone triternata](../Fichas/5049%20Anemone%20triternata.md) · 5049
+- ⬜ [Aquilegia vulgaris](../Fichas/5054%20Aquilegia%20vulgaris.md) · 5054
+- ⬜ [Barneoudia balliana](../Fichas/5055%20Barneoudia%20balliana.md) · 5055
+- ⬜ [Barneoudia chilensis](../Fichas/5056%20Barneoudia%20chilensis.md) · 5056
+- ⬜ [Barneoudia major var. major](../Fichas/5057%20Barneoudia%20major%20var.%20major.md) · 5057
+- ⬜ [Callianthemoides semiverticillata](../Fichas/5058%20Callianthemoides%20semiverticillata.md) · 5058
+- ⬜ [Caltha appendiculata](../Fichas/5059%20Caltha%20appendiculata.md) · 5059
+- ⬜ [Caltha dioneifolia](../Fichas/5060%20Caltha%20dioneifolia.md) · 5060
+- ⬜ [Caltha sagittata](../Fichas/5061%20Caltha%20sagittata.md) · 5061
+- ⬜ [Clematis bonariensis](../Fichas/5062%20Clematis%20bonariensis.md) · 5062
+- ⬜ [Clematis campestris](../Fichas/5063%20Clematis%20campestris.md) · 5063
+- ⬜ [Halerpestes cymbalaria](../Fichas/5064%20Halerpestes%20cymbalaria.md) · 5064
+- ⬜ [Halerpestes exilis](../Fichas/5065%20Halerpestes%20exilis.md) · 5065
+- ⬜ [Halerpestes uniflora](../Fichas/5066%20Halerpestes%20uniflora.md) · 5066
+- ⬜ [Hamadryas delfinii](../Fichas/5067%20Hamadryas%20delfinii.md) · 5067
+- ⬜ [Hamadryas kingii](../Fichas/5068%20Hamadryas%20kingii.md) · 5068
+- ⬜ [Hamadryas magellanica f. magellanica](../Fichas/5069%20Hamadryas%20magellanica%20f.%20magellanica.md) · 5069
+- ⬜ [Hamadryas sempervivoides](../Fichas/5070%20Hamadryas%20sempervivoides.md) · 5070
+- ⬜ [Myosurus apetalus](../Fichas/5071%20Myosurus%20apetalus.md) · 5071
+- ⬜ [Myosurus patagonicus](../Fichas/5072%20Myosurus%20patagonicus.md) · 5072
+- ⬜ [Ranunculus acaulis](../Fichas/5073%20Ranunculus%20acaulis.md) · 5073
+- ⬜ [Ranunculus apiifolius](../Fichas/5074%20Ranunculus%20apiifolius.md) · 5074
+- ⬜ [Ranunculus aquatilis](../Fichas/5075%20Ranunculus%20aquatilis.md) · 5075
+- ⬜ [Ranunculus arvensis](../Fichas/5076%20Ranunculus%20arvensis.md) · 5076
+- ⬜ [Ranunculus biternatus](../Fichas/5077%20Ranunculus%20biternatus.md) · 5077
+- ⬜ [Ranunculus bonariensis var. trisepalus](../Fichas/5078%20Ranunculus%20bonariensis%20var.%20trisepalus.md) · 5078
+- ⬜ [Ranunculus caprarum](../Fichas/5079%20Ranunculus%20caprarum.md) · 5079
+- ⬜ [Ranunculus chilensis](../Fichas/5080%20Ranunculus%20chilensis.md) · 5080
+- ⬜ [Ranunculus flagelliformis](../Fichas/5081%20Ranunculus%20flagelliformis.md) · 5081
+- ⬜ [Ranunculus fuegianus](../Fichas/5082%20Ranunculus%20fuegianus.md) · 5082
+- ⬜ [Ranunculus hydrophilus](../Fichas/5083%20Ranunculus%20hydrophilus.md) · 5083
+- ⬜ [Ranunculus maclovianus](../Fichas/5084%20Ranunculus%20maclovianus.md) · 5084
+- ⬜ [Ranunculus minutiflorus](../Fichas/5085%20Ranunculus%20minutiflorus.md) · 5085
+- ⬜ [Ranunculus muricatus](../Fichas/5086%20Ranunculus%20muricatus.md) · 5086
+- ⬜ [Ranunculus parviflorus](../Fichas/5087%20Ranunculus%20parviflorus.md) · 5087
+- ⬜ [Ranunculus peduncularis var. erodiifolius](../Fichas/5088%20Ranunculus%20peduncularis%20var.%20erodiifolius.md) · 5088
+- ⬜ [Ranunculus peduncularis var. peduncularis](../Fichas/5089%20Ranunculus%20peduncularis%20var.%20peduncularis.md) · 5089
+- ⬜ [Ranunculus pseudotrullifolius](../Fichas/5090%20Ranunculus%20pseudotrullifolius.md) · 5090
+- ⬜ [Ranunculus repens](../Fichas/5092%20Ranunculus%20repens.md) · 5092
+- ⬜ [Ranunculus sceleratus](../Fichas/5093%20Ranunculus%20sceleratus.md) · 5093
+- ⬜ [Ranunculus sericocephalus](../Fichas/5094%20Ranunculus%20sericocephalus.md) · 5094
+- ⬜ [Ranunculus spegazzinii](../Fichas/5095%20Ranunculus%20spegazzinii.md) · 5095
+- ⬜ [Ranunculus trichophyllus](../Fichas/5096%20Ranunculus%20trichophyllus.md) · 5096
+- ⬜ [Ranunculus trullifolius](../Fichas/5097%20Ranunculus%20trullifolius.md) · 5097

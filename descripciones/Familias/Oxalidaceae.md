@@ -1,0 +1,67 @@
+# Oxalidaceae
+
+[← Índice](../INDICE.md) · 0 de 63 especies con descripción.
+
+- ⬜ [Oxalis adenophylla](../Fichas/4741%20Oxalis%20adenophylla.md) · 4741
+- ⬜ [Oxalis arbuscula](../Fichas/4742%20Oxalis%20arbuscula.md) · 4742
+- ⬜ [Oxalis arenaria](../Fichas/4743%20Oxalis%20arenaria.md) · 4743
+- ⬜ [Oxalis articulata](../Fichas/4744%20Oxalis%20articulata.md) · 4744
+- ⬜ [Oxalis atacamensis](../Fichas/4745%20Oxalis%20atacamensis.md) · 4745
+- ⬜ [Oxalis aureoflava](../Fichas/4746%20Oxalis%20aureoflava.md) · 4746
+- ⬜ [Oxalis berteroana](../Fichas/4747%20Oxalis%20berteroana.md) · 4747
+- ⬜ [Oxalis bifurcatifolia](../Fichas/5902%20Oxalis%20bifurcatifolia.md) · 5902
+- ⬜ [Oxalis brevis](../Fichas/5922%20Oxalis%20brevis.md) · 5922
+- ⬜ [Oxalis bulbocastanum](../Fichas/4748%20Oxalis%20bulbocastanum.md) · 4748
+- ⬜ [Oxalis caesia](../Fichas/4749%20Oxalis%20caesia.md) · 4749
+- ⬜ [Oxalis campanensis](../Fichas/4750%20Oxalis%20campanensis.md) · 4750
+- ⬜ [Oxalis cinerea](../Fichas/4751%20Oxalis%20cinerea.md) · 4751
+- ⬜ [Oxalis clandestina](../Fichas/4752%20Oxalis%20clandestina.md) · 4752
+- ⬜ [Oxalis colchaguensis](../Fichas/4753%20Oxalis%20colchaguensis.md) · 4753
+- ⬜ [Oxalis compacta](../Fichas/4754%20Oxalis%20compacta.md) · 4754
+- ⬜ [Oxalis corniculata var. atropurpurea](../Fichas/4755%20Oxalis%20corniculata%20var.%20atropurpurea.md) · 4755
+- ⬜ [Oxalis corniculata var. corniculata](../Fichas/4756%20Oxalis%20corniculata%20var.%20corniculata.md) · 4756
+- ⬜ [Oxalis cumingii](../Fichas/5967%20Oxalis%20cumingii.md) · 5967
+- ⬜ [Oxalis debilis](../Fichas/4757%20Oxalis%20debilis.md) · 4757
+- ⬜ [Oxalis dumetorum](../Fichas/4758%20Oxalis%20dumetorum.md) · 4758
+- ⬜ [Oxalis enneaphylla](../Fichas/4759%20Oxalis%20enneaphylla.md) · 4759
+- ⬜ [Oxalis eremobia](../Fichas/4760%20Oxalis%20eremobia.md) · 4760
+- ⬜ [Oxalis ericoides](../Fichas/4761%20Oxalis%20ericoides.md) · 4761
+- ⬜ [Oxalis erythrorhiza](../Fichas/4762%20Oxalis%20erythrorhiza.md) · 4762
+- ⬜ [Oxalis gigantea](../Fichas/4763%20Oxalis%20gigantea.md) · 4763
+- ⬜ [Oxalis gyrorhiza](../Fichas/4764%20Oxalis%20gyrorhiza.md) · 4764
+- ⬜ [Oxalis holosericea](../Fichas/4765%20Oxalis%20holosericea.md) · 4765
+- ⬜ [Oxalis hypsophila](../Fichas/4766%20Oxalis%20hypsophila.md) · 4766
+- ⬜ [Oxalis johnstonii](../Fichas/4768%20Oxalis%20johnstonii.md) · 4768
+- ⬜ [Oxalis laciniata](../Fichas/4769%20Oxalis%20laciniata.md) · 4769
+- ⬜ [Oxalis laxa var. hispidissima](../Fichas/4770%20Oxalis%20laxa%20var.%20hispidissima.md) · 4770
+- ⬜ [Oxalis laxa var. laxa](../Fichas/4771%20Oxalis%20laxa%20var.%20laxa.md) · 4771
+- ⬜ [Oxalis leucophylla](../Fichas/4772%20Oxalis%20leucophylla.md) · 4772
+- ⬜ [Oxalis loricata](../Fichas/4773%20Oxalis%20loricata.md) · 4773
+- ⬜ [Oxalis magellanica](../Fichas/4774%20Oxalis%20magellanica.md) · 4774
+- ⬜ [Oxalis matancillae](../Fichas/4775%20Oxalis%20matancillae.md) · 4775
+- ⬜ [Oxalis megalorrhiza](../Fichas/4776%20Oxalis%20megalorrhiza.md) · 4776
+- ⬜ [Oxalis mira](../Fichas/4778%20Oxalis%20mira.md) · 4778
+- ⬜ [Oxalis morenoensis](../Fichas/4779%20Oxalis%20morenoensis.md) · 4779
+- ⬜ [Oxalis nahuelhuapiensis](../Fichas/4780%20Oxalis%20nahuelhuapiensis.md) · 4780
+- ⬜ [Oxalis neoincana](../Fichas/4767%20Oxalis%20neoincana.md) · 4767
+- ⬜ [Oxalis novemfoliolata](../Fichas/4781%20Oxalis%20novemfoliolata.md) · 4781
+- ⬜ [Oxalis ornithopus](../Fichas/4782%20Oxalis%20ornithopus.md) · 4782
+- ⬜ [Oxalis ovalleana](../Fichas/4783%20Oxalis%20ovalleana.md) · 4783
+- ⬜ [Oxalis pachyrrhiza](../Fichas/4784%20Oxalis%20pachyrrhiza.md) · 4784
+- ⬜ [Oxalis penicillata](../Fichas/4785%20Oxalis%20penicillata.md) · 4785
+- ⬜ [Oxalis perdicaria](../Fichas/4786%20Oxalis%20perdicaria.md) · 4786
+- ⬜ [Oxalis pes-caprae](../Fichas/4787%20Oxalis%20pes-caprae.md) · 4787
+- ⬜ [Oxalis purpurea](../Fichas/4788%20Oxalis%20purpurea.md) · 4788
+- ⬜ [Oxalis pycnophylla](../Fichas/4789%20Oxalis%20pycnophylla.md) · 4789
+- ⬜ [Oxalis ranchillos](../Fichas/5705%20Oxalis%20ranchillos.md) · 5705
+- ⬜ [Oxalis ricardii](../Fichas/4790%20Oxalis%20ricardii.md) · 4790
+- ⬜ [Oxalis rigida](../Fichas/4791%20Oxalis%20rigida.md) · 4791
+- ⬜ [Oxalis rosea](../Fichas/4792%20Oxalis%20rosea.md) · 4792
+- ⬜ [Oxalis squamata](../Fichas/4793%20Oxalis%20squamata.md) · 4793
+- ⬜ [Oxalis squarrosa](../Fichas/4794%20Oxalis%20squarrosa.md) · 4794
+- ⬜ [Oxalis strictula](../Fichas/4795%20Oxalis%20strictula.md) · 4795
+- ⬜ [Oxalis tacorensis](../Fichas/4796%20Oxalis%20tacorensis.md) · 4796
+- ⬜ [Oxalis tortuosa](../Fichas/4797%20Oxalis%20tortuosa.md) · 4797
+- ⬜ [Oxalis tuberosa](../Fichas/4798%20Oxalis%20tuberosa.md) · 4798
+- ⬜ [Oxalis valdiviensis](../Fichas/4799%20Oxalis%20valdiviensis.md) · 4799
+- ⬜ [Oxalis virgosa](../Fichas/4800%20Oxalis%20virgosa.md) · 4800

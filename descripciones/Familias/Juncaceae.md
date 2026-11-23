@@ -1,0 +1,54 @@
+# Juncaceae
+
+[← Índice](../INDICE.md) · 0 de 50 especies con descripción.
+
+- ⬜ [Distichia filamentosa](../Fichas/890%20Distichia%20filamentosa.md) · 890
+- ⬜ [Distichia muscoides](../Fichas/891%20Distichia%20muscoides.md) · 891
+- ⬜ [Juncus acuminatus](../Fichas/892%20Juncus%20acuminatus.md) · 892
+- ⬜ [Juncus acutus subsp. acutus var. decompositus](../Fichas/893%20Juncus%20acutus%20subsp.%20acutus%20var.%20decompositus.md) · 893
+- ⬜ [Juncus acutus subsp. leopoldii](../Fichas/894%20Juncus%20acutus%20subsp.%20leopoldii.md) · 894
+- ⬜ [Juncus balticus subsp. andicola](../Fichas/895%20Juncus%20balticus%20subsp.%20andicola.md) · 895
+- ⬜ [Juncus balticus subsp. mexicanus](../Fichas/896%20Juncus%20balticus%20subsp.%20mexicanus.md) · 896
+- ⬜ [Juncus bufonius](../Fichas/897%20Juncus%20bufonius.md) · 897
+- ⬜ [Juncus bulbosus](../Fichas/898%20Juncus%20bulbosus.md) · 898
+- ⬜ [Juncus capillaceus](../Fichas/899%20Juncus%20capillaceus.md) · 899
+- ⬜ [Juncus capitatus](../Fichas/900%20Juncus%20capitatus.md) · 900
+- ⬜ [Juncus cyperoides](../Fichas/901%20Juncus%20cyperoides.md) · 901
+- ⬜ [Juncus dichotomus](../Fichas/902%20Juncus%20dichotomus.md) · 902
+- ⬜ [Juncus diemii](../Fichas/903%20Juncus%20diemii.md) · 903
+- ⬜ [Juncus effusus var. effusus](../Fichas/904%20Juncus%20effusus%20var.%20effusus.md) · 904
+- ⬜ [Juncus effusus var. subglomeratus](../Fichas/905%20Juncus%20effusus%20var.%20subglomeratus.md) · 905
+- ⬜ [Juncus ernesti-barrosii](../Fichas/906%20Juncus%20ernesti-barrosii.md) · 906
+- ⬜ [Juncus filiformis](../Fichas/907%20Juncus%20filiformis.md) · 907
+- ⬜ [Juncus homalocaulis](../Fichas/908%20Juncus%20homalocaulis.md) · 908
+- ⬜ [Juncus imbricatus](../Fichas/909%20Juncus%20imbricatus.md) · 909
+- ⬜ [Juncus involucratus](../Fichas/910%20Juncus%20involucratus.md) · 910
+- ⬜ [Juncus kraussii subsp. austerus](../Fichas/911%20Juncus%20kraussii%20subsp.%20austerus.md) · 911
+- ⬜ [Juncus llanquihuensis](../Fichas/912%20Juncus%20llanquihuensis.md) · 912
+- ⬜ [Juncus microcephalus](../Fichas/913%20Juncus%20microcephalus.md) · 913
+- ⬜ [Juncus pallescens](../Fichas/914%20Juncus%20pallescens.md) · 914
+- ⬜ [Juncus planifolius](../Fichas/915%20Juncus%20planifolius.md) · 915
+- ⬜ [Juncus procerus](../Fichas/916%20Juncus%20procerus.md) · 916
+- ⬜ [Juncus scheuchzerioides](../Fichas/917%20Juncus%20scheuchzerioides.md) · 917
+- ⬜ [Juncus stipulatus](../Fichas/918%20Juncus%20stipulatus.md) · 918
+- ⬜ [Juncus tenuis var. congestus](../Fichas/919%20Juncus%20tenuis%20var.%20congestus.md) · 919
+- ⬜ [Juncus tenuis var. tenuis](../Fichas/920%20Juncus%20tenuis%20var.%20tenuis.md) · 920
+- ⬜ [Luzula alopecurus](../Fichas/921%20Luzula%20alopecurus.md) · 921
+- ⬜ [Luzula antarctica](../Fichas/922%20Luzula%20antarctica.md) · 922
+- ⬜ [Luzula brachyphylla](../Fichas/923%20Luzula%20brachyphylla.md) · 923
+- ⬜ [Luzula campestris](../Fichas/924%20Luzula%20campestris.md) · 924
+- ⬜ [Luzula chilensis](../Fichas/925%20Luzula%20chilensis.md) · 925
+- ⬜ [Luzula excelsa](../Fichas/926%20Luzula%20excelsa.md) · 926
+- ⬜ [Luzula leiboldii](../Fichas/927%20Luzula%20leiboldii.md) · 927
+- ⬜ [Luzula masafuerana](../Fichas/928%20Luzula%20masafuerana.md) · 928
+- ⬜ [Luzula parvula](../Fichas/929%20Luzula%20parvula.md) · 929
+- ⬜ [Luzula racemosa](../Fichas/930%20Luzula%20racemosa.md) · 930
+- ⬜ [Luzula tristachya](../Fichas/931%20Luzula%20tristachya.md) · 931
+- ⬜ [Marsippospermum grandiflorum](../Fichas/932%20Marsippospermum%20grandiflorum.md) · 932
+- ⬜ [Marsippospermum philippii](../Fichas/933%20Marsippospermum%20philippii.md) · 933
+- ⬜ [Marsippospermum reichei](../Fichas/934%20Marsippospermum%20reichei.md) · 934
+- ⬜ [Oxychloe andina](../Fichas/935%20Oxychloe%20andina.md) · 935
+- ⬜ [Oxychloe bisexualis](../Fichas/936%20Oxychloe%20bisexualis.md) · 936
+- ⬜ [Oxychloe haumaniana](../Fichas/937%20Oxychloe%20haumaniana.md) · 937
+- ⬜ [Patosia clandestina](../Fichas/938%20Patosia%20clandestina.md) · 938
+- ⬜ [Rostkovia magellanica](../Fichas/939%20Rostkovia%20magellanica.md) · 939

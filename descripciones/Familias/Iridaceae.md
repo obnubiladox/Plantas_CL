@@ -1,0 +1,46 @@
+# Iridaceae
+
+[← Índice](../INDICE.md) · 0 de 42 especies con descripción.
+
+- ⬜ [Calydorea xiphioides](../Fichas/849%20Calydorea%20xiphioides.md) · 849
+- ⬜ [Crocosmia crocosmiiflora](../Fichas/850%20Crocosmia%20crocosmiiflora.md) · 850
+- ⬜ [Herbertia lahue](../Fichas/851%20Herbertia%20lahue.md) · 851
+- ⬜ [Iris germanica](../Fichas/852%20Iris%20germanica.md) · 852
+- ⬜ [Iris pseudacorus](../Fichas/853%20Iris%20pseudacorus.md) · 853
+- ⬜ [Libertia chilensis](../Fichas/854%20Libertia%20chilensis.md) · 854
+- ⬜ [Libertia sessiliflora](../Fichas/855%20Libertia%20sessiliflora.md) · 855
+- ⬜ [Libertia tricocca](../Fichas/856%20Libertia%20tricocca.md) · 856
+- ⬜ [Mastigostyla cyrtophylla](../Fichas/857%20Mastigostyla%20cyrtophylla.md) · 857
+- ⬜ [Olsynium biflorum](../Fichas/858%20Olsynium%20biflorum.md) · 858
+- ⬜ [Olsynium chrysochromum](../Fichas/859%20Olsynium%20chrysochromum.md) · 859
+- ⬜ [Olsynium frigidum](../Fichas/860%20Olsynium%20frigidum.md) · 860
+- ⬜ [Olsynium junceum subsp. colchaguense](../Fichas/861%20Olsynium%20junceum%20subsp.%20colchaguense.md) · 861
+- ⬜ [Olsynium junceum subsp. depauperatum](../Fichas/862%20Olsynium%20junceum%20subsp.%20depauperatum.md) · 862
+- ⬜ [Olsynium junceum subsp. junceum](../Fichas/863%20Olsynium%20junceum%20subsp.%20junceum.md) · 863
+- ⬜ [Olsynium lyckholmii](../Fichas/864%20Olsynium%20lyckholmii.md) · 864
+- ⬜ [Olsynium nigricans](../Fichas/865%20Olsynium%20nigricans.md) · 865
+- ⬜ [Olsynium obscurum](../Fichas/866%20Olsynium%20obscurum.md) · 866
+- ⬜ [Olsynium philippii subsp. illapelinum](../Fichas/867%20Olsynium%20philippii%20subsp.%20illapelinum.md) · 867
+- ⬜ [Olsynium philippii subsp. philippii](../Fichas/868%20Olsynium%20philippii%20subsp.%20philippii.md) · 868
+- ⬜ [Olsynium scirpoideum subsp. leucanthum](../Fichas/869%20Olsynium%20scirpoideum%20subsp.%20leucanthum.md) · 869
+- ⬜ [Olsynium scirpoideum subsp. luridum](../Fichas/870%20Olsynium%20scirpoideum%20subsp.%20luridum.md) · 870
+- ⬜ [Olsynium scirpoideum subsp. scirpeum](../Fichas/871%20Olsynium%20scirpoideum%20subsp.%20scirpeum.md) · 871
+- ⬜ [Olsynium scirpoideum subsp. scirpoideum](../Fichas/872%20Olsynium%20scirpoideum%20subsp.%20scirpoideum.md) · 872
+- ⬜ [Olsynium trinerve](../Fichas/873%20Olsynium%20trinerve.md) · 873
+- ⬜ [Romulea rosea](../Fichas/874%20Romulea%20rosea.md) · 874
+- ⬜ [Sisyrinchium arenarium subsp. adenostemon](../Fichas/875%20Sisyrinchium%20arenarium%20subsp.%20adenostemon.md) · 875
+- ⬜ [Sisyrinchium arenarium subsp. arenarium](../Fichas/876%20Sisyrinchium%20arenarium%20subsp.%20arenarium.md) · 876
+- ⬜ [Sisyrinchium azureum](../Fichas/877%20Sisyrinchium%20azureum.md) · 877
+- ⬜ [Sisyrinchium chilense](../Fichas/878%20Sisyrinchium%20chilense.md) · 878
+- ⬜ [Sisyrinchium cuspidatum](../Fichas/879%20Sisyrinchium%20cuspidatum.md) · 879
+- ⬜ [Sisyrinchium graminifolium](../Fichas/880%20Sisyrinchium%20graminifolium.md) · 880
+- ⬜ [Sisyrinchium micranthum](../Fichas/881%20Sisyrinchium%20micranthum.md) · 881
+- ⬜ [Sisyrinchium nanum](../Fichas/882%20Sisyrinchium%20nanum.md) · 882
+- ⬜ [Sisyrinchium patagonicum](../Fichas/883%20Sisyrinchium%20patagonicum.md) · 883
+- ⬜ [Sisyrinchium pearcei](../Fichas/884%20Sisyrinchium%20pearcei.md) · 884
+- ⬜ [Sisyrinchium striatum](../Fichas/885%20Sisyrinchium%20striatum.md) · 885
+- ⬜ [Solenomelus pedunculatus](../Fichas/886%20Solenomelus%20pedunculatus.md) · 886
+- ⬜ [Solenomelus segethii](../Fichas/887%20Solenomelus%20segethii.md) · 887
+- ⬜ [Tapeinia pumila](../Fichas/888%20Tapeinia%20pumila.md) · 888
+- ⬜ [Tigridia philippiana](../Fichas/889%20Tigridia%20philippiana.md) · 889
+- ⬜ [Tigridia riedemanniae](../Fichas/5820%20Tigridia%20riedemanniae.md) · 5820

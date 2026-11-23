@@ -1,0 +1,66 @@
+# Polygonaceae
+
+[← Índice](../INDICE.md) · 0 de 62 especies con descripción.
+
+- ⬜ [Chorizanthe commissuralis](../Fichas/4966%20Chorizanthe%20commissuralis.md) · 4966
+- ⬜ [Chorizanthe dasyantha](../Fichas/4967%20Chorizanthe%20dasyantha.md) · 4967
+- ⬜ [Chorizanthe densa](../Fichas/4968%20Chorizanthe%20densa.md) · 4968
+- ⬜ [Chorizanthe deserticola](../Fichas/4969%20Chorizanthe%20deserticola.md) · 4969
+- ⬜ [Chorizanthe flavescens](../Fichas/4970%20Chorizanthe%20flavescens.md) · 4970
+- ⬜ [Chorizanthe frankenioides](../Fichas/4971%20Chorizanthe%20frankenioides.md) · 4971
+- ⬜ [Chorizanthe gajardoi](../Fichas/4972%20Chorizanthe%20gajardoi.md) · 4972
+- ⬜ [Chorizanthe glabrescens](../Fichas/4973%20Chorizanthe%20glabrescens.md) · 4973
+- ⬜ [Chorizanthe kingii](../Fichas/4974%20Chorizanthe%20kingii.md) · 4974
+- ⬜ [Chorizanthe limariensis](../Fichas/5715%20Chorizanthe%20limariensis.md) · 5715
+- ⬜ [Chorizanthe macraei](../Fichas/5830%20Chorizanthe%20macraei.md) · 5830
+- ⬜ [Chorizanthe mieresii](../Fichas/4975%20Chorizanthe%20mieresii.md) · 4975
+- ⬜ [Chorizanthe navasiae](../Fichas/4976%20Chorizanthe%20navasiae.md) · 4976
+- ⬜ [Chorizanthe novoana](../Fichas/4977%20Chorizanthe%20novoana.md) · 4977
+- ⬜ [Chorizanthe paniculata](../Fichas/4978%20Chorizanthe%20paniculata.md) · 4978
+- ⬜ [Chorizanthe peduncularis](../Fichas/4979%20Chorizanthe%20peduncularis.md) · 4979
+- ⬜ [Chorizanthe rosasii](../Fichas/4980%20Chorizanthe%20rosasii.md) · 4980
+- ⬜ [Chorizanthe umbellata](../Fichas/5831%20Chorizanthe%20umbellata.md) · 5831
+- ⬜ [Chorizanthe vaginata](../Fichas/4981%20Chorizanthe%20vaginata.md) · 4981
+- ⬜ [Chorizanthe virgata](../Fichas/4982%20Chorizanthe%20virgata.md) · 4982
+- ⬜ [Chorizanthe viridis](../Fichas/4983%20Chorizanthe%20viridis.md) · 4983
+- ⬜ [Fallopia baldschuanica](../Fichas/5763%20Fallopia%20baldschuanica.md) · 5763
+- ⬜ [Fallopia convolvulus](../Fichas/5000%20Fallopia%20convolvulus.md) · 5000
+- ⬜ [Fallopia japonica](../Fichas/4985%20Fallopia%20japonica.md) · 4985
+- ⬜ [Fallopia sachalinensis](../Fichas/4986%20Fallopia%20sachalinensis.md) · 4986
+- ⬜ [Koenigia islandica](../Fichas/4987%20Koenigia%20islandica.md) · 4987
+- ⬜ [Lastarriaea chilensis](../Fichas/4988%20Lastarriaea%20chilensis.md) · 4988
+- ⬜ [Muehlenbeckia fruticulosa](../Fichas/4989%20Muehlenbeckia%20fruticulosa.md) · 4989
+- ⬜ [Muehlenbeckia hastulata var. fascicularis](../Fichas/4990%20Muehlenbeckia%20hastulata%20var.%20fascicularis.md) · 4990
+- ⬜ [Muehlenbeckia hastulata var. hastulata](../Fichas/4991%20Muehlenbeckia%20hastulata%20var.%20hastulata.md) · 4991
+- ⬜ [Muehlenbeckia hastulata var. rotundata](../Fichas/4992%20Muehlenbeckia%20hastulata%20var.%20rotundata.md) · 4992
+- ⬜ [Oxytheca dendroidea subsp. chilensis](../Fichas/4993%20Oxytheca%20dendroidea%20subsp.%20chilensis.md) · 4993
+- ⬜ [Polygonum acuminatum](../Fichas/4995%20Polygonum%20acuminatum.md) · 4995
+- ⬜ [Polygonum aviculare](../Fichas/4996%20Polygonum%20aviculare.md) · 4996
+- ⬜ [Polygonum bowenkampii](../Fichas/4997%20Polygonum%20bowenkampii.md) · 4997
+- ⬜ [Polygonum brasiliense](../Fichas/4998%20Polygonum%20brasiliense.md) · 4998
+- ⬜ [Polygonum campanulatum](../Fichas/4999%20Polygonum%20campanulatum.md) · 4999
+- ⬜ [Polygonum capitatum](../Fichas/5850%20Polygonum%20capitatum.md) · 5850
+- ⬜ [Polygonum delfinii](../Fichas/5725%20Polygonum%20delfinii.md) · 5725
+- ⬜ [Polygonum hydropiper](../Fichas/5001%20Polygonum%20hydropiper.md) · 5001
+- ⬜ [Polygonum hydropiperoides var. hydropiperoides](../Fichas/5002%20Polygonum%20hydropiperoides%20var.%20hydropiperoides.md) · 5002
+- ⬜ [Polygonum lapathifolium](../Fichas/5003%20Polygonum%20lapathifolium.md) · 5003
+- ⬜ [Polygonum maritimum](../Fichas/5004%20Polygonum%20maritimum.md) · 5004
+- ⬜ [Polygonum mite](../Fichas/5005%20Polygonum%20mite.md) · 5005
+- ⬜ [Polygonum orientale](../Fichas/5006%20Polygonum%20orientale.md) · 5006
+- ⬜ [Polygonum persicaria](../Fichas/4994%20Polygonum%20persicaria.md) · 4994
+- ⬜ [Polygonum sanguinaria](../Fichas/5007%20Polygonum%20sanguinaria.md) · 5007
+- ⬜ [Rumex acetosella](../Fichas/5009%20Rumex%20acetosella.md) · 5009
+- ⬜ [Rumex conglomeratus](../Fichas/5010%20Rumex%20conglomeratus.md) · 5010
+- ⬜ [Rumex crispissimus](../Fichas/5011%20Rumex%20crispissimus.md) · 5011
+- ⬜ [Rumex crispus](../Fichas/5012%20Rumex%20crispus.md) · 5012
+- ⬜ [Rumex cristatus](../Fichas/5013%20Rumex%20cristatus.md) · 5013
+- ⬜ [Rumex darwinianus](../Fichas/5015%20Rumex%20darwinianus.md) · 5015
+- ⬜ [Rumex longifolius](../Fichas/5016%20Rumex%20longifolius.md) · 5016
+- ⬜ [Rumex magellanicus](../Fichas/5017%20Rumex%20magellanicus.md) · 5017
+- ⬜ [Rumex maricola](../Fichas/5018%20Rumex%20maricola.md) · 5018
+- ⬜ [Rumex maritimus](../Fichas/5019%20Rumex%20maritimus.md) · 5019
+- ⬜ [Rumex obtusifolius](../Fichas/5020%20Rumex%20obtusifolius.md) · 5020
+- ⬜ [Rumex patagonicus](../Fichas/5021%20Rumex%20patagonicus.md) · 5021
+- ⬜ [Rumex pulcher](../Fichas/5022%20Rumex%20pulcher.md) · 5022
+- ⬜ [Rumex romassa](../Fichas/5023%20Rumex%20romassa.md) · 5023
+- ⬜ [Rumex spinosus](../Fichas/5832%20Rumex%20spinosus.md) · 5832
