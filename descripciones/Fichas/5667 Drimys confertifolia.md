@@ -2,42 +2,38 @@
 
 ## Descripción
 
-### Historia
+Especie endémica de las islas Robinson Crusoe y Alejandro Selkirk (Marticorena et al. 1998). Árbol de hasta 15 m con copa redondeada, tronco de hasta 50 cm de diámetro y corteza gris ceniza; el follaje es verde oscuro. Las hojas, coriáceas, verde oscuras por el haz y blanquecinas por el envés, se agrupan en los extremos de las ramas, donde también se reúnen las inflorescencias, umbelas simples. Las flores son hermafroditas, blanco cremosas, con pedicelos amarillentos y anteras amarillas. El fruto es una baya ovalada, negro violácea al madurar, con 14–20 semillas reniformes, negras, brillantes y lisas. Su número cromosómico es 2n = 86 (Sun et al. 1990).
 
-Rodulfo Philippi la describió en 1856 con muestras colectadas por Filiberto Germain en 1854 (Philippi 1856, Novoa 2015).
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
-Árbol de 15–20 m, de tronco de más de 1 m y corteza gris ceniza, rugosa y con protuberancias en ejemplares viejos. Las hojas, coriáceas y lanceoladas, de 5–12 × 1,3–2,5 cm, con pecíolos de 0,4–1 cm algo canaliculados, son verde oscuro por el haz y glaucas por el envés, de margen liso. Las inflorescencias, terminales, umbeliformes y largamente pediceladas, tienen un pedicelo glabro y amarillo de 1–3,5 cm con 2–10 flores hermafroditas, de sépalos rojizos y cóncavos (6–6,5 × 8 mm), pétalos blancos y estambres amarillos. El fruto es una baya alargada, negruzca y violácea al madurar, con varias semillas negras, reniformes y lustrosas. Florece de octubre a enero y fructifica de enero a marzo (Rodríguez y Quezada 2001, Penneckamp 2018); las semillas se dispersan por gravedad o por aves (Cuevas y Vargas 2006, Vargas et al. 2010).
+## Biología
 
-### Polinización y germinación
+Su ancestro proviene de Chile continental (*Drimys winteri*) (Ruiz et al. 2002; Bernardello et al. 2006). No produce néctar y la poliniza el viento (Skottsberg 1928; Anderson et al. 2001). Tiene alta infección micorrízica (94,2 %), con una intensidad de 19 % (Álvarez 1995). Los ensayos en invernadero en la isla Robinson Crusoe no lograron germinarla (Ricci 1998), y lo mismo ocurrió en laboratorio (Cuevas y Figueroa 2006), aunque sí se consiguió en el vivero del Jardín Botánico Nacional (Ricci 2001).
 
-Por su morfología floral parece polinizada por insectos (Cuevas y Vargas 2006), pero Anderson et al. (2001) no hallaron néctar ni polinizadores y la consideran anemófila. En laboratorio no germina (Ricci 1998, Cuevas y Figueroa 2007), aunque sí en el vivero del Jardín Botánico Nacional (Ricci 2001).
-
-### Etimología
-
-*Drimys* viene del griego y significa "picante", por el sabor de la corteza y las hojas (Muñoz-Schick et al. 2012); *confertifolia*, del latín, "hojas agrupadas", pues se concentran hacia los extremos de las ramas (Penneckamp 2018).
-
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Hábitat
 
-Habita en bosques primarios y es común en la mirtisilva fernandeziana; también vive achaparrada en lugares expuestos y faldeos de cerros, a veces con fuerte sol en terrenos secos. Típicamente crece en semisombra, y logra establecerse en claros del bosque con protección en sus primeros años. En Robinson Crusoe va de 200 a 900 m (excepcionalmente, 120 m en El Pangal), con *Nothomyrcia fernandeziana*, *Fagara mayu*, *Juania australis* y helechos arborescentes de *Dicksonia* y *Blechnum*; en Alejandro Selkirk, de 500 a 1.200 m, con *Myrceugenia schulzei* y *Dicksonia externa* (Cuevas y Vargas 2006, Penneckamp 2018). El área de ocupación total es menor a 42 km², considerando ambas islas.
+Los individuos habitan bosques de montaña baja y alta, y también los matorrales de los cordones montañosos (Skottsberg 1917). En la isla Robinson Crusoe se encuentra de 250 m s. n. m. (Rabanal) a 700 m (Ricci 1990; Rodríguez et al. 1983; Skottsberg 1952), con un área de ocupación cercana a 25 km². En la isla Alejandro Selkirk es mucho menos frecuente, en zonas boscosas de las quebradas, entre 450 y 1.200 m (Rodríguez et al. 1983; Ricci 1992), con un área de ocupación cercana a 20 km². En total, el área de ocupación del archipiélago se estima en unos 45 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Distribución
 
-Endémica de Robinson Crusoe y Alejandro Selkirk (Cuevas y Vargas 2006, Penneckamp 2018, Rodríguez et al. 2018). En Robinson Crusoe va de la quebrada Salsipuedes a la Juanango, de la plazoleta a Villagra y de Puerto Francés al cerro Chumacera; en Alejandro Selkirk, asociada al matorral de helechos arbóreos (Cuevas y Vargas 2006).
+En la isla Robinson Crusoe se distribuye entre el cerro y cordón La Pascua (sector Puerto Francés) y el cerro Chumacera, del cordón Salsipuedes a la quebrada Juanango, y también en el cerro Alto (Johow 1896; Skottsberg 1922; Ricci 1990); la extensión de la presencia es de unos 25 km². En la isla Alejandro Selkirk va desde los Planos de Sánchez, la quebrada del Mono y la quebrada del Blindado (Skottsberg 1922) hasta todas las quebradas de la parte occidental (Ricci 1992); allí la extensión es de unos 30 km². En total, la extensión de la presencia en el archipiélago se estima en 55 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Población
 
-Es un árbol codominante de la mirtisilva, con 10–170 árboles/ha y cobertura de copas de hasta 6 % (Cuevas y Vargas 2006). Vargas et al. (2010) hallaron bajo reclutamiento bajo el dosel, pero mejor en claros o sectores de menor cobertura, donde el 38 % de las plántulas son de esta especie; *Gunnera peltata* facilitaría el establecimiento de plántulas en claros, y la regeneración se relaciona con árboles maduros por reproducción vegetativa (54 % de la regeneración es asexual), lo que explica su distribución agregada. Es semitolerante a la sombra y necesita cobertura para establecerse. Según los guardaparques de CONAF, es más abundante en Alejandro Selkirk que en Robinson Crusoe. Su abundancia y su área disminuyeron por las grandes talas de los siglos XVI a XIX (Le Quesne et al. 2002, Venegas y Elórtegui 2022); hoy la reducen sobre todo las invasoras *Aristotelia chilensis*, *Rubus ulmifolius*, *Ugni molinae* y *Acaena argentea* (Sanders et al. 1982, Greimler et al. 2002, 2013, Dirnböck et al. 2003, Vargas et al. 2006, Smith-Ramírez et al. 2017), además del cambio climático y las plagas de insectos.
+Para Johow (1896) era uno de los árboles más comunes de Robinson Crusoe, como también indica Skottsberg (1922, 1952), y en Alejandro Selkirk, mucho más disperso. Hoy hay más de 5.000 individuos de todas las clases de tamaño en Robinson Crusoe; la regeneración natural es menor a la esperada, porque los claros del bosque los ocupa sobre todo la zarzamora (Honeyman et al. 2005). En Alejandro Selkirk se han observado muchos menos, no más de 1.000 (Ricci 1992).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+Está en declinación según la comparación con Johow (1896) y Skottsberg (1917, 1952): al evaluar la estructura de edades hay muchos más individuos grandes que juveniles (Honeyman et al. 2005).
+
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Amenazas
 
-En el pasado se taló para obtener leña y madera de construcción (Cuevas y Vargas 2006).
+Pese a la abundancia, sobre todo de adultos, está amenazada por el avance de la zarzamora (*Rubus ulmifolius*), el maqui (*Aristotelia chilensis*) y la murtilla (*Ugni molinae*), especies plaga de las islas en clara expansión, que son su principal amenaza (Skottsberg 1953; Sanders et al. 1982; Matthei et al. 1983; Stuessy et al. 1984; Perry 1984; Ricci 1989; Swenson et al. 1997; Stuessy et al. 1998; Greimler et al. 2002; Dirnböck et al. 2003; Danton 2004; Cuevas et al. 2004; Honeyman et al. 2005). En Alejandro Selkirk, además, la gran cantidad de cabras amenaza seriamente su hábitat (Cuevas y van Leersum 2001).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente

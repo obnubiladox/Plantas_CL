@@ -2,46 +2,38 @@
 
 ## Descripción
 
-### Historia
+Especie endémica de la isla Robinson Crusoe, del género endémico *Cuminia* (Marticorena et al. 1998). Es un arbusto o árbol pequeño de hasta 3 m, con ramas hojosas hacia arriba y muy pubescentes, igual que las hojas y las inflorescencias nuevas. Las hojas, perennes, simples, pecioladas y opuestas, miden 5–6 cm, son aovadas, algo cuneadas y de borde aserrado. La inflorescencia es un dicasio axilar con flores hermafroditas o unisexuales por aborto; la corola, tubulosa y bilabiada, va de lila claro a blanquecina. El fruto es una baya morada con 4 nueces (Reiche 1896; Skottsberg 1922; Rodríguez et al. 1983).
 
-George Bentham la describió como *Bystropogon erianthus* (1835), con muestras colectadas en 1823 por María Graham en Robinson Crusoe, y después la transfirió a *Cuminia* (Harley 1986). *Cuminia* es monotípico y endémico de Robinson Crusoe y se distingue en la familia Lamiaceae porque carece de aceites aromáticos y tiene un fruto carnoso, atípico en ella (Urbina-Casanova et al. 2015, Penneckamp 2018, Morales 2018).
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente
 
-Es un arbusto o árbol de (0,5) 1–4 (5) m, de tronco de hasta 5 cm en la base, a veces apoyado en otros, con un suave olor a menta o alcanfor. Los tallos son pilosos, de tricomas muy cortos y patentes. Las hojas miden 6–7,5 × 2,2–2,8 cm, con pecíolo piloso de 1,2–2 cm y limbo elíptico de 3–5 cm, atenuado en el pecíolo y dentado, glabro y verde oscuro por el haz y más claro por el envés, con notoria pilosidad castaño claro en las nervaduras. La inflorescencia son tirsos foliosos de bractéolas lineares de unos 2 mm. El cáliz, regular, de 2,5–3,5 mm, tiene 5 dientes y es piloso; la corola, acampanada, de unos 8 mm y pilosa, tiene 5 lóbulos de menos de 1 mm, lila, azulada, violeta o púrpura. Los estambres, incluidos, tienen filamentos muy pilosos hacia la base y anteras púrpura; el estilo sobresale, con estigma bífido. Los frutos, algo carnosos, son rojizo purpúreos (Morales 2018).
+## Biología
 
-### Fenología y germinación
+La polinizan y dispersan los picaflores (Skottsberg 1928; Anderson et al. 2001). Crawford et al. (2001) indican poca diversidad alozímica dentro de las poblaciones (Ht = 0,083) y algo mayor entre ellas (Gst = 0,262). La germinación empieza 30 días después de la siembra y alcanza 70 % a los 70 días; como en *C. fernandezia*, las plántulas sufren una alta mortalidad y sobrevive menos del 10 % (Ricci 2003). Cuevas y Figueroa (2007) obtuvieron 87 % de germinación en 13 meses. *Cuminia* tiene un número cromosómico de n = 22, distinto al de todos los demás géneros de Lamiaceae (Sanders et al. 1983).
 
-Florece gran parte del año, con variaciones altitudinales: se la registró con flores de enero a junio y de agosto a noviembre, y fructifica de febrero a agosto (Leiva et al. 2013, Penneckamp 2018). Sus semillas germinan entre 70 y 90 % (Cuevas et al. 2007; Sáez et al., datos no publicados).
+Ruiz et al. (2000) discuten la taxonomía del género con datos morfológicos y secuencias ITS, que sustentan reconocer dos taxones; las diferencias, pequeñas pero constantes, parecen justificar el rango de especie para ambos. Las poblaciones pubescentes corresponden a *C. eriantha* y las glabras a *C. fernandezia*; los dos taxones conservan su identidad sin indicios de hibridación aunque a menudo crecen cerca, y cada población tiene solo plantas glabras o solo pubescentes, sin poblaciones mixtas.
 
-### Polinización
-
-Sus flores producen abundante néctar, se sugiere que es xenógama facultativa y los picaflores las visitan con frecuencia (Anderson et al. 2001).
-
-### Etimología
-
-*Cuminia* honra a Hugonis Cumini, micólogo italiano (Muñoz-Schick et al. 2012); *eriantha*, del griego, significa "flor lanosa" (Penneckamp 2018).
-
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente
 
 ## Hábitat
 
-Vive entre 200 y 900 m, con individuos dispersos y aislados, en la mirtisilva baja y alta (Harley 1986), bajo el dosel de *Drimys confertifolia*, *Nothomyrcia fernandeziana*, *Rhaphithamnus venustus* y *Thyrsopteris elegans* (Ruiz et al. 2000). También crece en paredes rocosas de quebradas interiores y en matorrales ricos en helechos arborescentes, sobre los que a veces se apoya (Morales 2018, Penneckamp 2018), y se la ha visto bajo el dosel del invasor maqui (*Aristotelia chilensis*). El área de ocupación se estima menor a 5 km².
+Los individuos viven sobre los 500 m s. n. m., en pendientes y bosques de altura, sobre suelos muy húmicos y algo sombríos, en las comunidades de bosque de montaña alta (Johow 1896; Skottsberg 1952; Ricci, obs. pers.). El área de ocupación estimada es de 3 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente
 
 ## Distribución
 
-Es endémica de los bosques de Robinson Crusoe (Morales 2018, Penneckamp 2018). Se registró de la quebrada de Puerto Francés al cerro Chumacera, de la quebrada de Salsipuedes a la de Juanango y de la plazoleta El Yunque a Villagra (Skottsberg 1922, Ricci 1990). Monitoreos recientes de CONAF la hallaron en el cerro Alto, Vaquería, el cerro Agudo, Villagra, Corrales de Molina, Piedra Agujereada y El Yunque. La extensión de presencia se estima en 10 km² (Sáez et al., datos no publicados).
+Se distribuye entre la quebrada de Puerto Francés y el cerro Central, y también en la quebrada Salsipuedes (Skottsberg 1922; Ricci 1990). La extensión de la presencia estimada es cercana a 10 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente
 
 ## Población
 
-Se la considera poco frecuente, de poblaciones reducidas (Johow 1896, Skottsberg 1922, Penneckamp 2018) y con escasa regeneración (Sáez et al.). Entre 2007 y 2010, los guardaparques del parque nacional registraron 196 individuos en 27 sitios (Leiva et al. 2013). Se estima una reducción porque el bosque primario donde vive disminuyó cerca de un tercio (Dirnböck et al. 2003), la erosión afecta al 75 % de la isla y al 35 % de forma severa e irreversible (Vanhulst 2011), y 805,9 ha (16 %) de las 4.794 ha están cubiertas por la asociación invasora de *Rubus ulmifolius* y *Aristotelia chilensis*, mientras que el bosque nativo cubre solo 1.014,8 ha (21 %) (Smith-Ramírez et al. 2017). Con modelos de regresión logística, se estimó que el 50 % del bosque nativo remanente podría invadirse o reemplazarse en menos de 80 años desde 2003 (Dirnböck et al. 2003). También la afecta el cambio climático.
+Ricci (2006) registra 46 individuos dispersos en su área de ocupación, con escasa regeneración natural. Siempre se la describió como rara y escasa (Johow 1896; Skottsberg 1922). Persiste, pero no hay datos suficientes para inferir cambios en las poblaciones (Ricci, obs. pers.).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente
 
 ## Amenazas
 
-En el siglo XVIII los incendios forestales afectaron los bosques de Robinson Crusoe y redujeron mucho la cobertura del bosque donde vive (Vargas et al. 2006). Hoy los daños más evidentes son la erosión y la presión del ganado doméstico (vacas y cabras) y la fauna exótica (ratas y conejos), que depredan plántulas, frutos y semillas (Sanders et al. 1982, Venegas y Elórtegui 2022).
+La principal amenaza es el avance de la zarzamora (*Rubus ulmifolius*), el maqui (*Aristotelia chilensis*) y la murtilla (*Ugni molinae*), especies plaga de las islas en clara expansión (Skottsberg 1953; IREN CORFO 1982; Sanders et al. 1982; Matthei et al. 1983; Swenson et al. 1997; Stuessy et al. 1998; Cuevas y van Leersum 2001; Greimler et al. 2002; Dirnböck et al. 2003; Danton 2004; Cuevas et al. 2004).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente

@@ -2,32 +2,50 @@
 
 ## Descripción
 
-Cacto de crecimiento muy variable, de esférico a cilíndrico, solitario o algo ramificado desde la base, de tallo gris verdoso oscuro, a menudo con serosidad blanquecina (Hoffmann y Walter 2004). La raíz es napiforme y por lo general grande. En juveniles las costillas casi no se notan y solo se distinguen las mamilas; los adultos tienen 12–17 costillas romas y engrosadas a la altura de las areolas. Las espinas, negras a marrón oscuro y grises con la edad, por lo común dobladas hacia arriba, aciculares o aleznadas, miden 1,5–3 cm, y las centrales son algo más largas y gruesas que las marginales. Las flores, inodoras, tienen los segmentos interiores del perianto amarillentos y los exteriores rojizos, y el pericarpelo y el tubo, verdosos, con escamitas angostas, motitas de lana blanca y algunas cerdas. El fruto es rojo al madurar, con motitas de lana y algunas cerdas, y las semillas son negras y rugosas.
+Especie muy variable. El tallo puede ser solitario o algo ramificado desde la base, con epidermis gris verdosa oscura, a menudo cubierta de cera blanquecina. La raíz es napiforme, generalmente grande, con el cuello insinuado. Las costillas apenas se notan en los ejemplares jóvenes, donde solo se ven las mamilas, y se distinguen mejor en las plantas maduras: son 12–17, romas y engrosadas a la altura de las areolas, que se ubican sobre las mamilas, son ovaladas y están cubiertas de fieltro blanquecino o grisáceo. Las espinas son oscuras, negras o marrones, y plomizas con la edad; suelen doblarse hacia arriba, son aciculares o aleznadas, de 15–30 mm, y las centrales son algo más fuertes, largas y gruesas que las marginales.
 
-La var. *setosiflora* se distingue de la var. *heinrichiana* sobre todo por su menor tamaño (hasta 4 cm de diámetro), su color rojizo marrón y su frecuente ramificación en pequeños cojinetes, además de espinas amarillas y aciculares (Hoffmann y Walter 2004). El género tiene representantes en Chile, Argentina y Perú (Hunt et al. 2006); *E. heinrichiana* pertenece al subgénero *Horridocactus*.
+Las flores, sin olor, tienen los segmentos interiores del perianto amarillentos y los exteriores rojizos; el pericarpelo y el tubo floral son verdosos, con escamitas angostas, motas de lana blanca y algunas cerdas; los estambres son amarillentos; el estilo, pálido con la base roja, y el estigma, de amarillo a rojizo, tiene 8–10 ramificaciones. El fruto inmaduro es negro verdoso y rojo al madurar, y como la flor está cubierto de motas de lana y algunas cerdas. Las semillas son negras y de superficie rugosa (Hoffmann y Walter 2004).
 
-> Fuente: Ficha de clasificación de especies, 6.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
+
+## Biología
+
+Se reproduce solo por semillas, que salen del fruto por un poro basal formado cuando este se desprende de la areola, por lo que suelen quedar cerca de la planta madre.
+
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Hábitat
 
-En el norte de su distribución se interna por los valles, entre 10 y 1.000 m; en el sur crece solo en sectores cercanos a la costa. Se la observa por lo común en laderas de cerros, sobre suelos compactados. Según Luebert y Pliscoff (2006), vive en el bioclima Mediterráneo Desértico-oceánico, en matorrales desérticos costeros de *Bahia ambrosioides* y *Puya chilensis* y de *Oxalis gigantea* y *Heliotropium stenophyllum*, y en matorrales desérticos interiores de *Adesmia argentea* y *Bulnesia chilensis*, de *Flourensia thurifera* y *Colliguaja odorifera* y de *Heliotropium stenophyllum* y *Flourensia thurifera*. El área de ocupación se estima en 493 km².
+Crece en terrazas costeras arenosas, laderas y requeríos de exposición norte u oeste. El área de ocupación en Chile es de 1.764 km².
 
-> Fuente: Ficha de clasificación de especies, 6.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Distribución
 
-Va de Carrizalillo (29°06' S, 71°28' O) a la quebrada Las Palmas (31°16' S, 71°38' O), y es muy abundante en el valle de Elqui (29°10' S, 71°18' O). Es endémica de Atacama y Coquimbo. La extensión de presencia, con polígono mínimo y sin la superficie marina, es de 12.073 km².
+Desde el sur de la Región de Atacama hasta el sur de la de Coquimbo.
 
-> Fuente: Ficha de clasificación de especies, 6.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
+
+## Interacciones con otras especies
+
+Larvas de Buprestidae la parasitan y consumen sus tallos (L. Faúndez, obs. pers.).
+
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Población
 
-En el valle de Elqui es muy abundante y forma subpoblaciones de miles de individuos; hacia el sur la densidad baja (H. Walter, com. pers.). Allí las subpoblaciones tendrían buena regeneración y vitalidad (H. Walter), con muchos adultos que florecen y producen semillas (Guerrero, datos no publicados). Squeo et al. (2001), con un índice de estructura poblacional, determinaron regeneración activa, pues están presentes todas las clases de edad, y con un índice de reducción poblacional, una baja probabilidad de reducción.
+Es frecuente, sobre todo en el sector costero de influencia de las neblinas, en grupos discretos y puntuales con muchos individuos de distintos tamaños y abundante regeneración.
 
-> Fuente: Ficha de clasificación de especies, 6.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Amenazas
 
-Las principales son el reemplazo de zonas silvestres por terrenos de cultivo y, a largo plazo, la desertificación, que podría disminuir su regeneración. Según el costo de conservación o grado de amenaza (Squeo et al. 2003), el área de ocupación se reparte en 20 km² nulo, 267 km² bajo, 59 km² moderado y 147 km² alto; el 58 % tiene costos nulos o bajos.
+Pérdida y degradación del hábitat por causa humana.
 
-> Fuente: Ficha de clasificación de especies, 6.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
+
+## Usos
+
+Coleccionismo.
+
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
