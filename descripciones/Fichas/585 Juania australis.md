@@ -2,38 +2,48 @@
 
 ## Descripción
 
-### Historia
+Género monotípico endémico de la isla Robinson Crusoe (Johow 1896; Marticorena et al. 1998). Es un árbol dioico de hasta 15 m, con tronco erecto de corteza verde cubierta de cicatrices foliares. Las hojas, perennes, se agrupan hacia el extremo del tronco, con raquis leñoso y vaina verde. La inflorescencia es un racimo péndulo envuelto por 2 espatas verdes, fibrosas y persistentes, con flores unisexuales sésiles. El fruto es una drupa globosa, monosperma, rojo anaranjada al madurar (Johow 1896; Rodríguez et al. 1983). Moore (1969) hizo una extensa revisión de la especie, Tomlinson (1969) estudió la anatomía de sus órganos vegetativos y Uhl (1969), la anatomía floral. Es sensible a la competencia y a la desecación del suelo (Danton 2004). CONAF inició en 1974 un programa de cultivo en la administración del parque nacional (Stuessy et al. 1983; Zizka 1991).
 
-Karl Martius la describió en 1849 como *Ceroxylon australe*, con muestras colectadas por Carlo Bertero en abril de 1830; luego pasó a *Juania*, género monotípico y endémico de Robinson Crusoe (Johow 1896, Sanín y Galeano 2011).
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
-Es una palma dioica de 8–16 m, de estípite de 25–30 cm, verde claro y con marcadas cicatrices de hojas caídas. Las hojas, pinnadas, de hasta 3,5 m × 90 cm, tienen pecíolo grueso y pinnas alargadas y agudas de 40–70 × 2–3,5 cm; las vainas están cubiertas de tomento café. La inflorescencia es un racimo péndulo de cerca de 1 m protegido por 3 espatas verdes, coriáceas, flexibles y lanceoladas, escamosas por el envés (la inferior, algo más corta, de 60 × 6 cm). Las flores masculinas, verdosas y simétricas, tienen cáliz de lóbulos unidos, pétalos ovalados de 5 mm, 6 estambres de filamentos muy cortos y anteras basifijas de 5 mm, con un rudimento de carpelo. Las femeninas, blanquecinas, tienen lóbulos del cáliz triangulares, pétalos oval-triangulares, 3 estigmas cortos, ovario trilocular y 6 estaminodios espatuliformes. El fruto es una drupa esférica de 1,5–2 cm, anaranjada al madurar (Johow 1896, Penneckamp 2018). Florece de noviembre a febrero y fructifica de marzo a septiembre; los frutos se dispersan por gravedad. La germinación empieza a los 124 ± 24 días de la siembra y llega a 50 % a los 554 ± 104 días, a 15–20 °C (Cuevas y Figueroa 2007); ensayos posteriores alcanzan 80 % a los 5–6 meses (Sáez et al., datos no publicados).
+## Biología
 
-### Etimología
+Presenta micorrizas con una frecuencia de 94 % y una intensidad de 19 % (Álvarez 1995). Elorza (1984) inició los ensayos de germinación: empieza a los 95 días de la siembra, siempre que se escarifique mecánicamente la semilla, y con ese tratamiento se mantiene casi constante hasta el día 165, cuando alcanza 80 % (Ricci 1998), igual que en laboratorio (Cuevas y Figueroa 2006). Los botánicos del Comité de Clasificación de Especies, que han viajado al archipiélago, estimaron de forma conservadora que el tiempo generacional (edad promedio de los individuos vivos que pueden reproducirse) llega al menos a 100 años.
 
-*Juania* alude al archipiélago de Juan Fernández (Muñoz-Schick et al. 2018); *australis*, a la latitud: es una de las palmas más australes (Penneckamp 2018).
-
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Hábitat
 
-Vive en la mirtisilva de altitud de Robinson Crusoe, por lo general sobre 500 m, donde dominan *Nothomyrcia fernandeziana* y *Drimys confertifolia*, un bosque húmedo por la nubosidad constante, de gran pendiente y suelos poco profundos que impiden un estrato arbóreo más alto (Danton 2006, Vargas et al. 2011, Penneckamp 2018). Antes llegaba a áreas más bajas, pero hoy está recluida a las cumbres, en parches o con ejemplares aislados dentro de la mirtisilva (Johow 1896, Skottsberg 1953, Penneckamp 2018). Según los guardaparques de CONAF, el área de ocupación no supera 5 km².
+Crece en toda la región boscosa de la isla, del fondo de las quebradas a las cumbres más altas, entre 200 y 900 m s. n. m. (Johow 1896; Skottsberg 1953; Rodríguez et al. 1983; Moore 1969). El área de ocupación posible es menor a 20 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Distribución
 
-Es endémica de Robinson Crusoe (Johow 1896, Penneckamp 2018, Rodríguez et al. 2018) y va de 200 a 915 m (Rodríguez et al. 2018), de Puerto Francés al cerro Chumacera, de la plazoleta El Yunque a Villagra y de Puerto Inglés a las quebradas Vaquería y Juanango, sobre todo en cumbres o en el interior del bosque de altura (Johow 1896, Skottsberg 1921, 1952; Penneckamp 2018). La extensión de presencia es menor a 20 km².
+Se distribuye del sector de Puerto Francés al cerro Chumacera y del sector de Puerto Inglés a la quebrada Vaquería y la quebrada Juanango (Johow 1896; Skottsberg 1922, 1952; Ricci 1990; Danton 2004). La extensión de la presencia aproximada es menor a 20 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Población
 
-Los registros históricos la muestran abundante incluso cerca de la costa, según crónicas y dibujos de comienzos del siglo XVII (Johow 1896). Pudo ser típica de la mirtisilva baja, entre 50 y 500 m, de la que desapareció por la explotación; hoy quedan algunos remanentes en fondos de quebrada (Penneckamp 2018). Sus principales poblaciones están en las partes altas (Penneckamp 2018, Prebble y Dowe 2008, Stuessy 2020). Ricci (2006) calcula entre 1.000 y 2.000 individuos dispersos en 19 sitios, con 10–40 árboles/ha (Cuevas 2006, Penneckamp 2018). Según Vargas (2004), se regenera en claros del dosel y es relativamente intolerante a la sombra, aunque se vieron juveniles suprimidos bajo el dosel. Perdió área y número desde la llegada del ser humano, por la tala de sus brotes comestibles y su madera (Johow 1896, Sanders et al. 1982, Stuessy 2020). Prebble y Dowe (2008) compararon el polen en dos estratos del suelo: el de hace 1.500–1.200 años tenía mucho polen de la palma (hasta 10 millones de granos/cm³) y el posterior a 1574 d. C., partículas de carbón y poco polen, lo que sugiere poblaciones mucho mayores en el pasado, una rápida tala del palmar y más incendios tras la llegada humana. Vargas et al. (2010) no hallaron regeneración en los tres sitios del bosque mejor conservado que estudiaron, de modo que se estima una declinación; además, el bosque fue muy invadido por *Aristotelia chilensis*, *Rubus ulmifolius*, *Ugni molinae* y *Acaena argentea*, y Alarcón et al. (2019) señalan parches de *U. molinae* con cobertura superior a 75 % en el bosque montano.
+Johow (1896) la describe como muy abundante, y crónicas y dibujos de comienzos del siglo XVII también la muestran así. Stuessy et al. (1983) y Moore (1977) mencionan más de 1.000 individuos de todas las edades, y Ricci (1989, 1990, 2005) estima una población y estructura similares (entre 1.000 y 2.000 individuos), reunidos en pequeños grupos o manchones (Rodríguez et al. 1983).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+No hay antecedentes de tendencia. El Comité estimó a grandes rasgos una disminución poblacional superior a 50 %, a partir de comparar las crónicas del siglo XVII con los censos recientes.
+
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Amenazas
 
-Johow (1896) mencionó que en 1891–1892 sus poblaciones se habían reducido por la explotación de brotes comestibles y de madera para bastones, con 100–150 adultos. Vargas (2004) atribuye su ausencia en la plazoleta del Yunque a cortas selectivas del pasado, que la extinguieron allí antes de 1908 (Skottsberg 1953). Hoy su corta está prohibida. A mediados del siglo XIX, incendios descontrolados destruyeron valles completos (Bannister et al. 2006, Saunders et al. 2010, Stuessy 2020). Hoy la afectan la herbivoría y el consumo de frutos y semillas por ganado y mamíferos exóticos (Bannister et al. 2006); según Cuevas (2002), la baja regeneración de los bosques intervenidos se debe a la depredación de semillas por gorgojos (Curculionidae) y roedores (*Rattus norvegicus* y *R. rattus*) y a la herbivoría de *Oryctolagus cuniculus*. Sus claros de regeneración los invaden rápido *Aristotelia chilensis*, *Rubus ulmifolius* y *Ugni molinae*, que se propagan por vía vegetativa o con semillas que dispersa *Turdus falcklandii* (Dirnböck et al. 2003, Smith-Ramírez et al. 2013).
+Está amenazada en la isla por:
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+- Pérdida y degradación del hábitat por plantas invasoras, como la zarzamora (*Rubus ulmifolius*), el maqui (*Aristotelia chilensis*) y la murtilla (*Ugni molinae*) (Skottsberg 1963; Sanders et al. 1982; Stuessy et al. 1984; Ricci 1989, 1990; Matthei et al. 1993; Swenson et al. 1997; Stuessy et al. 1998; Greimler et al. 2002; Dirnböck et al. 2003).
+- Pérdida y degradación del hábitat por erosión y deslizamientos de terreno (IREN-CORFO 1982).
+- Pérdida y degradación del hábitat por cabras (*Capra hircus*) y ratas (*Rattus rattus*) (Stuessy et al. 1998; Cuevas y van Leersum 2001).
+
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
+
+## Usos
+
+Su madera se ha usado para fabricar bastones y artesanía (Johow 1896; Rodríguez et al. 1983; Danton 2004) y también como alimento (Johow 1896).
+
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente

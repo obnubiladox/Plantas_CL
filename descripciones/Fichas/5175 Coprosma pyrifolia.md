@@ -2,42 +2,38 @@
 
 ## Descripción
 
-### Historia
+Especie endémica de las islas Robinson Crusoe y Alejandro Selkirk (Marticorena et al. 1998). Es un árbol dioico, frondoso, de hasta 12 m de altura, con copa redondeada y ramas gruesas y tortuosas. Las hojas son ovadas, membranosas y con domacios. Las flores, solitarias y pedunculadas, son café verdosas, y el fruto es una drupa axilar negruzca (Rodríguez et al. 1983). Marticorena (1982) reunió la bibliografía disponible hasta esa fecha.
 
-William Hooker y George Arnott (1833) la describieron como *Psychotria pyrifolia*, con material colectado en 1830 por Carlo Bertero en las "elevadas montañas de Juan Fernández"; Carl Skottsberg (1921) la transfirió a *Coprosma*.
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente
 
-Es un árbol de hasta 12 m, de tronco de hasta 70 cm y corteza adulta gruesa, suberosa y profundamente rugosa. Las hojas, ovales a oval-lanceoladas, de 4,8–10 × 1,7–3,8 cm, pecioladas, de borde entero, onduladas y brillantes y ápice acuminado, tienen domacios en el envés, donde se cruzan los nervios principales. Es dioica, de flores solitarias, pedunculadas y verdosas: las masculinas miden 1,7 cm, con 5 pétalos reflejos soldados en la base, y las femeninas, 2,4 cm. El fruto es una drupa piriforme, negruzca al madurar, de 1–1,2 × 0,9–1 cm, con 2 semillas (Penneckamp 2018). Florece entre octubre y enero y fructifica entre noviembre y marzo.
+## Biología
 
-### Propagación
+Sus micorrizas tienen una frecuencia de 98,6 % y una intensidad de 42,7 % (Álvarez 1995). La germinación comenzó 65 días después de la siembra y llegó a 26 % tras 98 días (Ricci 1998); en laboratorio, Cuevas y Figueroa (2006) lograron 8 % en 115 días.
 
-La germinación fue de 26 % tras 4–6 semanas de sembrada, y las estacas enraizaron 50 % a las 3 semanas de aplicar enraizante (Sáez et al., datos no publicados).
-
-### Etimología
-
-*Coprosma* viene del griego *kopros* (estiércol) y *osme* (olor), por el fuerte olor de la planta (Muñoz-Schick et al. 2012); *pyrifolia* viene del latín y significa "con hojas de peral" (Penneckamp 2018).
-
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente
 
 ## Hábitat
 
-Vive sobre todo en la mirtisilva de baja montaña. En Robinson Crusoe esta formación va de 200 a 500 m, con *Nothomyrcia fernandeziana*, *Drimys confertifolia*, *Fagara mayu* y *Rhaphithamnus venustus*; en Alejandro Selkirk crece en la mirtisilva de alta montaña, entre 500 y 1.200 m, de forma aislada junto a *Lophosoria quadripinnata* y *Dicksonia externa* (Danton 2006, Penneckamp 2018). La mirtisilva baja es un bosque relativamente más seco que la alta, porque recibe menos neblina, y está cerca del mar, en valles y fondos de quebrada. Originalmente tenía suelos más profundos y ricos en materia orgánica, pero por ser la más explotada solo quedan remanentes, con graves daños de erosión tras la deforestación. El área de ocupación se estima menor a 34 km².
+En la isla Robinson Crusoe se encuentra tanto en el interior de bosques de quebradas húmedas como en zonas intervenidas y más secas, por lo general en bosques de montaña baja (Johow 1896; Skottsberg 1917, 1952; Rodríguez et al. 1983; Danton 2004). En la isla Alejandro Selkirk es común en el interior de las quebradas y en la parte alta de los cerros (Johow 1896; Skottsberg 1917, 1952; Ricci 1992). El área de ocupación conjunta de ambas islas se estima menor a 30 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente
 
 ## Distribución
 
-Endémica de la mirtisilva de Juan Fernández, está en Robinson Crusoe y Alejandro Selkirk (Penneckamp 2018, Rodríguez et al. 2018). En Robinson Crusoe se registró de Puerto Francés al cerro Chumacera, en El Pangal, de Puerto Inglés a Juanango, de la plazoleta El Yunque a Villagra, en el cerro Alto y en Vaquería (Johow 1896, Skottsberg 1921, Ricci 1989). En Alejandro Selkirk está de la quebrada Las Casas a Rodríguez, de la quebrada La Lágrima a Los Inocentes y de El Tongo a Inocentes Alto (Skottsberg 1952, Ricci 1992). La extensión de presencia, sumando ambas islas, es menor a 50 km² (Sáez et al., datos no publicados).
+En la isla Robinson Crusoe, desde Puerto Francés hasta el cerro Chumacera, de Puerto Inglés a Juanango y en el cerro Alto (Johow 1896; Skottsberg 1922); en Vaquería hay un bosque casi puro de la especie (Ricci 1989). En la isla Alejandro Selkirk, desde la quebrada de las Casas hasta los Planos de Sánchez y desde la quebrada La Lágrima hasta Los Inocentes (Skottsberg 1952; Ricci 1992). La extensión de la presencia conjunta de ambas islas se estima menor a 50 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente
 
 ## Población
 
-Ricci (2006) estimó unos 1.000 individuos en ambas islas. Tiene baja densidad y forma pequeños grupos aislados de 3–5 ejemplares (Penneckamp 2018). Según los últimos censos de los guardaparques de CONAF, solo Vaquería, en Robinson Crusoe, tiene más de 30 individuos (Sáez et al.). Se estima una disminución por la nula o escasa regeneración natural, a causa de la pérdida de calidad del hábitat por invasión de *Aristotelia chilensis*, *Rubus ulmifolius* y *Ugni molinae*, la erosión y la depredación de plántulas, semillas y corteza por mamíferos exóticos (ratas, conejos, cabras y vacas) (Sanders et al. 1982, Dirnböck 2003, Vargas 2004, Vargas et al. 2010, Vanhulst 2011, Alarcón et al. 2019, Smith-Ramírez et al. 2017, Venegas y Elórtegui 2022). También la afecta el cambio climático.
+Se han observado menos de 2.000 individuos repartidos en toda su área de distribución, en ambas islas (Ricci 2006). Nunca es localmente abundante, salvo en Vaquería, con más de 30 árboles. Hay regeneración natural, pero las plántulas son comidas pronto por conejos o cabras (Ricci, datos no publicados; Honeyman et al. 2005).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+Para Johow (1896) y Skottsberg (1922, 1952) era una de las especies más abundantes; hoy solo es localmente abundante (Rodríguez et al. 1983; Ricci 1990; Danton 2004) y regenera poco (Honeyman et al. 2005), por lo que está en declinación.
+
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente
 
 ## Amenazas
 
-Gran parte del bosque de Robinson Crusoe se taló para usar la madera en reparar embarcaciones, del siglo XVII a la década de 1960; en el siglo XVIII los incendios también lo afectaron, y ambos factores redujeron mucho la cobertura de la mirtisilva (Vargas et al. 2006). Hoy los daños más evidentes son la erosión del suelo y la presión del ganado doméstico (vacas y cabras) y la fauna exótica (ratas y conejos), que depredan plántulas, frutos y semillas (Sanders et al. 1982, Venegas y Elórtegui 2022). Según Vargas et al. (2011), casi todas las exóticas de la mirtisilva son peligrosamente invasoras y pueden afectar a las nativas por competencia o supresión directa; el bosque remanente está gravemente amenazado y su regeneración la limitan invasoras como *Aristotelia chilensis*, *Rubus ulmifolius* y *Ugni molinae* (Sanders et al. 1982, Dirnböck et al. 2003, Alarcón et al. 2019, Smith-Ramírez et al. 2017).
+La principal amenaza es el avance de la zarzamora (*Rubus ulmifolius*), el maqui (*Aristotelia chilensis*) y la murtilla (*Ugni molinae*), especies plaga de las islas en clara expansión (Skottsberg 1952, 1953; Sanders et al. 1982; Stuessy et al. 1984; Matthei et al. 1983; Ricci 1989; Swenson et al. 1997; Stuessy et al. 1998; Greimler et al. 2002; Dirnböck et al. 2003; Danton 2004; Cuevas et al. 2004; Honeyman et al. 2005). También la herbivoría de conejos (*Oryctolagus cuniculus*), que dañan la corteza y ramonean las plántulas recién germinadas, y de ratas (*Rattus rattus*), que comen los frutos (Acevedo 1990; Sanders et al. 1982; Stuessy et al. 1984; Ricci, obs.; Cuevas y van Leersum 2001; Honeyman et al. 2005). En la isla Alejandro Selkirk, además, la gran cantidad de cabras amenaza seriamente el hábitat y la regeneración (Sanders et al. 1982; IREN-CORFO 1982; Ricci 1992; Stuessy et al. 1998; Cuevas y van Leersum 2001; Greimler et al. 2002).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, 5.º proceso RCE, Ministerio del Medio Ambiente

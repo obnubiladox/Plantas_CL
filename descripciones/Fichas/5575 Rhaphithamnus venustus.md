@@ -2,34 +2,38 @@
 
 ## Descripción
 
-### Historia
+Especie endémica de las islas Robinson Crusoe y Alejandro Selkirk (Marticorena et al. 1998). Árbol ramificado de hasta 10 m, de copa redondeada, con tronco de hasta 40 cm de diámetro y corteza grisácea y áspera. Las ramitas llevan espinas delgadas y puntiagudas, y las hojas son verticiladas y coriáceas. Es ginodioica; la corola, tubular y más o menos bilabiada, con los pétalos unidos, va de azul oscuro a púrpura y produce néctar, y el cáliz es verde. El fruto es una drupa subglobosa azul violácea con 2 nueces (Rodríguez et al. 1983). La bibliografía sobre la especie está reunida en Marticorena (1992).
 
-Rodulfo Philippi la describió en 1856 como *Citharexylum venustum*, con muestras colectadas por Philiberto Germain en octubre de 1854 (Novoa 2015); en 1916, Benjamin Robinson la transfirió a *Rhaphithamnus*.
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
-Es un árbol de hasta 12 m (por lo común 6–8), de tronco de 25–40 cm y corteza grisácea y fisurada. Las hojas, lanceolado-cordadas y coriáceas, de 4,5–6 × 2,5–3 cm, tienen borde entero y ápice mucronado; solo algunos vástagos llevan espinas vestigiales. Es ginodioica (flores femeninas y hermafroditas). Las flores, tubulares y de 3 cm, tienen corola violeta de 5 pétalos fusionados y abiertos en el ápice y 5 sépalos verdes. El fruto es una baya globosa, violácea al madurar, con pocas semillas marrón claro (Penneckamp 2018). Florece de octubre a febrero y fructifica de enero a mayo. Los picaflores polinizan sus flores (López-Sepúlveda et al. 2017) y es muy importante para los picaflores del archipiélago por su larga floración; aves como *Turdus falcklandii* y *Anairetes fernandezianus* dispersan sus frutos (Smith-Ramírez et al. 2013). Sus semillas germinan 75 %, y los esquejes con enraizante, en arena y con riego ocasional, enraízan 100 % (Sáez et al., datos no publicados). *Rhaphithamnus* viene del griego *rhaphis* (aguja) y *thamnion* (arbusto), por las espinas del tallo (Muñoz-Schick et al. 2012); *venustus* significa "bonito" (Penneckamp 2018).
+## Biología
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+La polinizan picaflores (Skottsberg 1928; Sun et al. 1996) y es xenógama obligada (Anderson et al. 2001). Su número cromosómico es 2n = 36 y aparentemente es tetraploide (Sanders et al. 1983); hay cierta diversidad genética entre poblaciones (Crawford et al. 2001). Se ha discutido que deriva de *R. spinosus* del continente, de la que no presenta alelos distintos (Crawford et al. 1993). Presenta micorrizas con una frecuencia de 100 % y una intensidad de 37 % (Álvarez 1995). La corteza está cubierta de líquenes foliosos (en las zonas boscosas) y helechos epífitos (Johow 1896), y las hojas suelen ser atacadas por hongos del género *Limacinia* (Skottsberg 1952). En ensayos de propagación en invernadero se logró 79 % de germinación a los 134 días de la siembra, tras retirar la pulpa con lija de madera y escarificar con ácido sulfúrico al 15 % por 15 minutos (Ricci 1998).
+
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Hábitat
 
-Vive en la mirtisilva de baja montaña de Robinson Crusoe y en la de baja y alta montaña de Alejandro Selkirk, con ejemplares aislados dentro del bosque, sobre todo en laderas húmedas y en los bordes de la mirtisilva (Danton 2006, Penneckamp 2018). La mirtisilva baja de Robinson Crusoe va de 50 a 500 m y la dominan *Nothomyrcia fernandeziana*, *Drimys confertifolia* y *Fagara mayu*; la de Alejandro Selkirk, de 100 a 700 m, con *Myrceugenia schulzei* dominante y, en menor medida, *Fagara externa*, *R. venustus* y *Coprosma pyrifolia*. La mirtisilva de altitud, sobre 500 m en laderas de gran pendiente, la forman *M. schulzei* y *D. confertifolia*, algo de *F. externa* y una participación marginal de esta especie (Danton 2006, Penneckamp 2018).
+Los individuos habitan bosques de montaña baja y alta, e incluso los matorrales de los cordones montañosos (Skottsberg 1917). En la isla Robinson Crusoe se encuentra de 250 m s. n. m. (Rabanal) a 550 m (Ricci 1990; Rodríguez et al. 1983; Skottsberg 1952), con un área de ocupación menor a 10 km². En la isla Alejandro Selkirk es mucho menos frecuente, en zonas boscosas de las quebradas, entre 450 y 550 m (Rodríguez et al. 1983; Ricci 1992), también con menos de 10 km². Entre ambas islas, el área de ocupación es menor a 20 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Distribución
 
-Es endémica de Robinson Crusoe y Alejandro Selkirk (López-Sepúlveda et al. 2017, Penneckamp 2018, Rodríguez et al. 2018). En Robinson Crusoe va de La Pascua al cerro Chumacera, de la plazoleta El Yunque a Villagra, del cordón del cerro Salsipuedes a la quebrada Juanango y en el cerro Alto (Skottsberg 1922, Ricci 1990): 25 km² (Sáez et al., datos no publicados). En Alejandro Selkirk está en los planos de Sánchez y las quebradas del Mono y del Blindado (Skottsberg 1922) y en todas las del lado occidental (Ricci 1992), con ejemplares aislados en las quebradas El Tongo, Las Chozas y de Sánchez: 30 km² (Sáez et al.).
+En la isla Robinson Crusoe se distribuye del cerro La Pascua (sector Puerto Francés) al cerro Chumacera, del cordón Salsipuedes a la quebrada Juanango, y también en el cerro Alto (Skottsberg 1922; Ricci 1990); la extensión de la presencia es de 25 km². En la isla Alejandro Selkirk está en los Planos de Sánchez, la quebrada del Mono y la quebrada del Blindado (Skottsberg 1922) y en todas las quebradas de la parte occidental (Ricci 1992); allí la extensión es de 30 km². Para ambas islas, la extensión de la presencia es de 55 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Población
 
-Johow (1896) la mencionó como uno de los árboles más comunes de Robinson Crusoe; hoy participa poco en el bosque y llega a 45 árboles/ha en su mirtisilva (Vargas et al. 2010, Penneckamp 2018). Ricci (2006) estima más de 2.000 individuos en ambas islas, la mayoría en Robinson Crusoe (López-Sepúlveda et al. 2017) y menos de 100 en Alejandro Selkirk (Ricci 1992). Según Stuessy (2020), no es un árbol abundante, y según los guardaparques muchos individuos están en muy mal estado fitosanitario y regeneran poco, pues sus semillas se reclutan mal por la herbivoría de mamíferos invasores y las plagas de insectos (Sáez et al.); esa escasa regeneración ocurre en claros del bosque (Vargas et al. 2010, Arellano-Cataldo y Smith-Ramírez 2016). No hay estudios directos de su disminución, pero Stuessy (2020) relaciona la caída del picaflor endémico de Juan Fernández (*Sephanoides fernandensis*) con la de plantas que producen néctar, como *R. venustus* y *Dendroseris litoralis*. Esos claros los invaden *Aristotelia chilensis*, *Rubus ulmifolius* y *Ugni molinae* (Vargas et al. 2010, Arellano-Cataldo y Smith-Ramírez 2016, Rojas-Badilla et al. 2017, Smith-Ramírez et al. 2017, Alarcón et al. 2019), que causan regresión y fragmentación del bosque (Smith-Ramírez et al. 2013); como los adultos están en mal estado, se infiere una disminución a corto plazo.
+Para Johow (1896) era uno de los árboles más comunes de Robinson Crusoe, como también indica Skottsberg (1922, 1952), y en Alejandro Selkirk, mucho más disperso. Hoy, aunque hay más de 1.500 individuos de todas las clases de tamaño en Robinson Crusoe, muchos están en muy mal estado fitosanitario (por ejemplo en el sector La Pascua; Ricci 1989) y regeneran poco. En Alejandro Selkirk se han observado muchos menos, no más de 100 (Ricci 1992).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+La población está en declinación según la comparación con Johow (1896) y Skottsberg (1952), con bosques totalmente degradados de árboles muy viejos y sin regeneración natural, como en el cerro La Pascua, cerca del sector de Puerto Francés (Ricci, obs.). No hay antecedentes bibliográficos de tendencias poblacionales cuantitativas.
+
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Amenazas
 
-En el pasado se taló gran parte del bosque donde vive, para obtener leña y madera de construcción (Cuevas y Vargas 2006, Venegas y Elórtegui 2022).
+La principal amenaza es el avance de la zarzamora (*Rubus ulmifolius*), el maqui (*Aristotelia chilensis*) y la murtilla (*Ugni molinae*), especies exóticas invasoras de las islas en clara expansión (Skottsberg 1953; IREN-CORFO 1982; Sanders et al. 1982; Stuessy et al. 1984; Perry 1984; Ricci 1989, 1990; Matthei et al. 1983; Swenson et al. 1997; Stuessy et al. 1998; Greimler et al. 2002; Dirnböck et al. 2003; Danton 2004; Cuevas et al. 2004; Honeyman et al. 2005). En la isla Alejandro Selkirk, además, la gran cantidad de cabras amenaza el hábitat (Skottsberg 1953; Sanders et al. 1982; Ricci 1992; Stuessy et al. 1984, 1998; Cuevas y van Leersum 2001). Los deslizamientos de terreno también lo afectan (IREN CORFO 1982).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente

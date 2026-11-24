@@ -2,34 +2,44 @@
 
 ## Descripción
 
-### Historia
+Especie endémica de la isla Robinson Crusoe (Marticorena et al. 1998). Árbol de hasta 25 m de altura, de copa redondeada y ramosa, con tronco recto de hasta 80 cm de diámetro. Las hojas son perennes, simples y coriáceas, de margen liso y pecíolo café rojizo. Las flores, hermafroditas, blancas y aromáticas, se disponen en una inflorescencia racimosa axilar. El fruto es una baya globosa roja, y las semillas, lisas y café oscuras (Johow 1896; Rodríguez et al. 1983). Es el árbol más común de la isla, incluso en áreas muy degradadas, pero muchos individuos sufren el ataque del hongo fumagina, de áfidos y de otros organismos (Johow 1896; Skottsberg 1952; Ricci 1989). Mantiene un extenso banco de plántulas en los bosques húmedos (Ricci, obs.).
 
-Hooker y Arnott la describieron en 1833 como *Myrtus fernandeziana*; después se la ubicó en *Eugenia*, *Luma*, *Nothomyrcia* y *Myrceugenia* (Kausel 1948, Landrum 1981, Murillo-Aldana y Ruiz 2011). Murillo-Aldana y Ruiz (2011) revalidaron *Nothomyrcia*, género monotípico y endémico de Juan Fernández, con base en análisis genéticos y morfológicos.
+Marticorena (1992) revisó ampliamente la bibliografía del género y Landrum (1981) hizo una monografía de *Myrceugenia* Berg, donde destaca que la especie tiene rasgos únicos y se relaciona más bien con especies brasileñas; en cambio, estudios de flavonoides de Ruiz et al. (1994) indicarían que proviene de especies de Chile continental, cercana a *M. lanceolata*.
 
-Es un árbol de 20–28 m, de tronco de hasta 1 m, por lo general recto y cilíndrico, aunque a veces deforme y con protuberancias en los ejemplares viejos, de corteza blanquecina o grisácea y copa redondeada y muy ramosa. Las hojas, simples y opuestas, de 3–10 × 1,5–3,2 cm, tienen el pecíolo levemente acanalado y la lámina cartácea (a veces coriácea), de ovada a lanceolada, de ápice agudo a acuminado, base de cordada a redondeada y margen entero, con venación broquidódroma y nervio medio elevado por el haz. Los brotes nuevos son rojizos y pubescentes, con hojas delgadas, rojizas, traslúcidas y punteadas. Las inflorescencias, axilares, reúnen 4–12 flores en racimos cortos; las flores, hermafroditas, tienen 4 sépalos, 4 pétalos blancos y numerosos estambres de filamentos largos. El fruto es una baya esférica de 8 × 8 mm, rojiza al madurar y coronada por el cáliz, con 2–3 semillas aromáticas de embrión myrcioide (Johow 1896, Vargas et al. 2006, Murillo-Aldana y Ruiz 2011, Penneckamp 2018). Florece de agosto a noviembre y fructifica de enero a mayo; la poliniza sobre todo el viento (Skottsberg 1928) y sus frutos los dispersan las aves y la gravedad. En ensayos, los cotiledones emergen a los 31 días y llegan a 98 % el día 77 (Ricci 1998), con alta germinación en el sotobosque de la mirtisilva (Vargas et al. 2006). *Nothomyrcia* viene del griego *nothos* (falso) y *Myrcia*, otro género de Myrtaceae (Penneckamp 2018).
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+## Biología
+
+Presenta variabilidad genética entre poblaciones (Gst = 0,232), con un promedio de diversidad menor dentro de la especie (Hep = 0,056) (Ruiz et al. 2001). La polinización es sobre todo por viento (Skottsberg 1928). Sus micorrizas tienen una frecuencia de 97 % y una intensidad de 35 % (Álvarez 1995). En ensayos de propagación en invernadero, como el embrión viene pregerminado, los cotiledones emergen a los 31 días y llegan a 98 % el día 77 (Ricci 1998), algo más que lo reportado por Elorza (1984). También regenera con facilidad a partir de troncos caídos o cortados (Rodríguez et al. 1983).
+
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Hábitat
 
-Vive en la mirtisilva baja y alta de Robinson Crusoe. En la baja, entre 100 y 500 m, es el árbol dominante y puede alcanzar 90 % de la cobertura arbórea, con *Fagara mayu*, *Drimys confertifolia*, *Rhaphithamnus venustus*, *Juania australis*, *Boehmeria excelsa*, *Coprosma pyrifolia* y *C. oliveri* (Vargas 2004, Penneckamp 2018). En la alta, entre 500 y 915 m, ocupa sobre todo las zonas bajas del bosque y desaparece hacia las cumbres, donde la reemplaza *D. confertifolia*, con *Azara serrata* var. *fernandeziana*, *Gunnera bracteata* y *G. peltata*; allí se desarrolla sobre suelos húmicos, concentrada en el interior de las quebradas (Vargas et al. 2006). En las zonas bajas muy degradadas (150–250 m) forma bosquetes aislados, vestigios del bosque original. Es tolerante a la sombra, aunque necesita algo de luz para establecerse (Vargas et al. 2006). El área de ocupación es menor a 20 km².
+Crece desde bosques de baja altitud, donde tolera la sequía, y bordes de bosque en los riscos, hasta bosques de gran altitud, donde vive en una atmósfera muy húmeda sobre suelos húmicos (Danton et al. 1999; Danton 2004; Johow 1896; Skottsberg 1952; Ricci 1990; Rodríguez et al. 1983). El área de ocupación máxima estimada es menor a 35 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Distribución
 
-Es endémica de Robinson Crusoe (Johow 1896, Penneckamp 2018, Rodríguez et al. 2018). Va de Puerto Francés al cerro Chumacera, de la plazoleta El Yunque a Villagra y de la quebrada Salsipuedes a la Juanango, entre 100 y 915 m (Johow 1896, Skottsberg 1952, Ricci 1989, 1990). La extensión de presencia es menor a 35 km² (Sáez et al., datos no publicados).
+Se distribuye del sector de Puerto Francés al cerro Chumacera y de la quebrada Salsipuedes a la quebrada Juanango, entre 200 y 700 m s. n. m. (Johow 1896; Skottsberg 1952; Ricci 1989, 1990). La extensión de la presencia aproximada es menor a 35 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Población
 
-Es la especie dominante de la mirtisilva, con 800–1.155 árboles/ha (Vargas et al. 2010, Penneckamp 2018); se halla desde cerca del nivel del mar (~80 m) hasta las zonas altas. Regenera de forma constante, pero la afectan los herbívoros exóticos (conejos, ratas, ganado), y su población disminuye (Sáez et al.). Supera los 5.000 individuos de todos los tamaños (Ricci 2006). Hay evidencia de que la mirtisilva donde vive disminuye (Sáez et al.). Johow (1896) escribió que cerca de bahía Cumberland, donde abundaba en tiempos de lord Anson (1740), se la taló casi por completo, igual que en Puerto Inglés y Puerto Francés, y que es más susceptible que otros árboles a la "peste" que daña los bosques, por lo que es difícil hallar un ejemplar intacto. Hoy en las zonas bajas forma pequeños parches dispersos con nula regeneración (Vargas et al. 2010), y el bosque disminuye por la invasión de *Aristotelia chilensis*, *Ugni molinae* y *Rubus ulmifolius*, que reemplazan a *N. fernandeziana* y *D. confertifolia* (Sanders et al. 1982, Smith-Ramírez et al. 2017): de las 4.794 ha de la isla, 805,9 ha (16 %) están cubiertas por la asociación invasora de *R. ulmifolius* y *A. chilensis*, y el bosque nativo cubre solo 1.014,8 ha (21 %).
+Es la especie arbórea más abundante de la isla y forma poblaciones densas, dominantes tanto en bosques de montaña baja y alta como en zonas muy perturbadas (Skottsberg 1917). Hay más de 5.000 individuos de todas las clases de tamaño, con regeneración natural (Ricci 2006). Mantiene la distribución que mencionaron Johow (1896) y Skottsberg (1952).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Amenazas
 
-Por ser la más abundante, probablemente fue el árbol más afectado por la tala de madera para reparar embarcaciones desde el siglo XVII hasta la década de 1960; en el siglo XVIII los incendios también dañaron los bosques, y ambos factores redujeron mucho la cobertura original (Vargas et al. 2006). Hoy pesan la erosión, el ganado doméstico (vacas y cabras) y la fauna exótica (ratas y conejos), que limitan la regeneración del bosque y depredan individuos, frutos y semillas (Sanders et al. 1982, Vargas et al. 2006). Muchos individuos sufren el ataque del hongo fumagina, de áfidos y de otros organismos (Johow 1896, Skottsberg 1952, Ricci 1989).
+Pese a su abundancia actual, está amenazada por la invasión de la zarzamora (*Rubus ulmifolius*), el maqui (*Aristotelia chilensis*) y la murtilla (*Ugni molinae*), especies exóticas invasoras de las islas en clara expansión, que son su principal amenaza (Skottsberg 1953; IREN-CORFO 1982; Sanders et al. 1982; Perry 1984; Stuessy et al. 1984; Matthei et al. 1983; Ricci 1989; Swenson et al. 1997; Stuessy et al. 1998; Greimler et al. 2002; Dirnböck et al. 2003; Danton 2004; Cuevas et al. 2004; Honeyman et al. 2005). También la herbivoría de conejos (*Oryctolagus cuniculus*), que dañan la corteza y las plantas recién germinadas (Sanders et al. 1982; Stuessy et al. 1984; Acevedo 1990), y de ratas (*Rattus rattus*), que comen los frutos (Ricci, obs.; Cuevas y van Leersum 2001). La pérdida de suelo por degradación es otra amenaza importante (IREN-CORFO 1982).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
+
+## Usos
+
+Su madera, muy dura y resistente, se ha empleado para construir embarcaciones, postes, vigas y mangos de herramientas agrícolas (Johow 1896).
+
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente

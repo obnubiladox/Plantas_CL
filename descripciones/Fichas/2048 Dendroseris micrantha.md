@@ -2,42 +2,38 @@
 
 ## Descripción
 
-### Historia
+Pertenece al género endémico *Dendroseris* y es endémica exclusiva de la isla Robinson Crusoe. Es una compuesta de porte arbóreo de hasta 3 m, con tronco de hasta 20 cm de diámetro, ramificado por lo general entre 0,5 y 1 m sobre el suelo. La ramificación comienza al dividirse el tallo en 2 o 3 tras producir una inflorescencia terminal; tronco y ramas llevan cicatrices foliares. Las hojas, cartáceas, oblongo-lanceoladas, pecioladas y enteras, se disponen en ramillete en los extremos de las ramas. Las inflorescencias son panojas compuestas terminales, de flores con corola blanca y vilano leonado; los aquenios son negros (Johow 1896).
 
-Joseph Decaisne la describió como *Rea micrantha*, con el nombre propuesto y el material colectado por Carlo Bertero en 1830 (Johow 1896, Novoa 2015); en 1835 Hooker y Arnott la pasaron a *Dendroseris* (Johow 1896). Estudios genéticos llevaron a algunos autores a proponer que *Dendroseris* es un subgénero de *Sonchus* (Mejías y Kim 2012); otros sostienen que las diferencias morfológicas bastan para mantenerlos como géneros distintos (Stuessy et al. 2018, Stuessy 2020).
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
-Es un arbusto o arbolito de hasta 5 m, de corteza corchosa y fisurada y tronco de 20–30 cm. Las ramas, tortuosas, se bifurcan o trifurcan después de florecer y las nuevas llevan cicatrices de hojas. Las hojas, enteras, de borde levemente aserrado-denticulado, de oblongo-lanceoladas a trasovadas, miden 17–65 × 3–12 cm, son cortamente pecioladas de base semiamplexicaule y se agrupan hacia el extremo de las ramas. La inflorescencia, terminal, es una panoja grande de numerosos capítulos pequeños, con pedicelos de brácteas linear-lanceoladas auriculadas en la base. Las flores son hermafroditas, liguladas y blancas; los capítulos miden 1–2 cm de ancho y 1 cm de largo, con unas 25 flores, involucro de 5 mm y corola de 7 mm. El fruto es un aquenio marrón oscuro de 3 mm, aplanado y rugoso, con vilano blanco (Johow 1896, Penneckamp 2018). Con *D. gigantea*, es la especie del género que alcanza mayores dimensiones en condiciones naturales. Florece entre enero y marzo y fructifica entre marzo y abril.
+## Biología
 
-### Polinización y germinación
+Presenta variabilidad genética (Crawford et al. 1998; Esselman et al. 2000) y se han estudiado los mecanismos evolutivos del género (Crawford et al. 1992). La germinación empieza a los 15 días de la siembra y llega a 16 % el día 21 (Ricci 1998).
 
-Crawford et al. (1987) sugieren que es autoincompatible, lo que puede dañar su reproducción a baja densidad. Cuevas y Figueroa (2007) lograron 0 % de germinación, aunque mencionan que Ricci obtuvo 13 %.
-
-### Etimología
-
-*Dendroseris* viene del griego *dendron* (árbol) y *seris* (lechuga): un árbol de hábito parecido al de las lechugas (Muñoz-Schick et al. 2018). El epíteto, del griego, significa "flor pequeña" (Penneckamp 2018).
-
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Hábitat
 
-Crece en la zona de bosque, entre 400 y 600 m, hacia las partes altas de los valles y en sitios rocosos de los bordes de la mirtisilva; no se ha visto en fondos de quebrada (CONAF 2010, Penneckamp 2018). El área de ocupación se estima menor a 5 km² (CONAF 2010).
+Vive en toda la zona de bosques de la isla, sobre todo en la parte alta de los valles y en cumbres rocosas, entre 400 y 600 m s. n. m.; nunca se ha observado en el fondo de las quebradas (Johow 1896; Skottsberg 1922). El área de ocupación es menor a 5 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Distribución
 
-Es endémica de Robinson Crusoe (Johow 1896, Penneckamp 2018, Rodríguez et al. 2018). Va de Puerto Francés al cerro Chumacera, de la quebrada Salsipuedes a la Juanango, de la plazoleta El Yunque a Villagra y en el cerro Alto (Johow 1896, Skottsberg 1921, Ricci 1990). La extensión de presencia es menor a 5 km² (CONAF 2010).
+Desde la quebrada Puerto Francés hasta el cerro Agudo, de la quebrada Vaquería a la quebrada Juanango, y también en el cerro Alto (Johow 1896; Skottsberg 1952; Ricci 1990). La extensión de la presencia es menor a 5 km².
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Población
 
-Se estima en menos de 150 individuos maduros (CONAF 2023). Según Skottsberg (1921) era común en bosques y matorrales de altura, sobre todo en las partes altas de las laderas y en las crestas divisorias entre 400 y 600 m; hoy sus poblaciones están muy reducidas (CONAF 2010).
+Se han observado menos de 400 individuos de todas las clases de tamaño, con regeneración natural (Ricci 1990), y se estima que la población total es de menos de 250 individuos maduros (Ricci, com. pers.). Ha disminuido respecto de los datos de Skottsberg (1922).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
 
 ## Amenazas
 
-El bosque primario de Robinson Crusoe disminuyó cerca de un tercio (Dirnböck et al. 2003). Hoy los daños más evidentes son la erosión, la depredación del ganado doméstico (vacas y cabras) y de la fauna exótica (ratas y conejos) sobre la flora nativa, que afecta a adultos, plántulas, frutos y semillas (Sanders et al. 1982, Vanhulst 2011).
+- Pérdida y degradación del hábitat por la invasión de plantas exóticas: zarzamora (*Rubus ulmifolius*), maqui (*Aristotelia chilensis*), murtilla (*Ugni molinae*) y especies nuevas que se suman constantemente (Sanders et al. 1982; Matthei et al. 1993; Swenson et al. 1997; Greimler et al. 2002; Cuevas et al. 2004).
+- Pérdida y degradación del hábitat por erosión y deslizamientos de terreno.
+- Pérdida y degradación del hábitat por conejos (*Oryctolagus cuniculus*), cabras (*Capra hircus*) y ratas (*Rattus rattus*) (Cuevas y van Leersum 2001).
 
-> Fuente: Ficha de clasificación de especies, 20.º proceso RCE, Ministerio del Medio Ambiente
+> Fuente: Ficha de clasificación de especies, Ministerio del Medio Ambiente
