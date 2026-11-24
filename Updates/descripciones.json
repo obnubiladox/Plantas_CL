@@ -2,23 +2,31 @@
   "format": 1,
   "version": 20261124,
   "updated": "2026-11-24",
-  "contentSha256": "00d0c6a02b42178122519a5d0a325ffa2be8b84ee6448d7329b03453ba97a75a",
-  "rows": 673,
+  "contentSha256": "0f4d451af91bf527edc231af797e89cefdf0c0755674dc67895fefa81087fb81",
+  "rows": 674,
   "species": 5588,
   "notes": "",
   "full": {
     "url": "https://github.com/obnubiladox/Plantas_CL/releases/download/descripciones-20261124/completo.json.gz",
-    "sha256": "79ff312881fe38951634098d48d071062528f9c1193b1cdb24ca59b717d7becf",
-    "bytes": 693646
+    "sha256": "0f1d018c4d62ee61fc1328e066ebc760f809f47dfa292f50e8e37ffd46933944",
+    "bytes": 677103
   },
   "changes": [
+    {
+      "from": "00d0c6a02b42178122519a5d0a325ffa2be8b84ee6448d7329b03453ba97a75a",
+      "version": 20261124,
+      "url": "https://github.com/obnubiladox/Plantas_CL/releases/download/descripciones-20261124/cambios-00d0c6a02b42.json.gz",
+      "sha256": "abdaf2558e5fc93f6cadfd8dd0adf5c73f99e4a6d7d41b6f34ca086a7ec3663a",
+      "bytes": 25521,
+      "entries": 33
+    },
     {
       "from": "091e54f17aa6e014a017e9aea47d7ef73e321d486b265d8233b982a36e55a960",
       "version": 20261123,
       "url": "https://github.com/obnubiladox/Plantas_CL/releases/download/descripciones-20261124/cambios-091e54f17aa6.json.gz",
-      "sha256": "c8a0943207d4e3188818e4ccfc3437e3cfbdc9ce3f46ea8da0313856c3feb1b7",
-      "bytes": 609814,
-      "entries": 673
+      "sha256": "97ffd39a2c7186fca60dae20cbfd6f2b69f33424bebca0c4237431382c12d447",
+      "bytes": 593223,
+      "entries": 674
     }
   ]
 }

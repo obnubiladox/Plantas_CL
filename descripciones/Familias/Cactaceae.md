@@ -1,6 +1,6 @@
 # Cactaceae
 
-[← Índice](../INDICE.md) · 95 de 130 especies con descripción.
+[← Índice](../INDICE.md) · 96 de 130 especies con descripción.
 
 - ✅ [Austrocactus patagonicus](../Fichas/3164%20Austrocactus%20patagonicus.md) · 3164
 - ✅ [Austrocactus philippii](../Fichas/3165%20Austrocactus%20philippii.md) · 3165
@@ -127,7 +127,7 @@
 - ✅ [Maihueniopsis wagenknechtii](../Fichas/3285%20Maihueniopsis%20wagenknechtii.md) · 3285
 - ✅ [Miqueliopuntia miquelii](../Fichas/3286%20Miqueliopuntia%20miquelii.md) · 3286
 - ✅ [Neowerdermannia chilensis](../Fichas/3287%20Neowerdermannia%20chilensis.md) · 3287
-- ⬜ [Oreocereus hempelianus](../Fichas/3288%20Oreocereus%20hempelianus.md) · 3288
+- ✅ [Oreocereus hempelianus](../Fichas/3288%20Oreocereus%20hempelianus.md) · 3288
 - ✅ [Oreocereus leucotrichus](../Fichas/3289%20Oreocereus%20leucotrichus.md) · 3289
 - ✅ [Pterocactus australis](../Fichas/3290%20Pterocactus%20australis.md) · 3290
 - ✅ [Pterocactus hickenii](../Fichas/3291%20Pterocactus%20hickenii.md) · 3291

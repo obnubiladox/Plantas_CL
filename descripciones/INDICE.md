@@ -1,6 +1,6 @@
 # Índice de las descripciones
 
-**673 de 5.588 especies** tienen descripción (al 24 de noviembre de 2026).
+**674 de 5.588 especies** tienen descripción (al 24 de noviembre de 2026).
 
 Busca la especie en su familia y toca su nombre; después, el lápiz (✏️) para escribir o mejorar la descripción. También puedes buscarla por nombre o número con la tecla `t` en la página del repo. Antes de escribir, lee [cómo escribir una descripción](CONTRIBUTING.md).
 
@@ -42,7 +42,7 @@ Busca la especie en su familia y toca su nombre; después, el lápiz (✏️) pa
 | [Brassicaceae](Familias/Brassicaceae.md) | 11 | 193 |
 | [Bromeliaceae](Familias/Bromeliaceae.md) | 9 | 29 |
 | [Butomaceae](Familias/Butomaceae.md) | 0 | 1 |
-| [Cactaceae](Familias/Cactaceae.md) | 95 | 130 |
+| [Cactaceae](Familias/Cactaceae.md) | 96 | 130 |
 | [Calceolariaceae](Familias/Calceolariaceae.md) | 8 | 88 |
 | [Calyceraceae](Familias/Calyceraceae.md) | 0 | 27 |
 | [Campanulaceae](Familias/Campanulaceae.md) | 6 | 20 |
