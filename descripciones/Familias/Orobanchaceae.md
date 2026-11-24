@@ -1,6 +1,6 @@
 # Orobanchaceae
 
-[← Índice](../INDICE.md) · 0 de 33 especies con descripción.
+[← Índice](../INDICE.md) · 2 de 33 especies con descripción.
 
 - ⬜ [Agalinis linarioides](../Fichas/4711%20Agalinis%20linarioides.md) · 4711
 - ⬜ [Agalinis meyeniana](../Fichas/4712%20Agalinis%20meyeniana.md) · 4712
@@ -16,8 +16,8 @@
 - ⬜ [Euphrasia chrysantha](../Fichas/4721%20Euphrasia%20chrysantha.md) · 4721
 - ⬜ [Euphrasia cockayniana](../Fichas/4722%20Euphrasia%20cockayniana.md) · 4722
 - ⬜ [Euphrasia flavicans](../Fichas/4723%20Euphrasia%20flavicans.md) · 4723
-- ⬜ [Euphrasia formosissima subsp. cucharensis](../Fichas/5916%20Euphrasia%20formosissima%20subsp.%20cucharensis.md) · 5916
-- ⬜ [Euphrasia formosissima subsp. formosissima](../Fichas/4724%20Euphrasia%20formosissima%20subsp.%20formosissima.md) · 4724
+- ✅ [Euphrasia formosissima subsp. cucharensis](../Fichas/5916%20Euphrasia%20formosissima%20subsp.%20cucharensis.md) · 5916
+- ✅ [Euphrasia formosissima subsp. formosissima](../Fichas/4724%20Euphrasia%20formosissima%20subsp.%20formosissima.md) · 4724
 - ⬜ [Euphrasia intricata](../Fichas/4725%20Euphrasia%20intricata.md) · 4725
 - ⬜ [Euphrasia meiantha](../Fichas/4726%20Euphrasia%20meiantha.md) · 4726
 - ⬜ [Euphrasia muscosa](../Fichas/4727%20Euphrasia%20muscosa.md) · 4727

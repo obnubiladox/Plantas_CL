@@ -1,6 +1,6 @@
 # Montiaceae
 
-[← Índice](../INDICE.md) · 0 de 82 especies con descripción.
+[← Índice](../INDICE.md) · 2 de 82 especies con descripción.
 
 - ⬜ [Calandrinia acaulis](../Fichas/4550%20Calandrinia%20acaulis.md) · 4550
 - ⬜ [Calandrinia affinis](../Fichas/4551%20Calandrinia%20affinis.md) · 4551
@@ -18,7 +18,7 @@
 - ⬜ [Calandrinia skottsbergii](../Fichas/4562%20Calandrinia%20skottsbergii.md) · 4562
 - ⬜ [Cistanthe aegialitis](../Fichas/5923%20Cistanthe%20aegialitis.md) · 5923
 - ⬜ [Cistanthe arenaria](../Fichas/4565%20Cistanthe%20arenaria.md) · 4565
-- ⬜ [Cistanthe cachinalensis](../Fichas/4567%20Cistanthe%20cachinalensis.md) · 4567
+- ✅ [Cistanthe cachinalensis](../Fichas/4567%20Cistanthe%20cachinalensis.md) · 4567
 - ⬜ [Cistanthe celedoniana](../Fichas/5699%20Cistanthe%20celedoniana.md) · 5699
 - ⬜ [Cistanthe cephalophora](../Fichas/4570%20Cistanthe%20cephalophora.md) · 4570
 - ⬜ [Cistanthe chamissoi](../Fichas/5880%20Cistanthe%20chamissoi.md) · 5880
@@ -45,7 +45,7 @@
 - ⬜ [Cistanthe reshetiana](../Fichas/5914%20Cistanthe%20reshetiana.md) · 5914
 - ⬜ [Cistanthe sitiens](../Fichas/5720%20Cistanthe%20sitiens.md) · 5720
 - ⬜ [Cistanthe spectabilis](../Fichas/4580%20Cistanthe%20spectabilis.md) · 4580
-- ⬜ [Cistanthe stricta](../Fichas/4585%20Cistanthe%20stricta.md) · 4585
+- ✅ [Cistanthe stricta](../Fichas/4585%20Cistanthe%20stricta.md) · 4585
 - ⬜ [Cistanthe taltalensis](../Fichas/5928%20Cistanthe%20taltalensis.md) · 5928
 - ⬜ [Cistanthe thyrsoidea](../Fichas/4586%20Cistanthe%20thyrsoidea.md) · 4586
 - ⬜ [Cistanthe trigona](../Fichas/5864%20Cistanthe%20trigona.md) · 5864

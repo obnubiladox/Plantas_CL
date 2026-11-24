@@ -1,13 +1,13 @@
 # Boraginaceae
 
-[← Índice](../INDICE.md) · 0 de 112 especies con descripción.
+[← Índice](../INDICE.md) · 4 de 112 especies con descripción.
 
 - ⬜ [Amsinckia calycina](../Fichas/2869%20Amsinckia%20calycina.md) · 2869
 - ⬜ [Amsinckia tessellata](../Fichas/2870%20Amsinckia%20tessellata.md) · 2870
 - ⬜ [Asperugo procumbens](../Fichas/2871%20Asperugo%20procumbens.md) · 2871
 - ⬜ [Borago officinalis](../Fichas/2872%20Borago%20officinalis.md) · 2872
 - ⬜ [Buglossoides arvensis](../Fichas/2873%20Buglossoides%20arvensis.md) · 2873
-- ⬜ [Cordia decandra](../Fichas/2874%20Cordia%20decandra.md) · 2874
+- ✅ [Cordia decandra](../Fichas/2874%20Cordia%20decandra.md) · 2874
 - ⬜ [Cryptantha alfalfalis](../Fichas/2875%20Cryptantha%20alfalfalis.md) · 2875
 - ⬜ [Cryptantha alyssoides](../Fichas/2876%20Cryptantha%20alyssoides.md) · 2876
 - ⬜ [Cryptantha aprica](../Fichas/2877%20Cryptantha%20aprica.md) · 2877
@@ -33,7 +33,7 @@
 - ⬜ [Cryptantha glomerata subsp. quadrinuculata](../Fichas/2897%20Cryptantha%20glomerata%20subsp.%20quadrinuculata.md) · 2897
 - ⬜ [Cryptantha glomerulifera](../Fichas/2898%20Cryptantha%20glomerulifera.md) · 2898
 - ⬜ [Cryptantha gnaphalioides](../Fichas/2899%20Cryptantha%20gnaphalioides.md) · 2899
-- ⬜ [Cryptantha haplostachya](../Fichas/2900%20Cryptantha%20haplostachya.md) · 2900
+- ✅ [Cryptantha haplostachya](../Fichas/2900%20Cryptantha%20haplostachya.md) · 2900
 - ⬜ [Cryptantha hispida](../Fichas/2901%20Cryptantha%20hispida.md) · 2901
 - ⬜ [Cryptantha involucrata](../Fichas/2902%20Cryptantha%20involucrata.md) · 2902
 - ⬜ [Cryptantha limensis](../Fichas/2904%20Cryptantha%20limensis.md) · 2904
@@ -105,8 +105,8 @@
 - ⬜ [Plagiobothrys pulchellus](../Fichas/2964%20Plagiobothrys%20pulchellus.md) · 2964
 - ⬜ [Plagiobothrys uliginosus](../Fichas/2965%20Plagiobothrys%20uliginosus.md) · 2965
 - ⬜ [Plagiobothrys verrucosus](../Fichas/2966%20Plagiobothrys%20verrucosus.md) · 2966
-- ⬜ [Selkirkia berteroi](../Fichas/2967%20Selkirkia%20berteroi.md) · 2967
-- ⬜ [Selkirkia limense](../Fichas/2968%20Selkirkia%20limense.md) · 2968
+- ✅ [Selkirkia berteroi](../Fichas/2967%20Selkirkia%20berteroi.md) · 2967
+- ✅ [Selkirkia limense](../Fichas/2968%20Selkirkia%20limense.md) · 2968
 - ⬜ [Selkirkia pauciflora](../Fichas/2969%20Selkirkia%20pauciflora.md) · 2969
 - ⬜ [Symphytum officinale](../Fichas/5937%20Symphytum%20officinale.md) · 5937
 - ⬜ [Tiquilia atacamensis](../Fichas/2970%20Tiquilia%20atacamensis.md) · 2970

@@ -1,6 +1,6 @@
 # Caryophyllaceae
 
-[← Índice](../INDICE.md) · 0 de 98 especies con descripción.
+[← Índice](../INDICE.md) · 6 de 98 especies con descripción.
 
 - ⬜ [Agrostemma githago](../Fichas/3481%20Agrostemma%20githago.md) · 3481
 - ⬜ [Arenaria digyna](../Fichas/3482%20Arenaria%20digyna.md) · 3482
@@ -34,8 +34,8 @@
 - ⬜ [Holosteum umbellatum](../Fichas/5957%20Holosteum%20umbellatum.md) · 5957
 - ⬜ [Microphyes litoralis](../Fichas/3513%20Microphyes%20litoralis.md) · 3513
 - ⬜ [Microphyes minimus](../Fichas/3514%20Microphyes%20minimus.md) · 3514
-- ⬜ [Microphyes robustus var. pallidus](../Fichas/3515%20Microphyes%20robustus%20var.%20pallidus.md) · 3515
-- ⬜ [Microphyes robustus var. robustus](../Fichas/3516%20Microphyes%20robustus%20var.%20robustus.md) · 3516
+- ✅ [Microphyes robustus var. pallidus](../Fichas/3515%20Microphyes%20robustus%20var.%20pallidus.md) · 3515
+- ✅ [Microphyes robustus var. robustus](../Fichas/3516%20Microphyes%20robustus%20var.%20robustus.md) · 3516
 - ⬜ [Paronychia chilensis](../Fichas/3517%20Paronychia%20chilensis.md) · 3517
 - ⬜ [Paronychia johnstonii](../Fichas/3523%20Paronychia%20johnstonii.md) · 3523
 - ⬜ [Paronychia microphylla](../Fichas/3525%20Paronychia%20microphylla.md) · 3525
@@ -70,20 +70,20 @@
 - ⬜ [Silene plutonica](../Fichas/3555%20Silene%20plutonica.md) · 3555
 - ⬜ [Silene vulgaris](../Fichas/3556%20Silene%20vulgaris.md) · 3556
 - ⬜ [Spergula arvensis](../Fichas/3557%20Spergula%20arvensis.md) · 3557
-- ⬜ [Spergularia aberrans](../Fichas/3565%20Spergularia%20aberrans.md) · 3565
+- ✅ [Spergularia aberrans](../Fichas/3565%20Spergularia%20aberrans.md) · 3565
 - ⬜ [Spergularia arbuscula](../Fichas/3566%20Spergularia%20arbuscula.md) · 3566
 - ⬜ [Spergularia bocconei](../Fichas/3558%20Spergularia%20bocconei.md) · 3558
 - ⬜ [Spergularia cerviana](../Fichas/3559%20Spergularia%20cerviana.md) · 3559
-- ⬜ [Spergularia confertiflora](../Fichas/3567%20Spergularia%20confertiflora.md) · 3567
+- ✅ [Spergularia confertiflora](../Fichas/3567%20Spergularia%20confertiflora.md) · 3567
 - ⬜ [Spergularia cremnophila](../Fichas/3568%20Spergularia%20cremnophila.md) · 3568
 - ⬜ [Spergularia denticulata](../Fichas/3569%20Spergularia%20denticulata.md) · 3569
 - ⬜ [Spergularia depauperata](../Fichas/3560%20Spergularia%20depauperata.md) · 3560
 - ⬜ [Spergularia dillenii](../Fichas/3570%20Spergularia%20dillenii.md) · 3570
 - ⬜ [Spergularia fasciculata](../Fichas/3571%20Spergularia%20fasciculata.md) · 3571
 - ⬜ [Spergularia floribunda](../Fichas/3572%20Spergularia%20floribunda.md) · 3572
-- ⬜ [Spergularia manicata](../Fichas/3573%20Spergularia%20manicata.md) · 3573
+- ✅ [Spergularia manicata](../Fichas/3573%20Spergularia%20manicata.md) · 3573
 - ⬜ [Spergularia marina](../Fichas/3574%20Spergularia%20marina.md) · 3574
-- ⬜ [Spergularia masafuerana](../Fichas/3575%20Spergularia%20masafuerana.md) · 3575
+- ✅ [Spergularia masafuerana](../Fichas/3575%20Spergularia%20masafuerana.md) · 3575
 - ⬜ [Spergularia media](../Fichas/3576%20Spergularia%20media.md) · 3576
 - ⬜ [Spergularia pissisii](../Fichas/3561%20Spergularia%20pissisii.md) · 3561
 - ⬜ [Spergularia platensis](../Fichas/3562%20Spergularia%20platensis.md) · 3562

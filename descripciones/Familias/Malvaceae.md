@@ -1,15 +1,15 @@
 # Malvaceae
 
-[← Índice](../INDICE.md) · 0 de 104 especies con descripción.
+[← Índice](../INDICE.md) · 7 de 104 especies con descripción.
 
 - ⬜ [Abutilon grandifolium](../Fichas/4437%20Abutilon%20grandifolium.md) · 4437
 - ⬜ [Andeimalva chilensis](../Fichas/4438%20Andeimalva%20chilensis.md) · 4438
 - ⬜ [Anoda cristata](../Fichas/4439%20Anoda%20cristata.md) · 4439
 - ⬜ [Corynabutilon bicolor](../Fichas/4440%20Corynabutilon%20bicolor.md) · 4440
 - ⬜ [Corynabutilon ceratocarpum](../Fichas/4441%20Corynabutilon%20ceratocarpum.md) · 4441
-- ⬜ [Corynabutilon hirsutum](../Fichas/4442%20Corynabutilon%20hirsutum.md) · 4442
-- ⬜ [Corynabutilon ochsenii](../Fichas/4443%20Corynabutilon%20ochsenii.md) · 4443
-- ⬜ [Corynabutilon salicifolium](../Fichas/4444%20Corynabutilon%20salicifolium.md) · 4444
+- ✅ [Corynabutilon hirsutum](../Fichas/4442%20Corynabutilon%20hirsutum.md) · 4442
+- ✅ [Corynabutilon ochsenii](../Fichas/4443%20Corynabutilon%20ochsenii.md) · 4443
+- ✅ [Corynabutilon salicifolium](../Fichas/4444%20Corynabutilon%20salicifolium.md) · 4444
 - ⬜ [Corynabutilon viride](../Fichas/4445%20Corynabutilon%20viride.md) · 4445
 - ⬜ [Corynabutilon vitifolium](../Fichas/4446%20Corynabutilon%20vitifolium.md) · 4446
 - ⬜ [Cristaria adenophora](../Fichas/4447%20Cristaria%20adenophora.md) · 4447
@@ -18,7 +18,7 @@
 - ⬜ [Cristaria aspera var. aspera](../Fichas/4450%20Cristaria%20aspera%20var.%20aspera.md) · 4450
 - ⬜ [Cristaria aspera var. formosula](../Fichas/4451%20Cristaria%20aspera%20var.%20formosula.md) · 4451
 - ⬜ [Cristaria aspera var. sadae](../Fichas/4452%20Cristaria%20aspera%20var.%20sadae.md) · 4452
-- ⬜ [Cristaria calderiana](../Fichas/4453%20Cristaria%20calderiana.md) · 4453
+- ✅ [Cristaria calderiana](../Fichas/4453%20Cristaria%20calderiana.md) · 4453
 - ⬜ [Cristaria cordato-rotundifolia](../Fichas/4454%20Cristaria%20cordato-rotundifolia.md) · 4454
 - ⬜ [Cristaria cyanea](../Fichas/4455%20Cristaria%20cyanea.md) · 4455
 - ⬜ [Cristaria dissecta var. dissecta](../Fichas/4456%20Cristaria%20dissecta%20var.%20dissecta.md) · 4456
@@ -29,7 +29,7 @@
 - ⬜ [Cristaria glaucophylla var. glaucophylla](../Fichas/4461%20Cristaria%20glaucophylla%20var.%20glaucophylla.md) · 4461
 - ⬜ [Cristaria gracilis](../Fichas/4462%20Cristaria%20gracilis.md) · 4462
 - ⬜ [Cristaria insularis var. insularis](../Fichas/4463%20Cristaria%20insularis%20var.%20insularis.md) · 4463
-- ⬜ [Cristaria insularis var. johowii](../Fichas/4464%20Cristaria%20insularis%20var.%20johowii.md) · 4464
+- ✅ [Cristaria insularis var. johowii](../Fichas/4464%20Cristaria%20insularis%20var.%20johowii.md) · 4464
 - ⬜ [Cristaria integerrima var. integerrima](../Fichas/4465%20Cristaria%20integerrima%20var.%20integerrima.md) · 4465
 - ⬜ [Cristaria integerrima var. lobulata](../Fichas/4466%20Cristaria%20integerrima%20var.%20lobulata.md) · 4466
 - ⬜ [Cristaria leucantha](../Fichas/4467%20Cristaria%20leucantha.md) · 4467
@@ -41,7 +41,7 @@
 - ⬜ [Cristaria viridiluteola var. viridiluteola](../Fichas/4473%20Cristaria%20viridiluteola%20var.%20viridiluteola.md) · 4473
 - ⬜ [Fuertesimalva chilensis](../Fichas/4534%20Fuertesimalva%20chilensis.md) · 4534
 - ⬜ [Fuertesimalva peruviana](../Fichas/4536%20Fuertesimalva%20peruviana.md) · 4536
-- ⬜ [Fuertesimalva sanambrosiana](../Fichas/4537%20Fuertesimalva%20sanambrosiana.md) · 4537
+- ✅ [Fuertesimalva sanambrosiana](../Fichas/4537%20Fuertesimalva%20sanambrosiana.md) · 4537
 - ⬜ [Gossypium barbadense](../Fichas/4474%20Gossypium%20barbadense.md) · 4474
 - ⬜ [Hibiscus trionum](../Fichas/4475%20Hibiscus%20trionum.md) · 4475
 - ⬜ [Lecanophora subacaulis](../Fichas/4476%20Lecanophora%20subacaulis.md) · 4476
@@ -83,7 +83,7 @@
 - ⬜ [Nototriche rugosa](../Fichas/4510%20Nototriche%20rugosa.md) · 4510
 - ⬜ [Nototriche stipularis](../Fichas/4511%20Nototriche%20stipularis.md) · 4511
 - ⬜ [Nototriche turritella](../Fichas/4512%20Nototriche%20turritella.md) · 4512
-- ⬜ [Palaua concinna](../Fichas/4513%20Palaua%20concinna.md) · 4513
+- ✅ [Palaua concinna](../Fichas/4513%20Palaua%20concinna.md) · 4513
 - ⬜ [Palaua dissecta](../Fichas/4514%20Palaua%20dissecta.md) · 4514
 - ⬜ [Palaua inconspicua](../Fichas/4515%20Palaua%20inconspicua.md) · 4515
 - ⬜ [Palaua modesta](../Fichas/4516%20Palaua%20modesta.md) · 4516

@@ -1,6 +1,6 @@
 # Loasaceae
 
-[← Índice](../INDICE.md) · 0 de 55 especies con descripción.
+[← Índice](../INDICE.md) · 3 de 55 especies con descripción.
 
 - ⬜ [Blumenbachia dissecta](../Fichas/4370%20Blumenbachia%20dissecta.md) · 4370
 - ⬜ [Blumenbachia prietea](../Fichas/4371%20Blumenbachia%20prietea.md) · 4371
@@ -11,7 +11,7 @@
 - ⬜ [Caiophora coronata](../Fichas/4375%20Caiophora%20coronata.md) · 4375
 - ⬜ [Caiophora deserticola](../Fichas/4376%20Caiophora%20deserticola.md) · 4376
 - ⬜ [Caiophora rosulata](../Fichas/4377%20Caiophora%20rosulata.md) · 4377
-- ⬜ [Grausa acaulis](../Fichas/5685%20Grausa%20acaulis.md) · 5685
+- ✅ [Grausa acaulis](../Fichas/5685%20Grausa%20acaulis.md) · 5685
 - ⬜ [Grausa gayana](../Fichas/4378%20Grausa%20gayana.md) · 4378
 - ⬜ [Grausa lateritia](../Fichas/4379%20Grausa%20lateritia.md) · 4379
 - ⬜ [Grausa lutea](../Fichas/5908%20Grausa%20lutea.md) · 5908
@@ -31,8 +31,8 @@
 - ⬜ [Loasa humilis](../Fichas/4393%20Loasa%20humilis.md) · 4393
 - ⬜ [Loasa illapelina](../Fichas/4394%20Loasa%20illapelina.md) · 4394
 - ⬜ [Loasa insons](../Fichas/4395%20Loasa%20insons.md) · 4395
-- ⬜ [Loasa mollensis](../Fichas/4396%20Loasa%20mollensis.md) · 4396
-- ⬜ [Loasa multifida](../Fichas/4397%20Loasa%20multifida.md) · 4397
+- ✅ [Loasa mollensis](../Fichas/4396%20Loasa%20mollensis.md) · 4396
+- ✅ [Loasa multifida](../Fichas/4397%20Loasa%20multifida.md) · 4397
 - ⬜ [Loasa nitida](../Fichas/4398%20Loasa%20nitida.md) · 4398
 - ⬜ [Loasa pallida](../Fichas/4399%20Loasa%20pallida.md) · 4399
 - ⬜ [Loasa paradoxa](../Fichas/4400%20Loasa%20paradoxa.md) · 4400

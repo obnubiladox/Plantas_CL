@@ -1,9 +1,9 @@
 # Euphorbiaceae
 
-[← Índice](../INDICE.md) · 0 de 55 especies con descripción.
+[← Índice](../INDICE.md) · 3 de 55 especies con descripción.
 
 - ⬜ [Adenopeltis serrata](../Fichas/3766%20Adenopeltis%20serrata.md) · 3766
-- ⬜ [Avellanita bustillosii](../Fichas/3767%20Avellanita%20bustillosii.md) · 3767
+- ✅ [Avellanita bustillosii](../Fichas/3767%20Avellanita%20bustillosii.md) · 3767
 - ⬜ [Chiropetalum berterianum var. berterianum](../Fichas/3768%20Chiropetalum%20berterianum%20var.%20berterianum.md) · 3768
 - ⬜ [Chiropetalum berterianum var. psiladenium](../Fichas/3769%20Chiropetalum%20berterianum%20var.%20psiladenium.md) · 3769
 - ⬜ [Chiropetalum canescens](../Fichas/3770%20Chiropetalum%20canescens.md) · 3770
@@ -13,11 +13,11 @@
 - ⬜ [Colliguaja integerrima](../Fichas/3774%20Colliguaja%20integerrima.md) · 3774
 - ⬜ [Colliguaja odorifera](../Fichas/3775%20Colliguaja%20odorifera.md) · 3775
 - ⬜ [Colliguaja salicifolia](../Fichas/3776%20Colliguaja%20salicifolia.md) · 3776
-- ⬜ [Croton chilensis](../Fichas/3777%20Croton%20chilensis.md) · 3777
+- ✅ [Croton chilensis](../Fichas/3777%20Croton%20chilensis.md) · 3777
 - ⬜ [Croton setiger](../Fichas/3778%20Croton%20setiger.md) · 3778
 - ⬜ [Dysopsis chilensis](../Fichas/5822%20Dysopsis%20chilensis.md) · 5822
 - ⬜ [Dysopsis glechomoides](../Fichas/3779%20Dysopsis%20glechomoides.md) · 3779
-- ⬜ [Dysopsis hirsuta](../Fichas/3780%20Dysopsis%20hirsuta.md) · 3780
+- ✅ [Dysopsis hirsuta](../Fichas/3780%20Dysopsis%20hirsuta.md) · 3780
 - ⬜ [Euphorbia amandi](../Fichas/3781%20Euphorbia%20amandi.md) · 3781
 - ⬜ [Euphorbia araucana](../Fichas/3782%20Euphorbia%20araucana.md) · 3782
 - ⬜ [Euphorbia besseri](../Fichas/3783%20Euphorbia%20besseri.md) · 3783

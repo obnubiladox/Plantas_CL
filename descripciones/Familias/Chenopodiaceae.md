@@ -1,14 +1,14 @@
 # Chenopodiaceae
 
-[← Índice](../INDICE.md) · 0 de 75 especies con descripción.
+[← Índice](../INDICE.md) · 12 de 75 especies con descripción.
 
 - ⬜ [Atriplex atacamensis](../Fichas/3593%20Atriplex%20atacamensis.md) · 3593
-- ⬜ [Atriplex chapinii](../Fichas/3594%20Atriplex%20chapinii.md) · 3594
+- ✅ [Atriplex chapinii](../Fichas/3594%20Atriplex%20chapinii.md) · 3594
 - ⬜ [Atriplex chilensis](../Fichas/3595%20Atriplex%20chilensis.md) · 3595
 - ⬜ [Atriplex chizae](../Fichas/3596%20Atriplex%20chizae.md) · 3596
 - ⬜ [Atriplex clivicola](../Fichas/3597%20Atriplex%20clivicola.md) · 3597
-- ⬜ [Atriplex coquimbana](../Fichas/3598%20Atriplex%20coquimbana.md) · 3598
-- ⬜ [Atriplex costellata](../Fichas/3599%20Atriplex%20costellata.md) · 3599
+- ✅ [Atriplex coquimbana](../Fichas/3598%20Atriplex%20coquimbana.md) · 3598
+- ✅ [Atriplex costellata](../Fichas/3599%20Atriplex%20costellata.md) · 3599
 - ⬜ [Atriplex glaucescens](../Fichas/3601%20Atriplex%20glaucescens.md) · 3601
 - ⬜ [Atriplex hortensis](../Fichas/3602%20Atriplex%20hortensis.md) · 3602
 - ⬜ [Atriplex hystrix](../Fichas/3603%20Atriplex%20hystrix.md) · 3603
@@ -28,27 +28,27 @@
 - ⬜ [Atriplex rosea](../Fichas/3616%20Atriplex%20rosea.md) · 3616
 - ⬜ [Atriplex semibaccata](../Fichas/3617%20Atriplex%20semibaccata.md) · 3617
 - ⬜ [Atriplex suberecta](../Fichas/3618%20Atriplex%20suberecta.md) · 3618
-- ⬜ [Atriplex taltalensis](../Fichas/3619%20Atriplex%20taltalensis.md) · 3619
+- ✅ [Atriplex taltalensis](../Fichas/3619%20Atriplex%20taltalensis.md) · 3619
 - ⬜ [Atriplex tatarica](../Fichas/3620%20Atriplex%20tatarica.md) · 3620
-- ⬜ [Atriplex vallenarensis](../Fichas/3621%20Atriplex%20vallenarensis.md) · 3621
+- ✅ [Atriplex vallenarensis](../Fichas/3621%20Atriplex%20vallenarensis.md) · 3621
 - ⬜ [Atriplex vulgatissima](../Fichas/3622%20Atriplex%20vulgatissima.md) · 3622
 - ⬜ [Bassia hyssopifolia](../Fichas/3623%20Bassia%20hyssopifolia.md) · 3623
 - ⬜ [Beta vulgaris subsp. maritima](../Fichas/3624%20Beta%20vulgaris%20subsp.%20maritima.md) · 3624
 - ⬜ [Chenopodiastrum murale](../Fichas/3626%20Chenopodiastrum%20murale.md) · 3626
 - ⬜ [Chenopodium album](../Fichas/3627%20Chenopodium%20album.md) · 3627
 - ⬜ [Chenopodium carnosulum](../Fichas/3629%20Chenopodium%20carnosulum.md) · 3629
-- ⬜ [Chenopodium crusoeanum](../Fichas/3630%20Chenopodium%20crusoeanum.md) · 3630
+- ✅ [Chenopodium crusoeanum](../Fichas/3630%20Chenopodium%20crusoeanum.md) · 3630
 - ⬜ [Chenopodium ficifolium](../Fichas/3631%20Chenopodium%20ficifolium.md) · 3631
 - ⬜ [Chenopodium giganteum](../Fichas/5759%20Chenopodium%20giganteum.md) · 5759
 - ⬜ [Chenopodium glaucum](../Fichas/3634%20Chenopodium%20glaucum.md) · 3634
 - ⬜ [Chenopodium hircinum](../Fichas/3635%20Chenopodium%20hircinum.md) · 3635
-- ⬜ [Chenopodium nesodendron](../Fichas/3637%20Chenopodium%20nesodendron.md) · 3637
+- ✅ [Chenopodium nesodendron](../Fichas/3637%20Chenopodium%20nesodendron.md) · 3637
 - ⬜ [Chenopodium papulosum](../Fichas/3638%20Chenopodium%20papulosum.md) · 3638
 - ⬜ [Chenopodium petiolare](../Fichas/3639%20Chenopodium%20petiolare.md) · 3639
 - ⬜ [Chenopodium philippianum](../Fichas/3640%20Chenopodium%20philippianum.md) · 3640
 - ⬜ [Chenopodium quinoa](../Fichas/3641%20Chenopodium%20quinoa.md) · 3641
-- ⬜ [Chenopodium sanctae-clarae](../Fichas/3642%20Chenopodium%20sanctae-clarae.md) · 3642
-- ⬜ [Chenopodium sancti-ambrosii](../Fichas/3643%20Chenopodium%20sancti-ambrosii.md) · 3643
+- ✅ [Chenopodium sanctae-clarae](../Fichas/3642%20Chenopodium%20sanctae-clarae.md) · 3642
+- ✅ [Chenopodium sancti-ambrosii](../Fichas/3643%20Chenopodium%20sancti-ambrosii.md) · 3643
 - ⬜ [Chenopodium trifurcatum](../Fichas/3644%20Chenopodium%20trifurcatum.md) · 3644
 - ⬜ [Chenopodium vulvaria](../Fichas/3645%20Chenopodium%20vulvaria.md) · 3645
 - ⬜ [Dysphania ambrosioides](../Fichas/3646%20Dysphania%20ambrosioides.md) · 3646
@@ -59,7 +59,7 @@
 - ⬜ [Dysphania multifida](../Fichas/3649%20Dysphania%20multifida.md) · 3649
 - ⬜ [Dysphania pumilio](../Fichas/5758%20Dysphania%20pumilio.md) · 5758
 - ⬜ [Maireana brevifolia](../Fichas/3650%20Maireana%20brevifolia.md) · 3650
-- ⬜ [Nitrophila atacamensis](../Fichas/3651%20Nitrophila%20atacamensis.md) · 3651
+- ✅ [Nitrophila atacamensis](../Fichas/3651%20Nitrophila%20atacamensis.md) · 3651
 - ⬜ [Nitrophila australis var. kuntzei](../Fichas/5757%20Nitrophila%20australis%20var.%20kuntzei.md) · 5757
 - ⬜ [Oxybasis antarctica](../Fichas/3628%20Oxybasis%20antarctica.md) · 3628
 - ⬜ [Oxybasis frigida](../Fichas/3632%20Oxybasis%20frigida.md) · 3632
@@ -74,6 +74,6 @@
 - ⬜ [Sarcocornia pulvinata](../Fichas/3659%20Sarcocornia%20pulvinata.md) · 3659
 - ⬜ [Suaeda argentinensis](../Fichas/3660%20Suaeda%20argentinensis.md) · 3660
 - ⬜ [Suaeda foliosa](../Fichas/3661%20Suaeda%20foliosa.md) · 3661
-- ⬜ [Suaeda multiflora](../Fichas/3662%20Suaeda%20multiflora.md) · 3662
-- ⬜ [Suaeda nesophila](../Fichas/3663%20Suaeda%20nesophila.md) · 3663
+- ✅ [Suaeda multiflora](../Fichas/3662%20Suaeda%20multiflora.md) · 3662
+- ✅ [Suaeda nesophila](../Fichas/3663%20Suaeda%20nesophila.md) · 3663
 - ⬜ [Suaeda patagonica](../Fichas/3664%20Suaeda%20patagonica.md) · 3664

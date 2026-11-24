@@ -1,65 +1,65 @@
 # Alstroemeriaceae
 
-[← Índice](../INDICE.md) · 0 de 61 especies con descripción.
+[← Índice](../INDICE.md) · 39 de 61 especies con descripción.
 
-- ⬜ [Alstroemeria achirae](../Fichas/425%20Alstroemeria%20achirae.md) · 425
-- ⬜ [Alstroemeria andina var. andina](../Fichas/426%20Alstroemeria%20andina%20var.%20andina.md) · 426
+- ✅ [Alstroemeria achirae](../Fichas/425%20Alstroemeria%20achirae.md) · 425
+- ✅ [Alstroemeria andina var. andina](../Fichas/426%20Alstroemeria%20andina%20var.%20andina.md) · 426
 - ⬜ [Alstroemeria andina var. venustula](../Fichas/427%20Alstroemeria%20andina%20var.%20venustula.md) · 427
 - ⬜ [Alstroemeria angustifolia var. angustifolia](../Fichas/428%20Alstroemeria%20angustifolia%20var.%20angustifolia.md) · 428
 - ⬜ [Alstroemeria angustifolia var. velutina](../Fichas/429%20Alstroemeria%20angustifolia%20var.%20velutina.md) · 429
 - ⬜ [Alstroemeria aurea](../Fichas/430%20Alstroemeria%20aurea.md) · 430
-- ⬜ [Alstroemeria citrina](../Fichas/431%20Alstroemeria%20citrina.md) · 431
+- ✅ [Alstroemeria citrina](../Fichas/431%20Alstroemeria%20citrina.md) · 431
 - ⬜ [Alstroemeria crispata](../Fichas/432%20Alstroemeria%20crispata.md) · 432
 - ⬜ [Alstroemeria cummingiana](../Fichas/433%20Alstroemeria%20cummingiana.md) · 433
-- ⬜ [Alstroemeria diluta subsp. chrysantha](../Fichas/434%20Alstroemeria%20diluta%20subsp.%20chrysantha.md) · 434
-- ⬜ [Alstroemeria diluta subsp. diluta](../Fichas/435%20Alstroemeria%20diluta%20subsp.%20diluta.md) · 435
+- ✅ [Alstroemeria diluta subsp. chrysantha](../Fichas/434%20Alstroemeria%20diluta%20subsp.%20chrysantha.md) · 434
+- ✅ [Alstroemeria diluta subsp. diluta](../Fichas/435%20Alstroemeria%20diluta%20subsp.%20diluta.md) · 435
 - ⬜ [Alstroemeria esteparica](../Fichas/5698%20Alstroemeria%20esteparica.md) · 5698
 - ⬜ [Alstroemeria exerens](../Fichas/436%20Alstroemeria%20exerens.md) · 436
-- ⬜ [Alstroemeria garaventae subsp. garaventae](../Fichas/437%20Alstroemeria%20garaventae%20subsp.%20garaventae.md) · 437
-- ⬜ [Alstroemeria graminea](../Fichas/438%20Alstroemeria%20graminea.md) · 438
-- ⬜ [Alstroemeria hookeri subsp. hookeri](../Fichas/439%20Alstroemeria%20hookeri%20subsp.%20hookeri.md) · 439
-- ⬜ [Alstroemeria hookeri subsp. maculata](../Fichas/440%20Alstroemeria%20hookeri%20subsp.%20maculata.md) · 440
-- ⬜ [Alstroemeria hookeri subsp. recumbens](../Fichas/441%20Alstroemeria%20hookeri%20subsp.%20recumbens.md) · 441
-- ⬜ [Alstroemeria hookeri subsp. sansebastiana](../Fichas/442%20Alstroemeria%20hookeri%20subsp.%20sansebastiana.md) · 442
-- ⬜ [Alstroemeria kingii](../Fichas/443%20Alstroemeria%20kingii.md) · 443
+- ✅ [Alstroemeria garaventae subsp. garaventae](../Fichas/437%20Alstroemeria%20garaventae%20subsp.%20garaventae.md) · 437
+- ✅ [Alstroemeria graminea](../Fichas/438%20Alstroemeria%20graminea.md) · 438
+- ✅ [Alstroemeria hookeri subsp. hookeri](../Fichas/439%20Alstroemeria%20hookeri%20subsp.%20hookeri.md) · 439
+- ✅ [Alstroemeria hookeri subsp. maculata](../Fichas/440%20Alstroemeria%20hookeri%20subsp.%20maculata.md) · 440
+- ✅ [Alstroemeria hookeri subsp. recumbens](../Fichas/441%20Alstroemeria%20hookeri%20subsp.%20recumbens.md) · 441
+- ✅ [Alstroemeria hookeri subsp. sansebastiana](../Fichas/442%20Alstroemeria%20hookeri%20subsp.%20sansebastiana.md) · 442
+- ✅ [Alstroemeria kingii](../Fichas/443%20Alstroemeria%20kingii.md) · 443
 - ⬜ [Alstroemeria leporina](../Fichas/444%20Alstroemeria%20leporina.md) · 444
 - ⬜ [Alstroemeria ligtu subsp. ligtu](../Fichas/445%20Alstroemeria%20ligtu%20subsp.%20ligtu.md) · 445
 - ⬜ [Alstroemeria ligtu subsp. simsii](../Fichas/446%20Alstroemeria%20ligtu%20subsp.%20simsii.md) · 446
 - ⬜ [Alstroemeria ligtu subsp. splendens](../Fichas/447%20Alstroemeria%20ligtu%20subsp.%20splendens.md) · 447
-- ⬜ [Alstroemeria lutea](../Fichas/448%20Alstroemeria%20lutea.md) · 448
+- ✅ [Alstroemeria lutea](../Fichas/448%20Alstroemeria%20lutea.md) · 448
 - ⬜ [Alstroemeria magnifica subsp. magenta](../Fichas/449%20Alstroemeria%20magnifica%20subsp.%20magenta.md) · 449
-- ⬜ [Alstroemeria magnifica subsp. magnifica](../Fichas/450%20Alstroemeria%20magnifica%20subsp.%20magnifica.md) · 450
-- ⬜ [Alstroemeria magnifica var. sierrae](../Fichas/451%20Alstroemeria%20magnifica%20var.%20sierrae.md) · 451
-- ⬜ [Alstroemeria magnifica var. tofoensis](../Fichas/452%20Alstroemeria%20magnifica%20var.%20tofoensis.md) · 452
-- ⬜ [Alstroemeria marticorenae](../Fichas/453%20Alstroemeria%20marticorenae.md) · 453
+- ✅ [Alstroemeria magnifica subsp. magnifica](../Fichas/450%20Alstroemeria%20magnifica%20subsp.%20magnifica.md) · 450
+- ✅ [Alstroemeria magnifica var. sierrae](../Fichas/451%20Alstroemeria%20magnifica%20var.%20sierrae.md) · 451
+- ✅ [Alstroemeria magnifica var. tofoensis](../Fichas/452%20Alstroemeria%20magnifica%20var.%20tofoensis.md) · 452
+- ✅ [Alstroemeria marticorenae](../Fichas/453%20Alstroemeria%20marticorenae.md) · 453
 - ⬜ [Alstroemeria maxima](../Fichas/467%20Alstroemeria%20maxima.md) · 467
-- ⬜ [Alstroemeria mollensis](../Fichas/454%20Alstroemeria%20mollensis.md) · 454
+- ✅ [Alstroemeria mollensis](../Fichas/454%20Alstroemeria%20mollensis.md) · 454
 - ⬜ [Alstroemeria pallida](../Fichas/455%20Alstroemeria%20pallida.md) · 455
-- ⬜ [Alstroemeria parvula](../Fichas/456%20Alstroemeria%20parvula.md) · 456
+- ✅ [Alstroemeria parvula](../Fichas/456%20Alstroemeria%20parvula.md) · 456
 - ⬜ [Alstroemeria patagonica](../Fichas/457%20Alstroemeria%20patagonica.md) · 457
-- ⬜ [Alstroemeria pelegrina](../Fichas/458%20Alstroemeria%20pelegrina.md) · 458
+- ✅ [Alstroemeria pelegrina](../Fichas/458%20Alstroemeria%20pelegrina.md) · 458
 - ⬜ [Alstroemeria philippii subsp. adrianae](../Fichas/5821%20Alstroemeria%20philippii%20subsp.%20adrianae.md) · 5821
 - ⬜ [Alstroemeria philippii var. albicans](../Fichas/459%20Alstroemeria%20philippii%20var.%20albicans.md) · 459
 - ⬜ [Alstroemeria philippii var. philippii](../Fichas/460%20Alstroemeria%20philippii%20var.%20philippii.md) · 460
-- ⬜ [Alstroemeria piperata](../Fichas/461%20Alstroemeria%20piperata.md) · 461
-- ⬜ [Alstroemeria polyphylla](../Fichas/462%20Alstroemeria%20polyphylla.md) · 462
-- ⬜ [Alstroemeria presliana subsp. australis](../Fichas/463%20Alstroemeria%20presliana%20subsp.%20australis.md) · 463
-- ⬜ [Alstroemeria presliana subsp. presliana](../Fichas/464%20Alstroemeria%20presliana%20subsp.%20presliana.md) · 464
-- ⬜ [Alstroemeria pseudospathulata](../Fichas/465%20Alstroemeria%20pseudospathulata.md) · 465
-- ⬜ [Alstroemeria pulchra subsp. lavandulacea](../Fichas/466%20Alstroemeria%20pulchra%20subsp.%20lavandulacea.md) · 466
-- ⬜ [Alstroemeria pulchra subsp. pulchra](../Fichas/468%20Alstroemeria%20pulchra%20subsp.%20pulchra.md) · 468
+- ✅ [Alstroemeria piperata](../Fichas/461%20Alstroemeria%20piperata.md) · 461
+- ✅ [Alstroemeria polyphylla](../Fichas/462%20Alstroemeria%20polyphylla.md) · 462
+- ✅ [Alstroemeria presliana subsp. australis](../Fichas/463%20Alstroemeria%20presliana%20subsp.%20australis.md) · 463
+- ✅ [Alstroemeria presliana subsp. presliana](../Fichas/464%20Alstroemeria%20presliana%20subsp.%20presliana.md) · 464
+- ✅ [Alstroemeria pseudospathulata](../Fichas/465%20Alstroemeria%20pseudospathulata.md) · 465
+- ✅ [Alstroemeria pulchra subsp. lavandulacea](../Fichas/466%20Alstroemeria%20pulchra%20subsp.%20lavandulacea.md) · 466
+- ✅ [Alstroemeria pulchra subsp. pulchra](../Fichas/468%20Alstroemeria%20pulchra%20subsp.%20pulchra.md) · 468
 - ⬜ [Alstroemeria revoluta](../Fichas/469%20Alstroemeria%20revoluta.md) · 469
-- ⬜ [Alstroemeria schizanthoides var. alba](../Fichas/470%20Alstroemeria%20schizanthoides%20var.%20alba.md) · 470
-- ⬜ [Alstroemeria schizanthoides var. schizanthoides](../Fichas/471%20Alstroemeria%20schizanthoides%20var.%20schizanthoides.md) · 471
-- ⬜ [Alstroemeria spathulata](../Fichas/472%20Alstroemeria%20spathulata.md) · 472
-- ⬜ [Alstroemeria traudliae](../Fichas/473%20Alstroemeria%20traudliae.md) · 473
-- ⬜ [Alstroemeria umbellata](../Fichas/474%20Alstroemeria%20umbellata.md) · 474
+- ✅ [Alstroemeria schizanthoides var. alba](../Fichas/470%20Alstroemeria%20schizanthoides%20var.%20alba.md) · 470
+- ✅ [Alstroemeria schizanthoides var. schizanthoides](../Fichas/471%20Alstroemeria%20schizanthoides%20var.%20schizanthoides.md) · 471
+- ✅ [Alstroemeria spathulata](../Fichas/472%20Alstroemeria%20spathulata.md) · 472
+- ✅ [Alstroemeria traudliae](../Fichas/473%20Alstroemeria%20traudliae.md) · 473
+- ✅ [Alstroemeria umbellata](../Fichas/474%20Alstroemeria%20umbellata.md) · 474
 - ⬜ [Alstroemeria versicolor](../Fichas/475%20Alstroemeria%20versicolor.md) · 475
-- ⬜ [Alstroemeria violacea](../Fichas/476%20Alstroemeria%20violacea.md) · 476
-- ⬜ [Alstroemeria werdermannii var. flavicans](../Fichas/477%20Alstroemeria%20werdermannii%20var.%20flavicans.md) · 477
-- ⬜ [Alstroemeria werdermannii var. werdermannii](../Fichas/478%20Alstroemeria%20werdermannii%20var.%20werdermannii.md) · 478
-- ⬜ [Alstroemeria zoellneri](../Fichas/479%20Alstroemeria%20zoellneri.md) · 479
-- ⬜ [Bomarea dulcis](../Fichas/480%20Bomarea%20dulcis.md) · 480
-- ⬜ [Bomarea involucrosa](../Fichas/481%20Bomarea%20involucrosa.md) · 481
-- ⬜ [Bomarea ovallei](../Fichas/484%20Bomarea%20ovallei.md) · 484
+- ✅ [Alstroemeria violacea](../Fichas/476%20Alstroemeria%20violacea.md) · 476
+- ✅ [Alstroemeria werdermannii var. flavicans](../Fichas/477%20Alstroemeria%20werdermannii%20var.%20flavicans.md) · 477
+- ✅ [Alstroemeria werdermannii var. werdermannii](../Fichas/478%20Alstroemeria%20werdermannii%20var.%20werdermannii.md) · 478
+- ✅ [Alstroemeria zoellneri](../Fichas/479%20Alstroemeria%20zoellneri.md) · 479
+- ✅ [Bomarea dulcis](../Fichas/480%20Bomarea%20dulcis.md) · 480
+- ✅ [Bomarea involucrosa](../Fichas/481%20Bomarea%20involucrosa.md) · 481
+- ✅ [Bomarea ovallei](../Fichas/484%20Bomarea%20ovallei.md) · 484
 - ⬜ [Bomarea salsilla](../Fichas/482%20Bomarea%20salsilla.md) · 482

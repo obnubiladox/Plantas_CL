@@ -1,21 +1,21 @@
 # Polygonaceae
 
-[← Índice](../INDICE.md) · 0 de 62 especies con descripción.
+[← Índice](../INDICE.md) · 5 de 62 especies con descripción.
 
 - ⬜ [Chorizanthe commissuralis](../Fichas/4966%20Chorizanthe%20commissuralis.md) · 4966
 - ⬜ [Chorizanthe dasyantha](../Fichas/4967%20Chorizanthe%20dasyantha.md) · 4967
 - ⬜ [Chorizanthe densa](../Fichas/4968%20Chorizanthe%20densa.md) · 4968
 - ⬜ [Chorizanthe deserticola](../Fichas/4969%20Chorizanthe%20deserticola.md) · 4969
 - ⬜ [Chorizanthe flavescens](../Fichas/4970%20Chorizanthe%20flavescens.md) · 4970
-- ⬜ [Chorizanthe frankenioides](../Fichas/4971%20Chorizanthe%20frankenioides.md) · 4971
-- ⬜ [Chorizanthe gajardoi](../Fichas/4972%20Chorizanthe%20gajardoi.md) · 4972
+- ✅ [Chorizanthe frankenioides](../Fichas/4971%20Chorizanthe%20frankenioides.md) · 4971
+- ✅ [Chorizanthe gajardoi](../Fichas/4972%20Chorizanthe%20gajardoi.md) · 4972
 - ⬜ [Chorizanthe glabrescens](../Fichas/4973%20Chorizanthe%20glabrescens.md) · 4973
 - ⬜ [Chorizanthe kingii](../Fichas/4974%20Chorizanthe%20kingii.md) · 4974
 - ⬜ [Chorizanthe limariensis](../Fichas/5715%20Chorizanthe%20limariensis.md) · 5715
 - ⬜ [Chorizanthe macraei](../Fichas/5830%20Chorizanthe%20macraei.md) · 5830
-- ⬜ [Chorizanthe mieresii](../Fichas/4975%20Chorizanthe%20mieresii.md) · 4975
-- ⬜ [Chorizanthe navasiae](../Fichas/4976%20Chorizanthe%20navasiae.md) · 4976
-- ⬜ [Chorizanthe novoana](../Fichas/4977%20Chorizanthe%20novoana.md) · 4977
+- ✅ [Chorizanthe mieresii](../Fichas/4975%20Chorizanthe%20mieresii.md) · 4975
+- ✅ [Chorizanthe navasiae](../Fichas/4976%20Chorizanthe%20navasiae.md) · 4976
+- ✅ [Chorizanthe novoana](../Fichas/4977%20Chorizanthe%20novoana.md) · 4977
 - ⬜ [Chorizanthe paniculata](../Fichas/4978%20Chorizanthe%20paniculata.md) · 4978
 - ⬜ [Chorizanthe peduncularis](../Fichas/4979%20Chorizanthe%20peduncularis.md) · 4979
 - ⬜ [Chorizanthe rosasii](../Fichas/4980%20Chorizanthe%20rosasii.md) · 4980

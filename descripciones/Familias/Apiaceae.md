@@ -1,6 +1,6 @@
 # Apiaceae
 
-[← Índice](../INDICE.md) · 0 de 123 especies con descripción.
+[← Índice](../INDICE.md) · 10 de 123 especies con descripción.
 
 - ⬜ [Ammi majus](../Fichas/1661%20Ammi%20majus.md) · 1661
 - ⬜ [Ammi visnaga](../Fichas/1662%20Ammi%20visnaga.md) · 1662
@@ -8,7 +8,7 @@
 - ⬜ [Anthriscus caucalis](../Fichas/1664%20Anthriscus%20caucalis.md) · 1664
 - ⬜ [Anthriscus sylvestris](../Fichas/1665%20Anthriscus%20sylvestris.md) · 1665
 - ⬜ [Apium chilense](../Fichas/1666%20Apium%20chilense.md) · 1666
-- ⬜ [Apium fernandezianum](../Fichas/1667%20Apium%20fernandezianum.md) · 1667
+- ✅ [Apium fernandezianum](../Fichas/1667%20Apium%20fernandezianum.md) · 1667
 - ⬜ [Apium graveolens](../Fichas/1668%20Apium%20graveolens.md) · 1668
 - ⬜ [Apium nodiflorum](../Fichas/1670%20Apium%20nodiflorum.md) · 1670
 - ⬜ [Apium panul](../Fichas/1671%20Apium%20panul.md) · 1671
@@ -17,7 +17,7 @@
 - ⬜ [Asteriscium aemocarpon](../Fichas/1674%20Asteriscium%20aemocarpon.md) · 1674
 - ⬜ [Asteriscium chilense](../Fichas/1675%20Asteriscium%20chilense.md) · 1675
 - ⬜ [Asteriscium closii](../Fichas/1676%20Asteriscium%20closii.md) · 1676
-- ⬜ [Asteriscium vidalii](../Fichas/1677%20Asteriscium%20vidalii.md) · 1677
+- ✅ [Asteriscium vidalii](../Fichas/1677%20Asteriscium%20vidalii.md) · 1677
 - ⬜ [Azorella acaulis](../Fichas/1678%20Azorella%20acaulis.md) · 1678
 - ⬜ [Azorella albovaginata](../Fichas/1679%20Azorella%20albovaginata.md) · 1679
 - ⬜ [Azorella ameghinoi](../Fichas/1680%20Azorella%20ameghinoi.md) · 1680
@@ -25,7 +25,7 @@
 - ⬜ [Azorella biloba](../Fichas/1683%20Azorella%20biloba.md) · 1683
 - ⬜ [Azorella boelckei](../Fichas/1684%20Azorella%20boelckei.md) · 1684
 - ⬜ [Azorella burkartii](../Fichas/1685%20Azorella%20burkartii.md) · 1685
-- ⬜ [Azorella compacta](../Fichas/1686%20Azorella%20compacta.md) · 1686
+- ✅ [Azorella compacta](../Fichas/1686%20Azorella%20compacta.md) · 1686
 - ⬜ [Azorella crassipes](../Fichas/1688%20Azorella%20crassipes.md) · 1688
 - ⬜ [Azorella cryptantha](../Fichas/1689%20Azorella%20cryptantha.md) · 1689
 - ⬜ [Azorella diversifolia](../Fichas/1690%20Azorella%20diversifolia.md) · 1690
@@ -39,14 +39,14 @@
 - ⬜ [Azorella patagonica](../Fichas/1698%20Azorella%20patagonica.md) · 1698
 - ⬜ [Azorella prolifera](../Fichas/1699%20Azorella%20prolifera.md) · 1699
 - ⬜ [Azorella ranunculus](../Fichas/1700%20Azorella%20ranunculus.md) · 1700
-- ⬜ [Azorella ruizii](../Fichas/1701%20Azorella%20ruizii.md) · 1701
+- ✅ [Azorella ruizii](../Fichas/1701%20Azorella%20ruizii.md) · 1701
 - ⬜ [Azorella selago](../Fichas/1702%20Azorella%20selago.md) · 1702
 - ⬜ [Azorella spinosa](../Fichas/1703%20Azorella%20spinosa.md) · 1703
 - ⬜ [Azorella trifoliolata](../Fichas/1704%20Azorella%20trifoliolata.md) · 1704
 - ⬜ [Azorella trifurcata](../Fichas/1705%20Azorella%20trifurcata.md) · 1705
 - ⬜ [Azorella trisecta](../Fichas/1682%20Azorella%20trisecta.md) · 1682
 - ⬜ [Azorella ulicina](../Fichas/1706%20Azorella%20ulicina.md) · 1706
-- ⬜ [Azorella valentini](../Fichas/1687%20Azorella%20valentini.md) · 1687
+- ✅ [Azorella valentini](../Fichas/1687%20Azorella%20valentini.md) · 1687
 - ⬜ [Bolax caespitosa](../Fichas/1707%20Bolax%20caespitosa.md) · 1707
 - ⬜ [Bolax gummifera](../Fichas/1708%20Bolax%20gummifera.md) · 1708
 - ⬜ [Bowlesia incana](../Fichas/1709%20Bowlesia%20incana.md) · 1709
@@ -72,20 +72,20 @@
 - ⬜ [Eremocharis fruticosa](../Fichas/1729%20Eremocharis%20fruticosa.md) · 1729
 - ⬜ [Eryngium anomalum](../Fichas/1730%20Eryngium%20anomalum.md) · 1730
 - ⬜ [Eryngium atacamense](../Fichas/5878%20Eryngium%20atacamense.md) · 5878
-- ⬜ [Eryngium bupleuroides](../Fichas/1731%20Eryngium%20bupleuroides.md) · 1731
+- ✅ [Eryngium bupleuroides](../Fichas/1731%20Eryngium%20bupleuroides.md) · 1731
 - ⬜ [Eryngium cardosii](../Fichas/1732%20Eryngium%20cardosii.md) · 1732
 - ⬜ [Eryngium coquimbanum](../Fichas/1733%20Eryngium%20coquimbanum.md) · 1733
 - ⬜ [Eryngium crassifolium](../Fichas/5689%20Eryngium%20crassifolium.md) · 5689
 - ⬜ [Eryngium depressum](../Fichas/1734%20Eryngium%20depressum.md) · 1734
-- ⬜ [Eryngium fernandezianum](../Fichas/1735%20Eryngium%20fernandezianum.md) · 1735
+- ✅ [Eryngium fernandezianum](../Fichas/1735%20Eryngium%20fernandezianum.md) · 1735
 - ⬜ [Eryngium humifusum](../Fichas/1736%20Eryngium%20humifusum.md) · 1736
-- ⬜ [Eryngium inaccessum](../Fichas/1737%20Eryngium%20inaccessum.md) · 1737
-- ⬜ [Eryngium macracanthum](../Fichas/1738%20Eryngium%20macracanthum.md) · 1738
+- ✅ [Eryngium inaccessum](../Fichas/1737%20Eryngium%20inaccessum.md) · 1737
+- ✅ [Eryngium macracanthum](../Fichas/1738%20Eryngium%20macracanthum.md) · 1738
 - ⬜ [Eryngium paniculatum](../Fichas/1739%20Eryngium%20paniculatum.md) · 1739
 - ⬜ [Eryngium pseudojunceum](../Fichas/1741%20Eryngium%20pseudojunceum.md) · 1741
 - ⬜ [Eryngium pulchellum](../Fichas/1742%20Eryngium%20pulchellum.md) · 1742
 - ⬜ [Eryngium rostratum](../Fichas/1743%20Eryngium%20rostratum.md) · 1743
-- ⬜ [Eryngium sarcophyllum](../Fichas/1744%20Eryngium%20sarcophyllum.md) · 1744
+- ✅ [Eryngium sarcophyllum](../Fichas/1744%20Eryngium%20sarcophyllum.md) · 1744
 - ⬜ [Eryngium sparganoides](../Fichas/5890%20Eryngium%20sparganoides.md) · 5890
 - ⬜ [Foeniculum vulgare](../Fichas/1745%20Foeniculum%20vulgare.md) · 1745
 - ⬜ [Gymnophyton dipterygia](../Fichas/1749%20Gymnophyton%20dipterygia.md) · 1749

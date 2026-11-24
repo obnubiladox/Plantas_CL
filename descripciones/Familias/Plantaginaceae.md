@@ -1,6 +1,6 @@
 # Plantaginaceae
 
-[← Índice](../INDICE.md) · 0 de 81 especies con descripción.
+[← Índice](../INDICE.md) · 6 de 81 especies con descripción.
 
 - ⬜ [Antirrhinum majus](../Fichas/5930%20Antirrhinum%20majus.md) · 5930
 - ⬜ [Bacopa monnieri](../Fichas/4865%20Bacopa%20monnieri.md) · 4865
@@ -20,7 +20,7 @@
 - ⬜ [Fonkia uliginosa](../Fichas/4876%20Fonkia%20uliginosa.md) · 4876
 - ⬜ [Gratiola peruviana](../Fichas/4877%20Gratiola%20peruviana.md) · 4877
 - ⬜ [Hebe elliptica](../Fichas/4878%20Hebe%20elliptica.md) · 4878
-- ⬜ [Hebe salicifolia](../Fichas/4879%20Hebe%20salicifolia.md) · 4879
+- ✅ [Hebe salicifolia](../Fichas/4879%20Hebe%20salicifolia.md) · 4879
 - ⬜ [Hippuris vulgaris](../Fichas/4880%20Hippuris%20vulgaris.md) · 4880
 - ⬜ [Kickxia elatine](../Fichas/4881%20Kickxia%20elatine.md) · 4881
 - ⬜ [Limosella australis](../Fichas/4882%20Limosella%20australis.md) · 4882
@@ -30,8 +30,8 @@
 - ⬜ [Mecardonia procumbens var. procumbens](../Fichas/4887%20Mecardonia%20procumbens%20var.%20procumbens.md) · 4887
 - ⬜ [Melosperma andicola](../Fichas/4888%20Melosperma%20andicola.md) · 4888
 - ⬜ [Melosperma angustifolia](../Fichas/4889%20Melosperma%20angustifolia.md) · 4889
-- ⬜ [Monttea chilensis var. chilensis](../Fichas/4890%20Monttea%20chilensis%20var.%20chilensis.md) · 4890
-- ⬜ [Monttea chilensis var. taltalensis](../Fichas/4891%20Monttea%20chilensis%20var.%20taltalensis.md) · 4891
+- ✅ [Monttea chilensis var. chilensis](../Fichas/4890%20Monttea%20chilensis%20var.%20chilensis.md) · 4890
+- ✅ [Monttea chilensis var. taltalensis](../Fichas/4891%20Monttea%20chilensis%20var.%20taltalensis.md) · 4891
 - ⬜ [Nuttallanthus canadensis](../Fichas/4883%20Nuttallanthus%20canadensis.md) · 4883
 - ⬜ [Ourisia alpina](../Fichas/4892%20Ourisia%20alpina.md) · 4892
 - ⬜ [Ourisia breviflora subsp. breviflora](../Fichas/4893%20Ourisia%20breviflora%20subsp.%20breviflora.md) · 4893
@@ -51,20 +51,20 @@
 - ⬜ [Plantago barbata subsp. barbata](../Fichas/4908%20Plantago%20barbata%20subsp.%20barbata.md) · 4908
 - ⬜ [Plantago brasiliensis](../Fichas/4911%20Plantago%20brasiliensis.md) · 4911
 - ⬜ [Plantago coronopus](../Fichas/4912%20Plantago%20coronopus.md) · 4912
-- ⬜ [Plantago fernandezia](../Fichas/4913%20Plantago%20fernandezia.md) · 4913
+- ✅ [Plantago fernandezia](../Fichas/4913%20Plantago%20fernandezia.md) · 4913
 - ⬜ [Plantago firma](../Fichas/4914%20Plantago%20firma.md) · 4914
 - ⬜ [Plantago grandiflora](../Fichas/4915%20Plantago%20grandiflora.md) · 4915
 - ⬜ [Plantago hispidula](../Fichas/4916%20Plantago%20hispidula.md) · 4916
 - ⬜ [Plantago johnstonii](../Fichas/4917%20Plantago%20johnstonii.md) · 4917
 - ⬜ [Plantago lanceolata](../Fichas/4918%20Plantago%20lanceolata.md) · 4918
 - ⬜ [Plantago litorea](../Fichas/4919%20Plantago%20litorea.md) · 4919
-- ⬜ [Plantago lundborgii](../Fichas/4920%20Plantago%20lundborgii.md) · 4920
+- ✅ [Plantago lundborgii](../Fichas/4920%20Plantago%20lundborgii.md) · 4920
 - ⬜ [Plantago major](../Fichas/4921%20Plantago%20major.md) · 4921
 - ⬜ [Plantago maritima](../Fichas/4922%20Plantago%20maritima.md) · 4922
 - ⬜ [Plantago monanthos var. monanthos](../Fichas/4909%20Plantago%20monanthos%20var.%20monanthos.md) · 4909
 - ⬜ [Plantago monanthos var. muscoides](../Fichas/4910%20Plantago%20monanthos%20var.%20muscoides.md) · 4910
 - ⬜ [Plantago monticola](../Fichas/4928%20Plantago%20monticola.md) · 4928
-- ⬜ [Plantago nebularis](../Fichas/5751%20Plantago%20nebularis.md) · 5751
+- ✅ [Plantago nebularis](../Fichas/5751%20Plantago%20nebularis.md) · 5751
 - ⬜ [Plantago pachyneura](../Fichas/4923%20Plantago%20pachyneura.md) · 4923
 - ⬜ [Plantago rancaguae](../Fichas/4925%20Plantago%20rancaguae.md) · 4925
 - ⬜ [Plantago sempervivoides](../Fichas/4926%20Plantago%20sempervivoides.md) · 4926

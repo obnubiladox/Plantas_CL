@@ -1,6 +1,6 @@
 # Asteraceae
 
-[← Índice](../INDICE.md) · 0 de 1.020 especies con descripción.
+[← Índice](../INDICE.md) · 56 de 1.020 especies con descripción.
 
 - ⬜ [Abrotanella emarginata](../Fichas/1811%20Abrotanella%20emarginata.md) · 1811
 - ⬜ [Abrotanella linearifolia](../Fichas/1812%20Abrotanella%20linearifolia.md) · 1812
@@ -37,8 +37,8 @@
 - ⬜ [Antennaria chilensis var. magellanica](../Fichas/1843%20Antennaria%20chilensis%20var.%20magellanica.md) · 1843
 - ⬜ [Anthemis arvensis](../Fichas/1844%20Anthemis%20arvensis.md) · 1844
 - ⬜ [Anthemis cotula](../Fichas/1845%20Anthemis%20cotula.md) · 1845
-- ⬜ [Aphyllocladus denticulatus var. calvus](../Fichas/1846%20Aphyllocladus%20denticulatus%20var.%20calvus.md) · 1846
-- ⬜ [Aphyllocladus denticulatus var. denticulatus](../Fichas/1847%20Aphyllocladus%20denticulatus%20var.%20denticulatus.md) · 1847
+- ✅ [Aphyllocladus denticulatus var. calvus](../Fichas/1846%20Aphyllocladus%20denticulatus%20var.%20calvus.md) · 1846
+- ✅ [Aphyllocladus denticulatus var. denticulatus](../Fichas/1847%20Aphyllocladus%20denticulatus%20var.%20denticulatus.md) · 1847
 - ⬜ [Archidasyphyllum diacanthoides](../Fichas/1848%20Archidasyphyllum%20diacanthoides.md) · 1848
 - ⬜ [Archidasyphyllum excelsum](../Fichas/1849%20Archidasyphyllum%20excelsum.md) · 1849
 - ⬜ [Arctium minus](../Fichas/1850%20Arctium%20minus.md) · 1850
@@ -205,7 +205,7 @@
 - ⬜ [Conyza bonariensis var. angustifolia](../Fichas/2010%20Conyza%20bonariensis%20var.%20angustifolia.md) · 2010
 - ⬜ [Conyza bonariensis var. bonariensis](../Fichas/2011%20Conyza%20bonariensis%20var.%20bonariensis.md) · 2011
 - ⬜ [Conyza bustillosiana](../Fichas/2012%20Conyza%20bustillosiana.md) · 2012
-- ⬜ [Conyza copiapina](../Fichas/2013%20Conyza%20copiapina.md) · 2013
+- ✅ [Conyza copiapina](../Fichas/2013%20Conyza%20copiapina.md) · 2013
 - ⬜ [Conyza depilis](../Fichas/2014%20Conyza%20depilis.md) · 2014
 - ⬜ [Conyza deserticola](../Fichas/2015%20Conyza%20deserticola.md) · 2015
 - ⬜ [Conyza foliosa](../Fichas/2016%20Conyza%20foliosa.md) · 2016
@@ -235,18 +235,18 @@
 - ⬜ [Cuatrecasasiella argentina](../Fichas/2039%20Cuatrecasasiella%20argentina.md) · 2039
 - ⬜ [Cynara cardunculus](../Fichas/2040%20Cynara%20cardunculus.md) · 2040
 - ⬜ [Delairea odorata](../Fichas/2041%20Delairea%20odorata.md) · 2041
-- ⬜ [Dendroseris berteroana](../Fichas/2042%20Dendroseris%20berteroana.md) · 2042
-- ⬜ [Dendroseris gigantea](../Fichas/2043%20Dendroseris%20gigantea.md) · 2043
-- ⬜ [Dendroseris litoralis](../Fichas/2044%20Dendroseris%20litoralis.md) · 2044
-- ⬜ [Dendroseris macrantha](../Fichas/2045%20Dendroseris%20macrantha.md) · 2045
-- ⬜ [Dendroseris macrophylla](../Fichas/2046%20Dendroseris%20macrophylla.md) · 2046
-- ⬜ [Dendroseris marginata](../Fichas/2047%20Dendroseris%20marginata.md) · 2047
-- ⬜ [Dendroseris micrantha](../Fichas/2048%20Dendroseris%20micrantha.md) · 2048
-- ⬜ [Dendroseris neriifolia](../Fichas/2049%20Dendroseris%20neriifolia.md) · 2049
-- ⬜ [Dendroseris pinnata](../Fichas/2050%20Dendroseris%20pinnata.md) · 2050
-- ⬜ [Dendroseris pruinata](../Fichas/2051%20Dendroseris%20pruinata.md) · 2051
-- ⬜ [Dendroseris regia](../Fichas/2052%20Dendroseris%20regia.md) · 2052
-- ⬜ [Diplostephium cinereum](../Fichas/2053%20Diplostephium%20cinereum.md) · 2053
+- ✅ [Dendroseris berteroana](../Fichas/2042%20Dendroseris%20berteroana.md) · 2042
+- ✅ [Dendroseris gigantea](../Fichas/2043%20Dendroseris%20gigantea.md) · 2043
+- ✅ [Dendroseris litoralis](../Fichas/2044%20Dendroseris%20litoralis.md) · 2044
+- ✅ [Dendroseris macrantha](../Fichas/2045%20Dendroseris%20macrantha.md) · 2045
+- ✅ [Dendroseris macrophylla](../Fichas/2046%20Dendroseris%20macrophylla.md) · 2046
+- ✅ [Dendroseris marginata](../Fichas/2047%20Dendroseris%20marginata.md) · 2047
+- ✅ [Dendroseris micrantha](../Fichas/2048%20Dendroseris%20micrantha.md) · 2048
+- ✅ [Dendroseris neriifolia](../Fichas/2049%20Dendroseris%20neriifolia.md) · 2049
+- ✅ [Dendroseris pinnata](../Fichas/2050%20Dendroseris%20pinnata.md) · 2050
+- ✅ [Dendroseris pruinata](../Fichas/2051%20Dendroseris%20pruinata.md) · 2051
+- ✅ [Dendroseris regia](../Fichas/2052%20Dendroseris%20regia.md) · 2052
+- ✅ [Diplostephium cinereum](../Fichas/2053%20Diplostephium%20cinereum.md) · 2053
 - ⬜ [Diplostephium meyenii](../Fichas/2054%20Diplostephium%20meyenii.md) · 2054
 - ⬜ [Diplostephium paposanum](../Fichas/5889%20Diplostephium%20paposanum.md) · 5889
 - ⬜ [Diplostephium tacorense](../Fichas/2055%20Diplostephium%20tacorense.md) · 2055
@@ -262,20 +262,20 @@
 - ⬜ [Erigeron campanensis](../Fichas/2066%20Erigeron%20campanensis.md) · 2066
 - ⬜ [Erigeron cinereus](../Fichas/2067%20Erigeron%20cinereus.md) · 2067
 - ⬜ [Erigeron fasciculatus](../Fichas/2068%20Erigeron%20fasciculatus.md) · 2068
-- ⬜ [Erigeron fernandezius](../Fichas/2069%20Erigeron%20fernandezius.md) · 2069
+- ✅ [Erigeron fernandezius](../Fichas/2069%20Erigeron%20fernandezius.md) · 2069
 - ⬜ [Erigeron gilliesii](../Fichas/2070%20Erigeron%20gilliesii.md) · 2070
 - ⬜ [Erigeron illapelinus](../Fichas/2071%20Erigeron%20illapelinus.md) · 2071
-- ⬜ [Erigeron ingae](../Fichas/2072%20Erigeron%20ingae.md) · 2072
+- ✅ [Erigeron ingae](../Fichas/2072%20Erigeron%20ingae.md) · 2072
 - ⬜ [Erigeron karvinskianus](../Fichas/2073%20Erigeron%20karvinskianus.md) · 2073
 - ⬜ [Erigeron leptopetalus](../Fichas/2074%20Erigeron%20leptopetalus.md) · 2074
-- ⬜ [Erigeron luteoviridis](../Fichas/2075%20Erigeron%20luteoviridis.md) · 2075
+- ✅ [Erigeron luteoviridis](../Fichas/2075%20Erigeron%20luteoviridis.md) · 2075
 - ⬜ [Erigeron luxurians](../Fichas/2076%20Erigeron%20luxurians.md) · 2076
 - ⬜ [Erigeron myosotis](../Fichas/2077%20Erigeron%20myosotis.md) · 2077
 - ⬜ [Erigeron othonnifolius](../Fichas/2078%20Erigeron%20othonnifolius.md) · 2078
 - ⬜ [Erigeron patagonicus](../Fichas/2079%20Erigeron%20patagonicus.md) · 2079
 - ⬜ [Erigeron pulcher](../Fichas/2080%20Erigeron%20pulcher.md) · 2080
 - ⬜ [Erigeron rosulatus](../Fichas/2081%20Erigeron%20rosulatus.md) · 2081
-- ⬜ [Erigeron rupicola](../Fichas/2082%20Erigeron%20rupicola.md) · 2082
+- ✅ [Erigeron rupicola](../Fichas/2082%20Erigeron%20rupicola.md) · 2082
 - ⬜ [Erigeron schnackii](../Fichas/5875%20Erigeron%20schnackii.md) · 5875
 - ⬜ [Erigeron stuessyi](../Fichas/2083%20Erigeron%20stuessyi.md) · 2083
 - ⬜ [Facelis plumosa](../Fichas/2086%20Facelis%20plumosa.md) · 2086
@@ -291,7 +291,7 @@
 - ⬜ [Gamochaeta andina](../Fichas/2096%20Gamochaeta%20andina.md) · 2096
 - ⬜ [Gamochaeta axillaris](../Fichas/2097%20Gamochaeta%20axillaris.md) · 2097
 - ⬜ [Gamochaeta carloramirezii](../Fichas/5891%20Gamochaeta%20carloramirezii.md) · 5891
-- ⬜ [Gamochaeta chamissonis](../Fichas/2098%20Gamochaeta%20chamissonis.md) · 2098
+- ✅ [Gamochaeta chamissonis](../Fichas/2098%20Gamochaeta%20chamissonis.md) · 2098
 - ⬜ [Gamochaeta depilata](../Fichas/2099%20Gamochaeta%20depilata.md) · 2099
 - ⬜ [Gamochaeta deserticola](../Fichas/2100%20Gamochaeta%20deserticola.md) · 2100
 - ⬜ [Gamochaeta falcata](../Fichas/2101%20Gamochaeta%20falcata.md) · 2101
@@ -318,16 +318,16 @@
 - ⬜ [Gutierrezia baccharoides](../Fichas/2122%20Gutierrezia%20baccharoides.md) · 2122
 - ⬜ [Gutierrezia espinosae](../Fichas/2123%20Gutierrezia%20espinosae.md) · 2123
 - ⬜ [Gutierrezia gayana](../Fichas/2124%20Gutierrezia%20gayana.md) · 2124
-- ⬜ [Gutierrezia neaeana](../Fichas/2125%20Gutierrezia%20neaeana.md) · 2125
+- ✅ [Gutierrezia neaeana](../Fichas/2125%20Gutierrezia%20neaeana.md) · 2125
 - ⬜ [Gutierrezia resinosa](../Fichas/2126%20Gutierrezia%20resinosa.md) · 2126
-- ⬜ [Gutierrezia taltalensis](../Fichas/2127%20Gutierrezia%20taltalensis.md) · 2127
+- ✅ [Gutierrezia taltalensis](../Fichas/2127%20Gutierrezia%20taltalensis.md) · 2127
 - ⬜ [Guynesomia scoparia](../Fichas/2128%20Guynesomia%20scoparia.md) · 2128
-- ⬜ [Gypothamnium pinifolium](../Fichas/2129%20Gypothamnium%20pinifolium.md) · 2129
+- ✅ [Gypothamnium pinifolium](../Fichas/2129%20Gypothamnium%20pinifolium.md) · 2129
 - ⬜ [Haplopappus angustifolius subsp. angustifolius](../Fichas/2130%20Haplopappus%20angustifolius%20subsp.%20angustifolius.md) · 2130
 - ⬜ [Haplopappus angustifolius subsp. saxatilis](../Fichas/2131%20Haplopappus%20angustifolius%20subsp.%20saxatilis.md) · 2131
 - ⬜ [Haplopappus anthylloides](../Fichas/2132%20Haplopappus%20anthylloides.md) · 2132
 - ⬜ [Haplopappus arbutoides](../Fichas/2133%20Haplopappus%20arbutoides.md) · 2133
-- ⬜ [Haplopappus baylahuen subsp. baylahuen](../Fichas/2134%20Haplopappus%20baylahuen%20subsp.%20baylahuen.md) · 2134
+- ✅ [Haplopappus baylahuen subsp. baylahuen](../Fichas/2134%20Haplopappus%20baylahuen%20subsp.%20baylahuen.md) · 2134
 - ⬜ [Haplopappus baylahuen subsp. fluehmannii](../Fichas/2135%20Haplopappus%20baylahuen%20subsp.%20fluehmannii.md) · 2135
 - ⬜ [Haplopappus bezanillanus](../Fichas/2136%20Haplopappus%20bezanillanus.md) · 2136
 - ⬜ [Haplopappus bustillosianus](../Fichas/2137%20Haplopappus%20bustillosianus.md) · 2137
@@ -355,9 +355,9 @@
 - ⬜ [Haplopappus meyenii](../Fichas/2157%20Haplopappus%20meyenii.md) · 2157
 - ⬜ [Haplopappus mieresii](../Fichas/2158%20Haplopappus%20mieresii.md) · 2158
 - ⬜ [Haplopappus mucronatus](../Fichas/2159%20Haplopappus%20mucronatus.md) · 2159
-- ⬜ [Haplopappus multifolius subsp. baccharidiformis](../Fichas/2160%20Haplopappus%20multifolius%20subsp.%20baccharidiformis.md) · 2160
-- ⬜ [Haplopappus multifolius subsp. multifolius](../Fichas/2161%20Haplopappus%20multifolius%20subsp.%20multifolius.md) · 2161
-- ⬜ [Haplopappus multifolius subsp. ovalifolius](../Fichas/2162%20Haplopappus%20multifolius%20subsp.%20ovalifolius.md) · 2162
+- ✅ [Haplopappus multifolius subsp. baccharidiformis](../Fichas/2160%20Haplopappus%20multifolius%20subsp.%20baccharidiformis.md) · 2160
+- ✅ [Haplopappus multifolius subsp. multifolius](../Fichas/2161%20Haplopappus%20multifolius%20subsp.%20multifolius.md) · 2161
+- ✅ [Haplopappus multifolius subsp. ovalifolius](../Fichas/2162%20Haplopappus%20multifolius%20subsp.%20ovalifolius.md) · 2162
 - ⬜ [Haplopappus nahuelbutae](../Fichas/2163%20Haplopappus%20nahuelbutae.md) · 2163
 - ⬜ [Haplopappus ochagavianus](../Fichas/2164%20Haplopappus%20ochagavianus.md) · 2164
 - ⬜ [Haplopappus parvifolius](../Fichas/2165%20Haplopappus%20parvifolius.md) · 2165
@@ -381,7 +381,7 @@
 - ⬜ [Haplopappus setulosus](../Fichas/2183%20Haplopappus%20setulosus.md) · 2183
 - ⬜ [Haplopappus stelliger](../Fichas/2184%20Haplopappus%20stelliger.md) · 2184
 - ⬜ [Haplopappus stolpii](../Fichas/2185%20Haplopappus%20stolpii.md) · 2185
-- ⬜ [Haplopappus taeda](../Fichas/2186%20Haplopappus%20taeda.md) · 2186
+- ✅ [Haplopappus taeda](../Fichas/2186%20Haplopappus%20taeda.md) · 2186
 - ⬜ [Haplopappus teillieri](../Fichas/5769%20Haplopappus%20teillieri.md) · 5769
 - ⬜ [Haplopappus uncinatus](../Fichas/2187%20Haplopappus%20uncinatus.md) · 2187
 - ⬜ [Haplopappus undulatus](../Fichas/2188%20Haplopappus%20undulatus.md) · 2188
@@ -453,7 +453,7 @@
 - ⬜ [Leontodon autumnalis](../Fichas/2246%20Leontodon%20autumnalis.md) · 2246
 - ⬜ [Leontodon hirtus](../Fichas/2247%20Leontodon%20hirtus.md) · 2247
 - ⬜ [Leontodon saxatilis](../Fichas/2248%20Leontodon%20saxatilis.md) · 2248
-- ⬜ [Lepidophyllum cupressiforme](../Fichas/2249%20Lepidophyllum%20cupressiforme.md) · 2249
+- ✅ [Lepidophyllum cupressiforme](../Fichas/2249%20Lepidophyllum%20cupressiforme.md) · 2249
 - ⬜ [Leptinella scariosa](../Fichas/2250%20Leptinella%20scariosa.md) · 2250
 - ⬜ [Leptocarpha rivularis](../Fichas/2251%20Leptocarpha%20rivularis.md) · 2251
 - ⬜ [Leucanthemum vulgare](../Fichas/2252%20Leucanthemum%20vulgare.md) · 2252
@@ -462,7 +462,7 @@
 - ⬜ [Leucheria apiifolia](../Fichas/2255%20Leucheria%20apiifolia.md) · 2255
 - ⬜ [Leucheria bridgesii](../Fichas/2256%20Leucheria%20bridgesii.md) · 2256
 - ⬜ [Leucheria candidissima](../Fichas/2257%20Leucheria%20candidissima.md) · 2257
-- ⬜ [Leucheria cantillanensis](../Fichas/5691%20Leucheria%20cantillanensis.md) · 5691
+- ✅ [Leucheria cantillanensis](../Fichas/5691%20Leucheria%20cantillanensis.md) · 5691
 - ⬜ [Leucheria coerulescens](../Fichas/2259%20Leucheria%20coerulescens.md) · 2259
 - ⬜ [Leucheria daucifolia](../Fichas/2262%20Leucheria%20daucifolia.md) · 2262
 - ⬜ [Leucheria eriocephala](../Fichas/5712%20Leucheria%20eriocephala.md) · 5712
@@ -477,7 +477,7 @@
 - ⬜ [Leucheria meladensis](../Fichas/2277%20Leucheria%20meladensis.md) · 2277
 - ⬜ [Leucheria nutans](../Fichas/2281%20Leucheria%20nutans.md) · 2281
 - ⬜ [Leucheria peteroana](../Fichas/5823%20Leucheria%20peteroana.md) · 5823
-- ⬜ [Leucheria polyclados](../Fichas/2285%20Leucheria%20polyclados.md) · 2285
+- ✅ [Leucheria polyclados](../Fichas/2285%20Leucheria%20polyclados.md) · 2285
 - ⬜ [Leucheria purpurea](../Fichas/2287%20Leucheria%20purpurea.md) · 2287
 - ⬜ [Leucheria rosea](../Fichas/2288%20Leucheria%20rosea.md) · 2288
 - ⬜ [Leucheria runcinata](../Fichas/2289%20Leucheria%20runcinata.md) · 2289
@@ -492,13 +492,13 @@
 - ⬜ [Lophopappus cuneatus](../Fichas/2300%20Lophopappus%20cuneatus.md) · 2300
 - ⬜ [Lophopappus foliosus](../Fichas/2301%20Lophopappus%20foliosus.md) · 2301
 - ⬜ [Lophopappus tarapacanus](../Fichas/2302%20Lophopappus%20tarapacanus.md) · 2302
-- ⬜ [Lycapsus tenuifolius](../Fichas/2304%20Lycapsus%20tenuifolius.md) · 2304
+- ✅ [Lycapsus tenuifolius](../Fichas/2304%20Lycapsus%20tenuifolius.md) · 2304
 - ⬜ [Macrachaenium gracile](../Fichas/2305%20Macrachaenium%20gracile.md) · 2305
 - ⬜ [Madia chilensis](../Fichas/2306%20Madia%20chilensis.md) · 2306
 - ⬜ [Madia sativa](../Fichas/2307%20Madia%20sativa.md) · 2307
 - ⬜ [Malacothrix clevelandii](../Fichas/2308%20Malacothrix%20clevelandii.md) · 2308
 - ⬜ [Malacothrix coulteri](../Fichas/2309%20Malacothrix%20coulteri.md) · 2309
-- ⬜ [Marticorenia foliosa](../Fichas/2310%20Marticorenia%20foliosa.md) · 2310
+- ✅ [Marticorenia foliosa](../Fichas/2310%20Marticorenia%20foliosa.md) · 2310
 - ⬜ [Matricaria chamomilla](../Fichas/2311%20Matricaria%20chamomilla.md) · 2311
 - ⬜ [Matricaria discoidea](../Fichas/2312%20Matricaria%20discoidea.md) · 2312
 - ⬜ [Micropsis nana](../Fichas/2313%20Micropsis%20nana.md) · 2313
@@ -542,7 +542,7 @@
 - ⬜ [Mutisia tridens](../Fichas/2350%20Mutisia%20tridens.md) · 2350
 - ⬜ [Nardophyllum bryoides](../Fichas/2351%20Nardophyllum%20bryoides.md) · 2351
 - ⬜ [Nardophyllum chiliotrichioides](../Fichas/2352%20Nardophyllum%20chiliotrichioides.md) · 2352
-- ⬜ [Nardophyllum genistoides](../Fichas/2353%20Nardophyllum%20genistoides.md) · 2353
+- ✅ [Nardophyllum genistoides](../Fichas/2353%20Nardophyllum%20genistoides.md) · 2353
 - ⬜ [Nardophyllum lanatum](../Fichas/2354%20Nardophyllum%20lanatum.md) · 2354
 - ⬜ [Nassauvia aculeata var. aculeata](../Fichas/2355%20Nassauvia%20aculeata%20var.%20aculeata.md) · 2355
 - ⬜ [Nassauvia aculeata var. azorelloides](../Fichas/2356%20Nassauvia%20aculeata%20var.%20azorelloides.md) · 2356
@@ -581,7 +581,7 @@
 - ⬜ [Notopappus chryseus var. discoides](../Fichas/2389%20Notopappus%20chryseus%20var.%20discoides.md) · 2389
 - ⬜ [Notopappus pectinatus](../Fichas/2390%20Notopappus%20pectinatus.md) · 2390
 - ⬜ [Notopappus prunelloides](../Fichas/2391%20Notopappus%20prunelloides.md) · 2391
-- ⬜ [Ocyroe armata](../Fichas/2392%20Ocyroe%20armata.md) · 2392
+- ✅ [Ocyroe armata](../Fichas/2392%20Ocyroe%20armata.md) · 2392
 - ⬜ [Onopordum acanthium](../Fichas/2393%20Onopordum%20acanthium.md) · 2393
 - ⬜ [Ophryosporus anomalus](../Fichas/2394%20Ophryosporus%20anomalus.md) · 2394
 - ⬜ [Ophryosporus floribundus](../Fichas/2395%20Ophryosporus%20floribundus.md) · 2395
@@ -608,7 +608,7 @@
 - ⬜ [Oriastrum stuebelii var. stuebelii](../Fichas/2417%20Oriastrum%20stuebelii%20var.%20stuebelii.md) · 2417
 - ⬜ [Oriastrum tarapacensis](../Fichas/2418%20Oriastrum%20tarapacensis.md) · 2418
 - ⬜ [Oriastrum werdermannii](../Fichas/2419%20Oriastrum%20werdermannii.md) · 2419
-- ⬜ [Oxyphyllum ulicinum](../Fichas/2420%20Oxyphyllum%20ulicinum.md) · 2420
+- ✅ [Oxyphyllum ulicinum](../Fichas/2420%20Oxyphyllum%20ulicinum.md) · 2420
 - ⬜ [Pachylaena atriplicifolia](../Fichas/2421%20Pachylaena%20atriplicifolia.md) · 2421
 - ⬜ [Parastrephia lepidophylla](../Fichas/2422%20Parastrephia%20lepidophylla.md) · 2422
 - ⬜ [Parastrephia lucida](../Fichas/2423%20Parastrephia%20lucida.md) · 2423
@@ -644,7 +644,7 @@
 - ⬜ [Picradeniopsis multiflora](../Fichas/2452%20Picradeniopsis%20multiflora.md) · 2452
 - ⬜ [Picrosia longifolia](../Fichas/2454%20Picrosia%20longifolia.md) · 2454
 - ⬜ [Plazia cheiranthifolia](../Fichas/2455%20Plazia%20cheiranthifolia.md) · 2455
-- ⬜ [Plazia daphnoides](../Fichas/2456%20Plazia%20daphnoides.md) · 2456
+- ✅ [Plazia daphnoides](../Fichas/2456%20Plazia%20daphnoides.md) · 2456
 - ⬜ [Plectocephalus atacamensis](../Fichas/1930%20Plectocephalus%20atacamensis.md) · 1930
 - ⬜ [Plectocephalus bridgesii](../Fichas/5719%20Plectocephalus%20bridgesii.md) · 5719
 - ⬜ [Plectocephalus bulbosus](../Fichas/1932%20Plectocephalus%20bulbosus.md) · 1932
@@ -652,8 +652,8 @@
 - ⬜ [Plectocephalus chilensis var. brevilobus](../Fichas/1935%20Plectocephalus%20chilensis%20var.%20brevilobus.md) · 1935
 - ⬜ [Plectocephalus chilensis var. chilensis](../Fichas/1936%20Plectocephalus%20chilensis%20var.%20chilensis.md) · 1936
 - ⬜ [Plectocephalus floccosus](../Fichas/1940%20Plectocephalus%20floccosus.md) · 1940
-- ⬜ [Plectocephalus formosus](../Fichas/5752%20Plectocephalus%20formosus.md) · 5752
-- ⬜ [Plectocephalus gayanus](../Fichas/1941%20Plectocephalus%20gayanus.md) · 1941
+- ✅ [Plectocephalus formosus](../Fichas/5752%20Plectocephalus%20formosus.md) · 5752
+- ✅ [Plectocephalus gayanus](../Fichas/1941%20Plectocephalus%20gayanus.md) · 1941
 - ⬜ [Plectocephalus illapelinus](../Fichas/5742%20Plectocephalus%20illapelinus.md) · 5742
 - ⬜ [Plectocephalus monocephalus](../Fichas/1944%20Plectocephalus%20monocephalus.md) · 1944
 - ⬜ [Pleocarphus revolutus](../Fichas/2457%20Pleocarphus%20revolutus.md) · 2457
@@ -688,14 +688,14 @@
 - ⬜ [Pseudogynoxys cordifolia](../Fichas/2486%20Pseudogynoxys%20cordifolia.md) · 2486
 - ⬜ [Psilocarphus brevissimus](../Fichas/2487%20Psilocarphus%20brevissimus.md) · 2487
 - ⬜ [Psilocarphus tenellus var. globifer](../Fichas/2488%20Psilocarphus%20tenellus%20var.%20globifer.md) · 2488
-- ⬜ [Robinsonia berteroi](../Fichas/2519%20Robinsonia%20berteroi.md) · 2519
-- ⬜ [Robinsonia evenia](../Fichas/2575%20Robinsonia%20evenia.md) · 2575
-- ⬜ [Robinsonia gayana](../Fichas/2551%20Robinsonia%20gayana.md) · 2551
-- ⬜ [Robinsonia gracilis](../Fichas/2556%20Robinsonia%20gracilis.md) · 2556
-- ⬜ [Robinsonia macrocephala](../Fichas/2641%20Robinsonia%20macrocephala.md) · 2641
-- ⬜ [Robinsonia masafuerae](../Fichas/2640%20Robinsonia%20masafuerae.md) · 2640
-- ⬜ [Robinsonia saxatilis](../Fichas/2679%20Robinsonia%20saxatilis.md) · 2679
-- ⬜ [Robinsonia thurifera](../Fichas/2730%20Robinsonia%20thurifera.md) · 2730
+- ✅ [Robinsonia berteroi](../Fichas/2519%20Robinsonia%20berteroi.md) · 2519
+- ✅ [Robinsonia evenia](../Fichas/2575%20Robinsonia%20evenia.md) · 2575
+- ✅ [Robinsonia gayana](../Fichas/2551%20Robinsonia%20gayana.md) · 2551
+- ✅ [Robinsonia gracilis](../Fichas/2556%20Robinsonia%20gracilis.md) · 2556
+- ✅ [Robinsonia macrocephala](../Fichas/2641%20Robinsonia%20macrocephala.md) · 2641
+- ✅ [Robinsonia masafuerae](../Fichas/2640%20Robinsonia%20masafuerae.md) · 2640
+- ✅ [Robinsonia saxatilis](../Fichas/2679%20Robinsonia%20saxatilis.md) · 2679
+- ✅ [Robinsonia thurifera](../Fichas/2730%20Robinsonia%20thurifera.md) · 2730
 - ⬜ [Schkuhria pinnata](../Fichas/2489%20Schkuhria%20pinnata.md) · 2489
 - ⬜ [Scolymus hispanicus](../Fichas/2490%20Scolymus%20hispanicus.md) · 2490
 - ⬜ [Senecio adenophyllus](../Fichas/2492%20Senecio%20adenophyllus.md) · 2492
@@ -717,7 +717,7 @@
 - ⬜ [Senecio atacamensis](../Fichas/2510%20Senecio%20atacamensis.md) · 2510
 - ⬜ [Senecio baccharidifolius](../Fichas/2511%20Senecio%20baccharidifolius.md) · 2511
 - ⬜ [Senecio bahioides](../Fichas/2512%20Senecio%20bahioides.md) · 2512
-- ⬜ [Senecio balsamicus](../Fichas/2513%20Senecio%20balsamicus.md) · 2513
+- ✅ [Senecio balsamicus](../Fichas/2513%20Senecio%20balsamicus.md) · 2513
 - ⬜ [Senecio barbarae](../Fichas/2514%20Senecio%20barbarae.md) · 2514
 - ⬜ [Senecio barrosianus](../Fichas/2515%20Senecio%20barrosianus.md) · 2515
 - ⬜ [Senecio beaufilsii](../Fichas/2516%20Senecio%20beaufilsii.md) · 2516
@@ -760,7 +760,7 @@
 - ⬜ [Senecio cumingii var. cumingii](../Fichas/2559%20Senecio%20cumingii%20var.%20cumingii.md) · 2559
 - ⬜ [Senecio cuneatus](../Fichas/2560%20Senecio%20cuneatus.md) · 2560
 - ⬜ [Senecio darwinii](../Fichas/2561%20Senecio%20darwinii.md) · 2561
-- ⬜ [Senecio davilae](../Fichas/2562%20Senecio%20davilae.md) · 2562
+- ✅ [Senecio davilae](../Fichas/2562%20Senecio%20davilae.md) · 2562
 - ⬜ [Senecio depressus](../Fichas/2563%20Senecio%20depressus.md) · 2563
 - ⬜ [Senecio dichotomus](../Fichas/2564%20Senecio%20dichotomus.md) · 2564
 - ⬜ [Senecio diemii](../Fichas/2565%20Senecio%20diemii.md) · 2565
@@ -813,7 +813,7 @@
 - ⬜ [Senecio jilesii](../Fichas/2612%20Senecio%20jilesii.md) · 2612
 - ⬜ [Senecio johnstonianus](../Fichas/2613%20Senecio%20johnstonianus.md) · 2613
 - ⬜ [Senecio jorquerae](../Fichas/2614%20Senecio%20jorquerae.md) · 2614
-- ⬜ [Senecio jungei](../Fichas/2615%20Senecio%20jungei.md) · 2615
+- ✅ [Senecio jungei](../Fichas/2615%20Senecio%20jungei.md) · 2615
 - ⬜ [Senecio keshua](../Fichas/2751%20Senecio%20keshua.md) · 2751
 - ⬜ [Senecio kingii](../Fichas/2616%20Senecio%20kingii.md) · 2616
 - ⬜ [Senecio laetevirens](../Fichas/2617%20Senecio%20laetevirens.md) · 2617
@@ -825,7 +825,7 @@
 - ⬜ [Senecio leucomallus](../Fichas/2624%20Senecio%20leucomallus.md) · 2624
 - ⬜ [Senecio leucophyton](../Fichas/2625%20Senecio%20leucophyton.md) · 2625
 - ⬜ [Senecio leucus](../Fichas/2626%20Senecio%20leucus.md) · 2626
-- ⬜ [Senecio linaresensis](../Fichas/2627%20Senecio%20linaresensis.md) · 2627
+- ✅ [Senecio linaresensis](../Fichas/2627%20Senecio%20linaresensis.md) · 2627
 - ⬜ [Senecio linariifolius var. aclonetus](../Fichas/2628%20Senecio%20linariifolius%20var.%20aclonetus.md) · 2628
 - ⬜ [Senecio linariifolius var. heliophytoides](../Fichas/2629%20Senecio%20linariifolius%20var.%20heliophytoides.md) · 2629
 - ⬜ [Senecio linariifolius var. linariifolius](../Fichas/2630%20Senecio%20linariifolius%20var.%20linariifolius.md) · 2630
@@ -843,7 +843,7 @@
 - ⬜ [Senecio microcephalus var. microcephalus](../Fichas/2645%20Senecio%20microcephalus%20var.%20microcephalus.md) · 2645
 - ⬜ [Senecio microphyllus](../Fichas/2646%20Senecio%20microphyllus.md) · 2646
 - ⬜ [Senecio micropifolius](../Fichas/2647%20Senecio%20micropifolius.md) · 2647
-- ⬜ [Senecio microtis](../Fichas/2648%20Senecio%20microtis.md) · 2648
+- ✅ [Senecio microtis](../Fichas/2648%20Senecio%20microtis.md) · 2648
 - ⬜ [Senecio minutifolius](../Fichas/2649%20Senecio%20minutifolius.md) · 2649
 - ⬜ [Senecio miser](../Fichas/2650%20Senecio%20miser.md) · 2650
 - ⬜ [Senecio monttianus](../Fichas/2651%20Senecio%20monttianus.md) · 2651
@@ -892,12 +892,12 @@
 - ⬜ [Senecio pseuderucoides](../Fichas/2697%20Senecio%20pseuderucoides.md) · 2697
 - ⬜ [Senecio pubescens](../Fichas/2698%20Senecio%20pubescens.md) · 2698
 - ⬜ [Senecio puchei](../Fichas/2699%20Senecio%20puchei.md) · 2699
-- ⬜ [Senecio pycnanthus](../Fichas/2700%20Senecio%20pycnanthus.md) · 2700
+- ✅ [Senecio pycnanthus](../Fichas/2700%20Senecio%20pycnanthus.md) · 2700
 - ⬜ [Senecio pygmophyllus](../Fichas/2701%20Senecio%20pygmophyllus.md) · 2701
 - ⬜ [Senecio rahmeri var. rahmeri](../Fichas/2702%20Senecio%20rahmeri%20var.%20rahmeri.md) · 2702
 - ⬜ [Senecio reicheanus](../Fichas/2703%20Senecio%20reicheanus.md) · 2703
 - ⬜ [Senecio renjifoanus](../Fichas/2704%20Senecio%20renjifoanus.md) · 2704
-- ⬜ [Senecio ricardii](../Fichas/2705%20Senecio%20ricardii.md) · 2705
+- ✅ [Senecio ricardii](../Fichas/2705%20Senecio%20ricardii.md) · 2705
 - ⬜ [Senecio rodolfoi](../Fichas/2634%20Senecio%20rodolfoi.md) · 2634
 - ⬜ [Senecio santelicis](../Fichas/2706%20Senecio%20santelicis.md) · 2706
 - ⬜ [Senecio santiagoensis](../Fichas/2707%20Senecio%20santiagoensis.md) · 2707
@@ -978,8 +978,8 @@
 - ⬜ [Taraxacum officinale](../Fichas/2781%20Taraxacum%20officinale.md) · 2781
 - ⬜ [Taraxacum stictophyllum](../Fichas/5872%20Taraxacum%20stictophyllum.md) · 5872
 - ⬜ [Tessaria absinthioides](../Fichas/2782%20Tessaria%20absinthioides.md) · 2782
-- ⬜ [Thamnoseris lacerata](../Fichas/2783%20Thamnoseris%20lacerata.md) · 2783
-- ⬜ [Thamnoseris lacerata](../Fichas/2784%20Thamnoseris%20lacerata.md) · 2784
+- ✅ [Thamnoseris lacerata](../Fichas/2783%20Thamnoseris%20lacerata.md) · 2783
+- ✅ [Thamnoseris lacerata](../Fichas/2784%20Thamnoseris%20lacerata.md) · 2784
 - ⬜ [Tolpis barbata](../Fichas/2785%20Tolpis%20barbata.md) · 2785
 - ⬜ [Tragopogon dubius](../Fichas/2786%20Tragopogon%20dubius.md) · 2786
 - ⬜ [Tragopogon porrifolius](../Fichas/2787%20Tragopogon%20porrifolius.md) · 2787

@@ -1,15 +1,15 @@
 # Iridaceae
 
-[← Índice](../INDICE.md) · 0 de 42 especies con descripción.
+[← Índice](../INDICE.md) · 3 de 42 especies con descripción.
 
-- ⬜ [Calydorea xiphioides](../Fichas/849%20Calydorea%20xiphioides.md) · 849
+- ✅ [Calydorea xiphioides](../Fichas/849%20Calydorea%20xiphioides.md) · 849
 - ⬜ [Crocosmia crocosmiiflora](../Fichas/850%20Crocosmia%20crocosmiiflora.md) · 850
 - ⬜ [Herbertia lahue](../Fichas/851%20Herbertia%20lahue.md) · 851
 - ⬜ [Iris germanica](../Fichas/852%20Iris%20germanica.md) · 852
 - ⬜ [Iris pseudacorus](../Fichas/853%20Iris%20pseudacorus.md) · 853
 - ⬜ [Libertia chilensis](../Fichas/854%20Libertia%20chilensis.md) · 854
 - ⬜ [Libertia sessiliflora](../Fichas/855%20Libertia%20sessiliflora.md) · 855
-- ⬜ [Libertia tricocca](../Fichas/856%20Libertia%20tricocca.md) · 856
+- ✅ [Libertia tricocca](../Fichas/856%20Libertia%20tricocca.md) · 856
 - ⬜ [Mastigostyla cyrtophylla](../Fichas/857%20Mastigostyla%20cyrtophylla.md) · 857
 - ⬜ [Olsynium biflorum](../Fichas/858%20Olsynium%20biflorum.md) · 858
 - ⬜ [Olsynium chrysochromum](../Fichas/859%20Olsynium%20chrysochromum.md) · 859
@@ -42,5 +42,5 @@
 - ⬜ [Solenomelus pedunculatus](../Fichas/886%20Solenomelus%20pedunculatus.md) · 886
 - ⬜ [Solenomelus segethii](../Fichas/887%20Solenomelus%20segethii.md) · 887
 - ⬜ [Tapeinia pumila](../Fichas/888%20Tapeinia%20pumila.md) · 888
-- ⬜ [Tigridia philippiana](../Fichas/889%20Tigridia%20philippiana.md) · 889
+- ✅ [Tigridia philippiana](../Fichas/889%20Tigridia%20philippiana.md) · 889
 - ⬜ [Tigridia riedemanniae](../Fichas/5820%20Tigridia%20riedemanniae.md) · 5820

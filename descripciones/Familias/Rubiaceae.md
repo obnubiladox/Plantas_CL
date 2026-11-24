@@ -1,9 +1,9 @@
 # Rubiaceae
 
-[← Índice](../INDICE.md) · 0 de 40 especies con descripción.
+[← Índice](../INDICE.md) · 4 de 40 especies con descripción.
 
-- ⬜ [Coprosma oliveri](../Fichas/5174%20Coprosma%20oliveri.md) · 5174
-- ⬜ [Coprosma pyrifolia](../Fichas/5175%20Coprosma%20pyrifolia.md) · 5175
+- ✅ [Coprosma oliveri](../Fichas/5174%20Coprosma%20oliveri.md) · 5174
+- ✅ [Coprosma pyrifolia](../Fichas/5175%20Coprosma%20pyrifolia.md) · 5175
 - ⬜ [Cruckshanksia hymenodon](../Fichas/5176%20Cruckshanksia%20hymenodon.md) · 5176
 - ⬜ [Cruckshanksia lithiophila](../Fichas/5177%20Cruckshanksia%20lithiophila.md) · 5177
 - ⬜ [Cruckshanksia macrantha](../Fichas/5178%20Cruckshanksia%20macrantha.md) · 5178
@@ -24,9 +24,9 @@
 - ⬜ [Galium gilliesii subsp. telanthos](../Fichas/5193%20Galium%20gilliesii%20subsp.%20telanthos.md) · 5193
 - ⬜ [Galium hypocarpium subsp. hypocarpium](../Fichas/5194%20Galium%20hypocarpium%20subsp.%20hypocarpium.md) · 5194
 - ⬜ [Galium inconspicuum](../Fichas/5195%20Galium%20inconspicuum.md) · 5195
-- ⬜ [Galium leptum](../Fichas/5196%20Galium%20leptum.md) · 5196
+- ✅ [Galium leptum](../Fichas/5196%20Galium%20leptum.md) · 5196
 - ⬜ [Galium magellanicum](../Fichas/5197%20Galium%20magellanicum.md) · 5197
-- ⬜ [Galium masafueranum](../Fichas/5198%20Galium%20masafueranum.md) · 5198
+- ✅ [Galium masafueranum](../Fichas/5198%20Galium%20masafueranum.md) · 5198
 - ⬜ [Galium murale](../Fichas/5199%20Galium%20murale.md) · 5199
 - ⬜ [Galium ovalleanum](../Fichas/5200%20Galium%20ovalleanum.md) · 5200
 - ⬜ [Galium parisiense](../Fichas/5201%20Galium%20parisiense.md) · 5201

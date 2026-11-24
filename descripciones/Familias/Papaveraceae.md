@@ -1,8 +1,8 @@
 # Papaveraceae
 
-[← Índice](../INDICE.md) · 0 de 14 especies con descripción.
+[← Índice](../INDICE.md) · 1 de 14 especies con descripción.
 
-- ⬜ [Argemone crassifolia](../Fichas/4801%20Argemone%20crassifolia.md) · 4801
+- ✅ [Argemone crassifolia](../Fichas/4801%20Argemone%20crassifolia.md) · 4801
 - ⬜ [Argemone hunnemannii](../Fichas/4802%20Argemone%20hunnemannii.md) · 4802
 - ⬜ [Argemone rosea](../Fichas/4803%20Argemone%20rosea.md) · 4803
 - ⬜ [Argemone subfusiformis](../Fichas/4804%20Argemone%20subfusiformis.md) · 4804

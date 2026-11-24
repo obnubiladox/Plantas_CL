@@ -1,6 +1,6 @@
 # Verbenaceae
 
-[← Índice](../INDICE.md) · 0 de 68 especies con descripción.
+[← Índice](../INDICE.md) · 4 de 68 especies con descripción.
 
 - ⬜ [Aloysia deserticola](../Fichas/5515%20Aloysia%20deserticola.md) · 5515
 - ⬜ [Aloysia gratissima](../Fichas/5516%20Aloysia%20gratissima.md) · 5516
@@ -46,7 +46,7 @@
 - ⬜ [Junellia trifurcata](../Fichas/5557%20Junellia%20trifurcata.md) · 5557
 - ⬜ [Junellia ulicina](../Fichas/5558%20Junellia%20ulicina.md) · 5558
 - ⬜ [Junellia uniflora](../Fichas/5559%20Junellia%20uniflora.md) · 5559
-- ⬜ [Lampayo hieronymi](../Fichas/5560%20Lampayo%20hieronymi.md) · 5560
+- ✅ [Lampayo hieronymi](../Fichas/5560%20Lampayo%20hieronymi.md) · 5560
 - ⬜ [Lampayo medicinalis](../Fichas/5561%20Lampayo%20medicinalis.md) · 5561
 - ⬜ [Lantana camara](../Fichas/5562%20Lantana%20camara.md) · 5562
 - ⬜ [Lippia fragrans](../Fichas/5563%20Lippia%20fragrans.md) · 5563
@@ -54,16 +54,16 @@
 - ⬜ [Mulguraea arequipensis](../Fichas/5565%20Mulguraea%20arequipensis.md) · 5565
 - ⬜ [Mulguraea asparagoides](../Fichas/5566%20Mulguraea%20asparagoides.md) · 5566
 - ⬜ [Mulguraea cinerascens](../Fichas/5567%20Mulguraea%20cinerascens.md) · 5567
-- ⬜ [Mulguraea hystrix](../Fichas/5568%20Mulguraea%20hystrix.md) · 5568
+- ✅ [Mulguraea hystrix](../Fichas/5568%20Mulguraea%20hystrix.md) · 5568
 - ⬜ [Mulguraea ligustrina var. ligustrina](../Fichas/5754%20Mulguraea%20ligustrina%20var.%20ligustrina.md) · 5754
 - ⬜ [Mulguraea scoparia](../Fichas/5569%20Mulguraea%20scoparia.md) · 5569
-- ⬜ [Mulguraea tridens](../Fichas/5570%20Mulguraea%20tridens.md) · 5570
+- ✅ [Mulguraea tridens](../Fichas/5570%20Mulguraea%20tridens.md) · 5570
 - ⬜ [Phyla nodiflora var. minor](../Fichas/5571%20Phyla%20nodiflora%20var.%20minor.md) · 5571
 - ⬜ [Phyla nodiflora var. nodiflora](../Fichas/5572%20Phyla%20nodiflora%20var.%20nodiflora.md) · 5572
 - ⬜ [Phyla nodiflora var. reptans](../Fichas/5713%20Phyla%20nodiflora%20var.%20reptans.md) · 5713
 - ⬜ [Pitraea cuneato-ovata](../Fichas/5573%20Pitraea%20cuneato-ovata.md) · 5573
 - ⬜ [Rhaphithamnus spinosus](../Fichas/5574%20Rhaphithamnus%20spinosus.md) · 5574
-- ⬜ [Rhaphithamnus venustus](../Fichas/5575%20Rhaphithamnus%20venustus.md) · 5575
+- ✅ [Rhaphithamnus venustus](../Fichas/5575%20Rhaphithamnus%20venustus.md) · 5575
 - ⬜ [Verbena bonariensis](../Fichas/5576%20Verbena%20bonariensis.md) · 5576
 - ⬜ [Verbena cuneifolia](../Fichas/5577%20Verbena%20cuneifolia.md) · 5577
 - ⬜ [Verbena hispida](../Fichas/5578%20Verbena%20hispida.md) · 5578

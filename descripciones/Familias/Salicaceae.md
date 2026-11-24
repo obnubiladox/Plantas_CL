@@ -1,6 +1,6 @@
 # Salicaceae
 
-[← Índice](../INDICE.md) · 0 de 17 especies con descripción.
+[← Índice](../INDICE.md) · 2 de 17 especies con descripción.
 
 - ⬜ [Azara alpina](../Fichas/5218%20Azara%20alpina.md) · 5218
 - ⬜ [Azara celastrina](../Fichas/5219%20Azara%20celastrina.md) · 5219
@@ -9,8 +9,8 @@
 - ⬜ [Azara lanceolata](../Fichas/5222%20Azara%20lanceolata.md) · 5222
 - ⬜ [Azara microphylla](../Fichas/5223%20Azara%20microphylla.md) · 5223
 - ⬜ [Azara petiolaris](../Fichas/5224%20Azara%20petiolaris.md) · 5224
-- ⬜ [Azara serrata var. fernandeziana](../Fichas/5225%20Azara%20serrata%20var.%20fernandeziana.md) · 5225
-- ⬜ [Azara serrata var. serrata](../Fichas/5226%20Azara%20serrata%20var.%20serrata.md) · 5226
+- ✅ [Azara serrata var. fernandeziana](../Fichas/5225%20Azara%20serrata%20var.%20fernandeziana.md) · 5225
+- ✅ [Azara serrata var. serrata](../Fichas/5226%20Azara%20serrata%20var.%20serrata.md) · 5226
 - ⬜ [Populus nigra](../Fichas/5227%20Populus%20nigra.md) · 5227
 - ⬜ [Salix alba](../Fichas/5228%20Salix%20alba.md) · 5228
 - ⬜ [Salix babylonica](../Fichas/5229%20Salix%20babylonica.md) · 5229

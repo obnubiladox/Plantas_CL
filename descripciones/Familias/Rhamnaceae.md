@@ -1,9 +1,9 @@
 # Rhamnaceae
 
-[← Índice](../INDICE.md) · 0 de 12 especies con descripción.
+[← Índice](../INDICE.md) · 1 de 12 especies con descripción.
 
 - ⬜ [Colletia hystrix](../Fichas/5103%20Colletia%20hystrix.md) · 5103
-- ⬜ [Colletia spartioides](../Fichas/5104%20Colletia%20spartioides.md) · 5104
+- ✅ [Colletia spartioides](../Fichas/5104%20Colletia%20spartioides.md) · 5104
 - ⬜ [Colletia ulicina](../Fichas/5105%20Colletia%20ulicina.md) · 5105
 - ⬜ [Discaria articulata](../Fichas/5106%20Discaria%20articulata.md) · 5106
 - ⬜ [Discaria chacaye](../Fichas/5107%20Discaria%20chacaye.md) · 5107

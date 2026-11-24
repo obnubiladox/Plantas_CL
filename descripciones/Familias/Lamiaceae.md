@@ -1,11 +1,11 @@
 # Lamiaceae
 
-[← Índice](../INDICE.md) · 0 de 46 especies con descripción.
+[← Índice](../INDICE.md) · 4 de 46 especies con descripción.
 
-- ⬜ [Cuminia eriantha](../Fichas/4307%20Cuminia%20eriantha.md) · 4307
+- ✅ [Cuminia eriantha](../Fichas/4307%20Cuminia%20eriantha.md) · 4307
 - ⬜ [Galeopsis tetrahit](../Fichas/4308%20Galeopsis%20tetrahit.md) · 4308
 - ⬜ [Gardoquia gilliesii](../Fichas/4309%20Gardoquia%20gilliesii.md) · 4309
-- ⬜ [Gardoquia multiflora](../Fichas/4310%20Gardoquia%20multiflora.md) · 4310
+- ✅ [Gardoquia multiflora](../Fichas/4310%20Gardoquia%20multiflora.md) · 4310
 - ⬜ [Glechoma hederacea](../Fichas/4311%20Glechoma%20hederacea.md) · 4311
 - ⬜ [Kurzamra pulchella](../Fichas/4312%20Kurzamra%20pulchella.md) · 4312
 - ⬜ [Lamium amplexicaule](../Fichas/4313%20Lamium%20amplexicaule.md) · 4313
@@ -28,11 +28,11 @@
 - ⬜ [Prunella vulgaris](../Fichas/4328%20Prunella%20vulgaris.md) · 4328
 - ⬜ [Salvia cuspidata subsp. gilliesii](../Fichas/4329%20Salvia%20cuspidata%20subsp.%20gilliesii.md) · 4329
 - ⬜ [Salvia rhombifolia](../Fichas/4330%20Salvia%20rhombifolia.md) · 4330
-- ⬜ [Salvia tubiflora](../Fichas/4331%20Salvia%20tubiflora.md) · 4331
+- ✅ [Salvia tubiflora](../Fichas/4331%20Salvia%20tubiflora.md) · 4331
 - ⬜ [Salvia verbenaca](../Fichas/4332%20Salvia%20verbenaca.md) · 4332
 - ⬜ [Scutellaria nummulariifolia](../Fichas/4333%20Scutellaria%20nummulariifolia.md) · 4333
 - ⬜ [Scutellaria racemosa](../Fichas/4334%20Scutellaria%20racemosa.md) · 4334
-- ⬜ [Scutellaria valdiviana](../Fichas/4335%20Scutellaria%20valdiviana.md) · 4335
+- ✅ [Scutellaria valdiviana](../Fichas/4335%20Scutellaria%20valdiviana.md) · 4335
 - ⬜ [Stachys albicaulis](../Fichas/4336%20Stachys%20albicaulis.md) · 4336
 - ⬜ [Stachys arvensis](../Fichas/4337%20Stachys%20arvensis.md) · 4337
 - ⬜ [Stachys bridgesii](../Fichas/4338%20Stachys%20bridgesii.md) · 4338

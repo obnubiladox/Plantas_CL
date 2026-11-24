@@ -1,11 +1,11 @@
 # Ranunculaceae
 
-[← Índice](../INDICE.md) · 0 de 50 especies con descripción.
+[← Índice](../INDICE.md) · 2 de 50 especies con descripción.
 
 - ⬜ [Anemonastrum antucense](../Fichas/5047%20Anemonastrum%20antucense.md) · 5047
 - ⬜ [Anemone decapetala var. decapetala](../Fichas/5048%20Anemone%20decapetala%20var.%20decapetala.md) · 5048
 - ⬜ [Anemone hepaticifolia](../Fichas/5050%20Anemone%20hepaticifolia.md) · 5050
-- ⬜ [Anemone moorei](../Fichas/5051%20Anemone%20moorei.md) · 5051
+- ✅ [Anemone moorei](../Fichas/5051%20Anemone%20moorei.md) · 5051
 - ⬜ [Anemone multifida](../Fichas/5052%20Anemone%20multifida.md) · 5052
 - ⬜ [Anemone rigida](../Fichas/5053%20Anemone%20rigida.md) · 5053
 - ⬜ [Anemone triternata](../Fichas/5049%20Anemone%20triternata.md) · 5049
@@ -34,7 +34,7 @@
 - ⬜ [Ranunculus arvensis](../Fichas/5076%20Ranunculus%20arvensis.md) · 5076
 - ⬜ [Ranunculus biternatus](../Fichas/5077%20Ranunculus%20biternatus.md) · 5077
 - ⬜ [Ranunculus bonariensis var. trisepalus](../Fichas/5078%20Ranunculus%20bonariensis%20var.%20trisepalus.md) · 5078
-- ⬜ [Ranunculus caprarum](../Fichas/5079%20Ranunculus%20caprarum.md) · 5079
+- ✅ [Ranunculus caprarum](../Fichas/5079%20Ranunculus%20caprarum.md) · 5079
 - ⬜ [Ranunculus chilensis](../Fichas/5080%20Ranunculus%20chilensis.md) · 5080
 - ⬜ [Ranunculus flagelliformis](../Fichas/5081%20Ranunculus%20flagelliformis.md) · 5081
 - ⬜ [Ranunculus fuegianus](../Fichas/5082%20Ranunculus%20fuegianus.md) · 5082

@@ -1,6 +1,6 @@
 # Dioscoreaceae
 
-[← Índice](../INDICE.md) · 0 de 32 especies con descripción.
+[← Índice](../INDICE.md) · 1 de 32 especies con descripción.
 
 - ⬜ [Dioscorea acerifolia](../Fichas/814%20Dioscorea%20acerifolia.md) · 814
 - ⬜ [Dioscorea andina](../Fichas/815%20Dioscorea%20andina.md) · 815
@@ -22,7 +22,7 @@
 - ⬜ [Dioscorea humilis subsp. humilis](../Fichas/831%20Dioscorea%20humilis%20subsp.%20humilis.md) · 831
 - ⬜ [Dioscorea humilis subsp. polyanthes](../Fichas/832%20Dioscorea%20humilis%20subsp.%20polyanthes.md) · 832
 - ⬜ [Dioscorea litoralis](../Fichas/833%20Dioscorea%20litoralis.md) · 833
-- ⬜ [Dioscorea longipes](../Fichas/834%20Dioscorea%20longipes.md) · 834
+- ✅ [Dioscorea longipes](../Fichas/834%20Dioscorea%20longipes.md) · 834
 - ⬜ [Dioscorea nana](../Fichas/835%20Dioscorea%20nana.md) · 835
 - ⬜ [Dioscorea oligophylla](../Fichas/836%20Dioscorea%20oligophylla.md) · 836
 - ⬜ [Dioscorea paupera](../Fichas/837%20Dioscorea%20paupera.md) · 837

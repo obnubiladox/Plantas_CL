@@ -1,6 +1,6 @@
 # Oxalidaceae
 
-[← Índice](../INDICE.md) · 0 de 63 especies con descripción.
+[← Índice](../INDICE.md) · 4 de 63 especies con descripción.
 
 - ⬜ [Oxalis adenophylla](../Fichas/4741%20Oxalis%20adenophylla.md) · 4741
 - ⬜ [Oxalis arbuscula](../Fichas/4742%20Oxalis%20arbuscula.md) · 4742
@@ -12,7 +12,7 @@
 - ⬜ [Oxalis bifurcatifolia](../Fichas/5902%20Oxalis%20bifurcatifolia.md) · 5902
 - ⬜ [Oxalis brevis](../Fichas/5922%20Oxalis%20brevis.md) · 5922
 - ⬜ [Oxalis bulbocastanum](../Fichas/4748%20Oxalis%20bulbocastanum.md) · 4748
-- ⬜ [Oxalis caesia](../Fichas/4749%20Oxalis%20caesia.md) · 4749
+- ✅ [Oxalis caesia](../Fichas/4749%20Oxalis%20caesia.md) · 4749
 - ⬜ [Oxalis campanensis](../Fichas/4750%20Oxalis%20campanensis.md) · 4750
 - ⬜ [Oxalis cinerea](../Fichas/4751%20Oxalis%20cinerea.md) · 4751
 - ⬜ [Oxalis clandestina](../Fichas/4752%20Oxalis%20clandestina.md) · 4752
@@ -24,7 +24,7 @@
 - ⬜ [Oxalis debilis](../Fichas/4757%20Oxalis%20debilis.md) · 4757
 - ⬜ [Oxalis dumetorum](../Fichas/4758%20Oxalis%20dumetorum.md) · 4758
 - ⬜ [Oxalis enneaphylla](../Fichas/4759%20Oxalis%20enneaphylla.md) · 4759
-- ⬜ [Oxalis eremobia](../Fichas/4760%20Oxalis%20eremobia.md) · 4760
+- ✅ [Oxalis eremobia](../Fichas/4760%20Oxalis%20eremobia.md) · 4760
 - ⬜ [Oxalis ericoides](../Fichas/4761%20Oxalis%20ericoides.md) · 4761
 - ⬜ [Oxalis erythrorhiza](../Fichas/4762%20Oxalis%20erythrorhiza.md) · 4762
 - ⬜ [Oxalis gigantea](../Fichas/4763%20Oxalis%20gigantea.md) · 4763
@@ -35,7 +35,7 @@
 - ⬜ [Oxalis laciniata](../Fichas/4769%20Oxalis%20laciniata.md) · 4769
 - ⬜ [Oxalis laxa var. hispidissima](../Fichas/4770%20Oxalis%20laxa%20var.%20hispidissima.md) · 4770
 - ⬜ [Oxalis laxa var. laxa](../Fichas/4771%20Oxalis%20laxa%20var.%20laxa.md) · 4771
-- ⬜ [Oxalis leucophylla](../Fichas/4772%20Oxalis%20leucophylla.md) · 4772
+- ✅ [Oxalis leucophylla](../Fichas/4772%20Oxalis%20leucophylla.md) · 4772
 - ⬜ [Oxalis loricata](../Fichas/4773%20Oxalis%20loricata.md) · 4773
 - ⬜ [Oxalis magellanica](../Fichas/4774%20Oxalis%20magellanica.md) · 4774
 - ⬜ [Oxalis matancillae](../Fichas/4775%20Oxalis%20matancillae.md) · 4775
@@ -44,7 +44,7 @@
 - ⬜ [Oxalis morenoensis](../Fichas/4779%20Oxalis%20morenoensis.md) · 4779
 - ⬜ [Oxalis nahuelhuapiensis](../Fichas/4780%20Oxalis%20nahuelhuapiensis.md) · 4780
 - ⬜ [Oxalis neoincana](../Fichas/4767%20Oxalis%20neoincana.md) · 4767
-- ⬜ [Oxalis novemfoliolata](../Fichas/4781%20Oxalis%20novemfoliolata.md) · 4781
+- ✅ [Oxalis novemfoliolata](../Fichas/4781%20Oxalis%20novemfoliolata.md) · 4781
 - ⬜ [Oxalis ornithopus](../Fichas/4782%20Oxalis%20ornithopus.md) · 4782
 - ⬜ [Oxalis ovalleana](../Fichas/4783%20Oxalis%20ovalleana.md) · 4783
 - ⬜ [Oxalis pachyrrhiza](../Fichas/4784%20Oxalis%20pachyrrhiza.md) · 4784

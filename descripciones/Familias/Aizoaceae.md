@@ -1,6 +1,6 @@
 # Aizoaceae
 
-[← Índice](../INDICE.md) · 0 de 19 especies con descripción.
+[← Índice](../INDICE.md) · 1 de 19 especies con descripción.
 
 - ⬜ [Aptenia cordifolia](../Fichas/5876%20Aptenia%20cordifolia.md) · 5876
 - ⬜ [Carpobrotus chilensis](../Fichas/1621%20Carpobrotus%20chilensis.md) · 1621
@@ -18,6 +18,6 @@
 - ⬜ [Tetragonia maritima](../Fichas/1631%20Tetragonia%20maritima.md) · 1631
 - ⬜ [Tetragonia microcarpa](../Fichas/1632%20Tetragonia%20microcarpa.md) · 1632
 - ⬜ [Tetragonia ovata](../Fichas/1633%20Tetragonia%20ovata.md) · 1633
-- ⬜ [Tetragonia pedunculata](../Fichas/1634%20Tetragonia%20pedunculata.md) · 1634
+- ✅ [Tetragonia pedunculata](../Fichas/1634%20Tetragonia%20pedunculata.md) · 1634
 - ⬜ [Tetragonia tetragonoides](../Fichas/1635%20Tetragonia%20tetragonoides.md) · 1635
 - ⬜ [Trianthema portulacastrum](../Fichas/1636%20Trianthema%20portulacastrum.md) · 1636
